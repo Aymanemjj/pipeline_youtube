@@ -1,5 +1,7 @@
 import os
 import pprint as pr
+import json
+from textwrap import indent
 
 import requests as rqst
 from dotenv import load_dotenv
@@ -10,8 +12,6 @@ BASE_URL = os.getenv("BASE_URL")
 API_KEY = os.getenv("API_KEY")
 CHANNEL_HANDLE = os.getenv("CHANNEL_HANDLE")
 
-#Temp JSON file for video IDs
-VID_ID_JSON = open("../data/vid_id.txt","w")
 
 
 # Params for each request
@@ -28,7 +28,11 @@ get_playlist_details = {
     "maxResults": 50,
 }
 
-
+get_video_details = {
+    "key" : API_KEY,
+    "part" : "contentDetails,statistics",
+    "id":None
+}
 
 
 def getCreatorPlaylist(params):
@@ -43,25 +47,38 @@ def getPlaylistDetails(playlist_id, params):
     r = rqst.get(BASE_URL + "/playlistItems", params)
     return r.json()
 
-def loadVidIdToJson(json):
-    for i in json:
-        VID_ID_JSON.write(f"{i["contentDetails"]["videoId"]}\n")
-    
 
+def getVidDetails(json):
+    L = []
+    for i in json:
+        L.append(i["contentDetails"]["videoId"])
+    ids = ",".join(L)
+    get_video_details["id"]=ids
+    r = rqst.get(BASE_URL + "/videos",get_video_details)
+    # pr.pprint(r.status_code)
+    return r.json()["items"]
+
+    
+def loadVidIdToJson(list):
+    for i in list:
+        del i["etag"], i["contentDetails"]["caption"], i["contentDetails"]["contentRating"], i["statistics"]["favoriteCount"]
+    json.dump(list, VID_DATA_FILE, ensure_ascii=False, indent=4)
+
+        
 PLAYLIST_ID = getCreatorPlaylist(get_creator_playlist)
 
 
+#Temp .txt file for video IDs
+with open("../data/vid_data.json","w", encoding='utf-8') as VID_DATA_FILE:
+    while True:
+        response = getPlaylistDetails(PLAYLIST_ID, get_playlist_details)
+        # pr.pprint(response["items"])
+        items = getVidDetails(response['items'])
+        loadVidIdToJson(items)
+        # pr.pprint(response)
+        if "nextPageToken" not in response:
+            break
+        else:
+            get_playlist_details["pageToken"] = response["nextPageToken"]
 
-while True:
-    response = getPlaylistDetails(PLAYLIST_ID, get_playlist_details)
-    
-    loadVidIdToJson(response["items"])
-    # pr.pprint(response)
-    if "nextPageToken" not in response:
-        break
-    else:
-        get_playlist_details["pageToken"] = response["nextPageToken"]
 
-
-    
-VID_ID_JSON.close()
