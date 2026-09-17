@@ -92,8 +92,10 @@ def make_core_table():
 
 
 def load_to_core(df):
+    if df.empty:
+        return
     records = df.values.tolist()
-
+    ids = df["videoId"].tolist()
     execute_values(
         cur,
         """
@@ -112,4 +114,11 @@ def load_to_core(df):
         """,
         records,
     )
+
+
+    cur.execute(
+        """DELETE FROM videos_core WHERE "videoId" != ALL(%s)""",
+        (ids,)
+    )
+
     conn.commit()
