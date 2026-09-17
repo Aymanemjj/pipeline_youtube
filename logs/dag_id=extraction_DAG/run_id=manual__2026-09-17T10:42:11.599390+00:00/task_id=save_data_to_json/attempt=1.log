@@ -1,0 +1,41 @@
+[2026-09-17T10:42:39.516+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-09-17T10:42:39.530+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: extraction_DAG.save_data_to_json manual__2026-09-17T10:42:11.599390+00:00 [queued]>
+[2026-09-17T10:42:39.536+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: extraction_DAG.save_data_to_json manual__2026-09-17T10:42:11.599390+00:00 [queued]>
+[2026-09-17T10:42:39.536+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2026-09-17T10:42:39.661+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): save_data_to_json> on 2026-09-17 10:42:11.599390+00:00
+[2026-09-17T10:42:39.667+0000] {warnings.py:112} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=2253) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2026-09-17T10:42:39.668+0000] {standard_task_runner.py:63} INFO - Started process 2255 to run task
+[2026-09-17T10:42:39.668+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'extraction_DAG', 'save_data_to_json', 'manual__2026-09-17T10:42:11.599390+00:00', '--job-id', '30', '--raw', '--subdir', 'DAGS_FOLDER/extraction_DAG.py', '--cfg-path', '/tmp/tmp3m24uq64']
+[2026-09-17T10:42:39.669+0000] {standard_task_runner.py:91} INFO - Job 30: Subtask save_data_to_json
+[2026-09-17T10:42:39.696+0000] {task_command.py:426} INFO - Running <TaskInstance: extraction_DAG.save_data_to_json manual__2026-09-17T10:42:11.599390+00:00 [running]> on host 2743b649566e
+[2026-09-17T10:42:39.818+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='extraction_DAG' AIRFLOW_CTX_TASK_ID='save_data_to_json' AIRFLOW_CTX_EXECUTION_DATE='2026-09-17T10:42:11.599390+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-09-17T10:42:11.599390+00:00'
+[2026-09-17T10:42:39.819+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-09-17T10:42:39.827+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-09-17T10:42:39.828+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/include/extract.py", line 100, in save_to_json
+    with open(f"../data/{datetime.now()}.json","w", encoding='utf-8') as VID_DATA_FILE:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '../data/2026-09-17 10:42:39.827741.json'
+[2026-09-17T10:42:39.833+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=extraction_DAG, task_id=save_data_to_json, run_id=manual__2026-09-17T10:42:11.599390+00:00, execution_date=20260917T104211, start_date=20260917T104239, end_date=20260917T104239
+[2026-09-17T10:42:39.840+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 30 for task save_data_to_json ([Errno 2] No such file or directory: '../data/2026-09-17 10:42:39.827741.json'; 2255)
+[2026-09-17T10:42:39.881+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2026-09-17T10:42:39.890+0000] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-09-17T10:42:39.891+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

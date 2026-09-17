@@ -1,0 +1,34 @@
+[2026-09-17T14:56:33.269+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-09-17T14:56:33.284+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: load_transform_data_DAG.transform_staged_data manual__2026-09-17T14:56:28.950486+00:00 [queued]>
+[2026-09-17T14:56:33.411+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: load_transform_data_DAG.transform_staged_data manual__2026-09-17T14:56:28.950486+00:00 [queued]>
+[2026-09-17T14:56:33.411+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2026-09-17T14:56:33.419+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): transform_staged_data> on 2026-09-17 14:56:28.950486+00:00
+[2026-09-17T14:56:33.425+0000] {warnings.py:112} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=5786) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2026-09-17T14:56:33.426+0000] {standard_task_runner.py:63} INFO - Started process 5788 to run task
+[2026-09-17T14:56:33.426+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'load_transform_data_DAG', 'transform_staged_data', 'manual__2026-09-17T14:56:28.950486+00:00', '--job-id', '87', '--raw', '--subdir', 'DAGS_FOLDER/transformation_DAG.py', '--cfg-path', '/tmp/tmp8mu8kp8z']
+[2026-09-17T14:56:33.428+0000] {standard_task_runner.py:91} INFO - Job 87: Subtask transform_staged_data
+[2026-09-17T14:56:33.453+0000] {task_command.py:426} INFO - Running <TaskInstance: load_transform_data_DAG.transform_staged_data manual__2026-09-17T14:56:28.950486+00:00 [running]> on host 2743b649566e
+[2026-09-17T14:56:33.516+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='load_transform_data_DAG' AIRFLOW_CTX_TASK_ID='transform_staged_data' AIRFLOW_CTX_EXECUTION_DATE='2026-09-17T14:56:28.950486+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-09-17T14:56:28.950486+00:00'
+[2026-09-17T14:56:33.517+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-09-17T14:56:33.525+0000] {logging_mixin.py:188} INFO - <class 'list'>
+[2026-09-17T14:56:33.534+0000] {python.py:237} INFO - Done. Returned value was:          videoId  ... commentCount
+0    DMuahT5Ae08  ...           70
+1    YAQJ5QPr7j4  ...          120
+2    YTe-cpDgyKs  ...           46
+3    _hxdZtXTDSw  ...           84
+4    j6Zt6cyJSXc  ...           78
+..           ...  ...          ...
+692  glGbw50Vn_g  ...            1
+693  YL-UeqCT83Y  ...            6
+694  2YSztlmgpks  ...            3
+695  iL--xqGgd0g  ...           13
+696  y5Fs9nOmFqE  ...            2
+
+[697 rows x 7 columns]
+[2026-09-17T14:56:33.543+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-09-17T14:56:33.570+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=load_transform_data_DAG, task_id=transform_staged_data, run_id=manual__2026-09-17T14:56:28.950486+00:00, execution_date=20260917T145628, start_date=20260917T145633, end_date=20260917T145633
+[2026-09-17T14:56:33.599+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2026-09-17T14:56:33.614+0000] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2026-09-17T14:56:33.615+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

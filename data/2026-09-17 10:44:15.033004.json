@@ -1,0 +1,6275 @@
+[
+    {
+        "videoId": "YTe-cpDgyKs",
+        "title": "Reusable Undo System - Tsoding",
+        "publishedAt": "2026-09-15T15:48:23Z",
+        "duration": "PT2H9M6S",
+        "viewCount": "40430",
+        "likeCount": "566",
+        "commentCount": "58"
+    },
+    {
+        "videoId": "_hxdZtXTDSw",
+        "title": "I finally Open Sourced my Project",
+        "publishedAt": "2026-09-11T14:44:36Z",
+        "duration": "PT1H54M7S",
+        "viewCount": "67919",
+        "likeCount": "236",
+        "commentCount": "85"
+    },
+    {
+        "videoId": "j6Zt6cyJSXc",
+        "title": "Parsing XML without Library - Tsoding",
+        "publishedAt": "2026-09-07T12:41:18Z",
+        "duration": "PT2H30M27S",
+        "viewCount": "64406",
+        "likeCount": "826",
+        "commentCount": "79"
+    },
+    {
+        "videoId": "580DxF2M7EE",
+        "title": "Integrating Emacs with Music Player",
+        "publishedAt": "2026-09-01T13:05:10Z",
+        "duration": "PT1H32M18S",
+        "viewCount": "44656",
+        "likeCount": "447",
+        "commentCount": "35"
+    },
+    {
+        "videoId": "eGvUK-3RmDs",
+        "title": "Issue Tracker in C",
+        "publishedAt": "2026-08-28T14:01:37Z",
+        "duration": "PT2H3M20S",
+        "viewCount": "104040",
+        "likeCount": "752",
+        "commentCount": "54"
+    },
+    {
+        "videoId": "NhceGp6VMhg",
+        "title": "Frequency Modulation (Dimooper II Ep.04)",
+        "publishedAt": "2026-08-19T15:08:05Z",
+        "duration": "PT2H30M56S",
+        "viewCount": "20263",
+        "likeCount": "571",
+        "commentCount": "69"
+    },
+    {
+        "videoId": "im2rlDgNlrQ",
+        "title": "Computer Keyboard as an Instrument (Dimooper II Ep.03)",
+        "publishedAt": "2026-08-10T20:56:37Z",
+        "duration": "PT1H19M17S",
+        "viewCount": "22257",
+        "likeCount": "952",
+        "commentCount": "95"
+    },
+    {
+        "videoId": "YhX4FF3uuLU",
+        "title": "Audio Programming - ADSR (Dimooper II Ep.02)",
+        "publishedAt": "2026-08-08T18:06:09Z",
+        "duration": "PT1H4M25S",
+        "viewCount": "23804",
+        "likeCount": "883",
+        "commentCount": "71"
+    },
+    {
+        "videoId": "VuYBu-GpBPQ",
+        "title": "Digital Music Looper (Dimooper II Ep.1)",
+        "publishedAt": "2026-08-04T16:43:57Z",
+        "duration": "PT3H47M34S",
+        "viewCount": "33358",
+        "likeCount": "772",
+        "commentCount": "85"
+    },
+    {
+        "videoId": "SWNqgv7w_cY",
+        "title": "Coding Playlist Shuffle Algorithm",
+        "publishedAt": "2026-08-01T16:43:53Z",
+        "duration": "PT1H39M55S",
+        "viewCount": "20372",
+        "likeCount": "596",
+        "commentCount": "71"
+    },
+    {
+        "videoId": "4vcA7yJMoPg",
+        "title": "IDE we forgot about",
+        "publishedAt": "2026-07-21T10:17:33Z",
+        "duration": "PT2H20M3S",
+        "viewCount": "69530",
+        "likeCount": "1922",
+        "commentCount": "452"
+    },
+    {
+        "videoId": "i3WsCXjl1Gg",
+        "title": "I switched to C and instantly grew my hair",
+        "publishedAt": "2026-07-15T13:45:26Z",
+        "duration": "PT1H41M59S",
+        "viewCount": "62695",
+        "likeCount": "1634",
+        "commentCount": "332"
+    },
+    {
+        "videoId": "S7FvdaMUTdc",
+        "title": "Making Adaptable Music Player",
+        "publishedAt": "2026-07-10T12:34:38Z",
+        "duration": "PT4H38M51S",
+        "viewCount": "31659",
+        "likeCount": "818",
+        "commentCount": "73"
+    },
+    {
+        "videoId": "6CHkSG9NWoc",
+        "title": "I tried Godot and instantly became a Rich Indie Dev",
+        "publishedAt": "2026-07-02T14:51:58Z",
+        "duration": "PT1H49M55S",
+        "viewCount": "170009",
+        "likeCount": "6470",
+        "commentCount": "618"
+    },
+    {
+        "videoId": "DMuahT5Ae08",
+        "title": "My approach to Parsing Command Line Arguments",
+        "publishedAt": "2026-06-30T15:31:59Z",
+        "duration": "PT2H55M47S",
+        "viewCount": "32733",
+        "likeCount": "661",
+        "commentCount": "70"
+    },
+    {
+        "videoId": "YAQJ5QPr7j4",
+        "title": "I lied about my Game",
+        "publishedAt": "2026-06-23T15:00:14Z",
+        "duration": "PT1H31M13S",
+        "viewCount": "35256",
+        "likeCount": "931",
+        "commentCount": "120"
+    },
+    {
+        "videoId": "sRGT90fqh4g",
+        "title": "Let's Talk about AppImage",
+        "publishedAt": "2026-06-21T15:07:17Z",
+        "duration": "PT1H31M56S",
+        "viewCount": "58253",
+        "likeCount": "2045",
+        "commentCount": "350"
+    },
+    {
+        "videoId": "NUhXMgXRBhw",
+        "title": "Harsh Reality of GameDev YouTuber",
+        "publishedAt": "2026-06-19T15:09:10Z",
+        "duration": "PT2H18M11S",
+        "viewCount": "33704",
+        "likeCount": "960",
+        "commentCount": "119"
+    },
+    {
+        "videoId": "1p3JUvYGnYw",
+        "title": "CTags vs ETags",
+        "publishedAt": "2026-06-13T14:35:27Z",
+        "duration": "PT1H20M50S",
+        "viewCount": "34596",
+        "likeCount": "1007",
+        "commentCount": "115"
+    },
+    {
+        "videoId": "JWIregr388Y",
+        "title": "Stealing ideas from NixOS",
+        "publishedAt": "2026-06-11T18:35:52Z",
+        "duration": "PT3H54M9S",
+        "viewCount": "63448",
+        "likeCount": "1316",
+        "commentCount": "167"
+    },
+    {
+        "videoId": "Mwp-uGCUZE4",
+        "title": "Glitch Shader Effect",
+        "publishedAt": "2026-06-06T15:32:29Z",
+        "duration": "PT2H13M21S",
+        "viewCount": "34583",
+        "likeCount": "1028",
+        "commentCount": "118"
+    },
+    {
+        "videoId": "VBNmDvTg260",
+        "title": "I was wrong about this Text Editor",
+        "publishedAt": "2026-06-04T11:05:30Z",
+        "duration": "PT2H24S",
+        "viewCount": "150014",
+        "likeCount": "3768",
+        "commentCount": "417"
+    },
+    {
+        "videoId": "sFW7OSHOwiA",
+        "title": "I rewrote my entire project in Jai",
+        "publishedAt": "2026-05-27T17:04:17Z",
+        "duration": "PT4H35M36S",
+        "viewCount": "63034",
+        "likeCount": "1400",
+        "commentCount": "178"
+    },
+    {
+        "videoId": "LT-1bp_ps68",
+        "title": "How do I zoom while programming",
+        "publishedAt": "2026-05-23T21:26:29Z",
+        "duration": "PT1H44M32S",
+        "viewCount": "37041",
+        "likeCount": "1206",
+        "commentCount": "121"
+    },
+    {
+        "videoId": "9wAFshF7Pu4",
+        "title": "How to Parse Python",
+        "publishedAt": "2026-05-18T16:37:31Z",
+        "duration": "PT4H27M44S",
+        "viewCount": "52819",
+        "likeCount": "1221",
+        "commentCount": "120"
+    },
+    {
+        "videoId": "aMPu_Fy756M",
+        "title": "Entity System in C",
+        "publishedAt": "2026-05-09T17:25:53Z",
+        "duration": "PT3H9M1S",
+        "viewCount": "48780",
+        "likeCount": "1115",
+        "commentCount": "89"
+    },
+    {
+        "videoId": "DWM59pDlUUs",
+        "title": "Beatboxing for 10 hours",
+        "publishedAt": "2026-05-05T18:40:28Z",
+        "duration": "PT10H32S",
+        "viewCount": "46845",
+        "likeCount": "3207",
+        "commentCount": "399"
+    },
+    {
+        "videoId": "0ebreGjhEvo",
+        "title": "Functional Programming of Balls",
+        "publishedAt": "2026-05-05T13:23:37Z",
+        "duration": "PT2H22M36S",
+        "viewCount": "52881",
+        "likeCount": "1383",
+        "commentCount": "137"
+    },
+    {
+        "videoId": "Selwqz5xI0M",
+        "title": "Data is Stored in Tarballs",
+        "publishedAt": "2026-05-01T14:19:11Z",
+        "duration": "PT2H12M48S",
+        "viewCount": "42551",
+        "likeCount": "1157",
+        "commentCount": "169"
+    },
+    {
+        "videoId": "1wkUyzUPo6Q",
+        "title": "Bindings Generator",
+        "publishedAt": "2026-04-24T17:13:47Z",
+        "duration": "PT2H44M39S",
+        "viewCount": "35733",
+        "likeCount": "864",
+        "commentCount": "62"
+    },
+    {
+        "videoId": "rLM-9jrA70o",
+        "title": "This is Better Than OCaml",
+        "publishedAt": "2026-04-21T15:24:26Z",
+        "duration": "PT3H8M4S",
+        "viewCount": "49892",
+        "likeCount": "1162",
+        "commentCount": "135"
+    },
+    {
+        "videoId": "iotrPxUnTdQ",
+        "title": "Reference Counting in C",
+        "publishedAt": "2026-04-16T14:36:27Z",
+        "duration": "PT2H17M14S",
+        "viewCount": "47446",
+        "likeCount": "1332",
+        "commentCount": "131"
+    },
+    {
+        "videoId": "tbPOFYwL7Ss",
+        "title": "Very Big Integers",
+        "publishedAt": "2026-04-12T14:50:39Z",
+        "duration": "PT1H41M47S",
+        "viewCount": "83250",
+        "likeCount": "2332",
+        "commentCount": "257"
+    },
+    {
+        "videoId": "HNX5AJGoOrU",
+        "title": "Collision Detection in C",
+        "publishedAt": "2026-04-09T15:12:37Z",
+        "duration": "PT3H27M40S",
+        "viewCount": "34871",
+        "likeCount": "937",
+        "commentCount": "136"
+    },
+    {
+        "videoId": "RtXQ5kHOpMo",
+        "title": "Raylib from Jai",
+        "publishedAt": "2026-04-04T14:08:50Z",
+        "duration": "PT2H27M2S",
+        "viewCount": "41593",
+        "likeCount": "1037",
+        "commentCount": "142"
+    },
+    {
+        "videoId": "_dVchhnO_KI",
+        "title": "A small C compiler",
+        "publishedAt": "2026-03-15T15:19:14Z",
+        "duration": "PT2H46M21S",
+        "viewCount": "80158",
+        "likeCount": "2163",
+        "commentCount": "173"
+    },
+    {
+        "videoId": "8NdRGmp70Go",
+        "title": "Compiler for a Query Language",
+        "publishedAt": "2026-03-12T15:57:55Z",
+        "duration": "PT2H10M25S",
+        "viewCount": "35159",
+        "likeCount": "949",
+        "commentCount": "98"
+    },
+    {
+        "videoId": "Ed3GLO90FVU",
+        "title": "Triangular Color Wheel in C",
+        "publishedAt": "2026-03-09T16:28:49Z",
+        "duration": "PT3H21M47S",
+        "viewCount": "35200",
+        "likeCount": "1063",
+        "commentCount": "100"
+    },
+    {
+        "videoId": "LW0VdufnCBQ",
+        "title": "Calculator GUI App in GTK",
+        "publishedAt": "2026-03-03T15:05:56Z",
+        "duration": "PT2H50M56S",
+        "viewCount": "58674",
+        "likeCount": "1425",
+        "commentCount": "155"
+    },
+    {
+        "videoId": "t4any72mFR0",
+        "title": "Library so BAD they Created a Language to fix it",
+        "publishedAt": "2026-02-28T13:58:57Z",
+        "duration": "PT2H2M30S",
+        "viewCount": "53215",
+        "likeCount": "1437",
+        "commentCount": "242"
+    },
+    {
+        "videoId": "3nedY-aq-wE",
+        "title": "GameDev in C - Figuring out UX for the Level Editor",
+        "publishedAt": "2026-02-23T14:09:35Z",
+        "duration": "PT2H15M37S",
+        "viewCount": "26673",
+        "likeCount": "690",
+        "commentCount": "66"
+    },
+    {
+        "videoId": "zwaT9myowuU",
+        "title": "Optimizing Engagement with Go",
+        "publishedAt": "2026-02-17T11:41:37Z",
+        "duration": "PT3H9M9S",
+        "viewCount": "33760",
+        "likeCount": "758",
+        "commentCount": "78"
+    },
+    {
+        "videoId": "JsfOXk7qmSM",
+        "title": "Email Spam Filter in Go",
+        "publishedAt": "2026-02-14T12:02:02Z",
+        "duration": "PT2H16M23S",
+        "viewCount": "44327",
+        "likeCount": "1335",
+        "commentCount": "174"
+    },
+    {
+        "videoId": "ZLaVglK9IKs",
+        "title": "GameDev in C - Quake-Style Console",
+        "publishedAt": "2026-02-07T14:00:37Z",
+        "duration": "PT2H9M21S",
+        "viewCount": "38249",
+        "likeCount": "1063",
+        "commentCount": "116"
+    },
+    {
+        "videoId": "l9hUGoN6BLM",
+        "title": "I tried Lean and instantly got PhD in Math",
+        "publishedAt": "2026-02-02T11:51:43Z",
+        "duration": "PT3H15M10S",
+        "viewCount": "127531",
+        "likeCount": "3438",
+        "commentCount": "371"
+    },
+    {
+        "videoId": "9qNIsuYjOe0",
+        "title": "Autodoc Tool in C",
+        "publishedAt": "2026-01-28T18:40:30Z",
+        "duration": "PT2H28M8S",
+        "viewCount": "36646",
+        "likeCount": "1000",
+        "commentCount": "116"
+    },
+    {
+        "videoId": "VMatzTGT8NI",
+        "title": "Clustering in C (DBSCAN)",
+        "publishedAt": "2026-01-24T17:23:50Z",
+        "duration": "PT4H5M24S",
+        "viewCount": "40609",
+        "likeCount": "1029",
+        "commentCount": "101"
+    },
+    {
+        "videoId": "Mxai0P3rUDk",
+        "title": "Type Reflections in Jai",
+        "publishedAt": "2026-01-20T16:26:26Z",
+        "duration": "PT1H31M42S",
+        "viewCount": "42153",
+        "likeCount": "1194",
+        "commentCount": "100"
+    },
+    {
+        "videoId": "wZQvuILq0xw",
+        "title": "This is Better Than Protobuf",
+        "publishedAt": "2026-01-16T14:18:48Z",
+        "duration": "PT1H43M34S",
+        "viewCount": "48492",
+        "likeCount": "1048",
+        "commentCount": "136"
+    },
+    {
+        "videoId": "Gu_L8MPvGJM",
+        "title": "Deciphering Academic Slop",
+        "publishedAt": "2026-01-12T14:34:22Z",
+        "duration": "PT2H6M33S",
+        "viewCount": "125784",
+        "likeCount": "4553",
+        "commentCount": "514"
+    },
+    {
+        "videoId": "kYXUka-TKiM",
+        "title": "Trying to do a Good Job in a Slop Economy",
+        "publishedAt": "2026-01-09T15:11:34Z",
+        "duration": "PT2H59M21S",
+        "viewCount": "42514",
+        "likeCount": "1079",
+        "commentCount": "120"
+    },
+    {
+        "videoId": "pK3xz5kWGHQ",
+        "title": "Recursive Directory Walker in C",
+        "publishedAt": "2026-01-05T15:23:54Z",
+        "duration": "PT3H19M6S",
+        "viewCount": "42728",
+        "likeCount": "1093",
+        "commentCount": "109"
+    },
+    {
+        "videoId": "G4Ugv18tJ5E",
+        "title": "Classy Little Scripting Language",
+        "publishedAt": "2026-01-02T10:25:14Z",
+        "duration": "PT3H35M8S",
+        "viewCount": "54533",
+        "likeCount": "1483",
+        "commentCount": "183"
+    },
+    {
+        "videoId": "K7-p3rQd6zk",
+        "title": "GameDev in C - Logging System",
+        "publishedAt": "2025-12-29T10:56:35Z",
+        "duration": "PT2H16M43S",
+        "viewCount": "41322",
+        "likeCount": "1274",
+        "commentCount": "88"
+    },
+    {
+        "videoId": "iVKhLBrQOQE",
+        "title": "Objective-C on Linux",
+        "publishedAt": "2025-12-21T15:02:33Z",
+        "duration": "PT2H35M22S",
+        "viewCount": "54266",
+        "likeCount": "1631",
+        "commentCount": "268"
+    },
+    {
+        "videoId": "KuVUfbWoROw",
+        "title": "Smallest Pure Functional Language in C",
+        "publishedAt": "2025-12-16T13:00:37Z",
+        "duration": "PT3H23M1S",
+        "viewCount": "68182",
+        "likeCount": "1901",
+        "commentCount": "168"
+    },
+    {
+        "videoId": "Hp44EqxlML8",
+        "title": "What if we just write C instead of Regexps",
+        "publishedAt": "2025-12-11T14:51:35Z",
+        "duration": "PT2H38M49S",
+        "viewCount": "46135",
+        "likeCount": "1183",
+        "commentCount": "183"
+    },
+    {
+        "videoId": "QH6KOEVnSZA",
+        "title": "I wrote an Emacs plugin",
+        "publishedAt": "2025-12-05T13:34:36Z",
+        "duration": "PT2H18M8S",
+        "viewCount": "50891",
+        "likeCount": "1349",
+        "commentCount": "166"
+    },
+    {
+        "videoId": "XiZcZl4lWSc",
+        "title": "Software Rendered Game in C on Linux",
+        "publishedAt": "2025-12-02T14:36:03Z",
+        "duration": "PT2H50M33S",
+        "viewCount": "41079",
+        "likeCount": "1119",
+        "commentCount": "111"
+    },
+    {
+        "videoId": "IA-QzNmn_i8",
+        "title": "I streamed Programming on Kick",
+        "publishedAt": "2025-11-28T15:15:35Z",
+        "duration": "PT1H30M29S",
+        "viewCount": "35104",
+        "likeCount": "1163",
+        "commentCount": "168"
+    },
+    {
+        "videoId": "pCkk97b00lo",
+        "title": "I did Motion Design in C",
+        "publishedAt": "2025-11-24T16:02:42Z",
+        "duration": "PT3H53M12S",
+        "viewCount": "36085",
+        "likeCount": "965",
+        "commentCount": "90"
+    },
+    {
+        "videoId": "3m9uPtNC3t4",
+        "title": "I tried Protobuf after 17 years of ignoring it",
+        "publishedAt": "2025-11-20T14:20:08Z",
+        "duration": "PT2H22M47S",
+        "viewCount": "100445",
+        "likeCount": "2378",
+        "commentCount": "320"
+    },
+    {
+        "videoId": "PHP2_5Eucx0",
+        "title": "Line Boil Effect in C",
+        "publishedAt": "2025-11-17T13:17:00Z",
+        "duration": "PT1H54M32S",
+        "viewCount": "22057",
+        "likeCount": "739",
+        "commentCount": "54"
+    },
+    {
+        "videoId": "4PMu9MFIj_g",
+        "title": "This language is so Bad it's actually Good",
+        "publishedAt": "2025-11-13T11:04:35Z",
+        "duration": "PT2H1M12S",
+        "viewCount": "35517",
+        "likeCount": "895",
+        "commentCount": "90"
+    },
+    {
+        "videoId": "0o8Ex8mXigU",
+        "title": "This Library is a Hidden Gem",
+        "publishedAt": "2025-11-07T10:17:58Z",
+        "duration": "PT1H34M17S",
+        "viewCount": "91369",
+        "likeCount": "3016",
+        "commentCount": "163"
+    },
+    {
+        "videoId": "qBErwx9Lpx4",
+        "title": "Fundamental Font Library",
+        "publishedAt": "2025-11-04T15:16:41Z",
+        "duration": "PT3H44M56S",
+        "viewCount": "28617",
+        "likeCount": "782",
+        "commentCount": "55"
+    },
+    {
+        "videoId": "wRnJgrOcjqg",
+        "title": "Actually Typed Scripting Language?!",
+        "publishedAt": "2025-11-01T09:50:00Z",
+        "duration": "PT2H3M11S",
+        "viewCount": "58444",
+        "likeCount": "1611",
+        "commentCount": "171"
+    },
+    {
+        "videoId": "AwWEeLf4bvU",
+        "title": "Parsing 3D files",
+        "publishedAt": "2025-10-29T11:33:01Z",
+        "duration": "PT1H21M2S",
+        "viewCount": "27871",
+        "likeCount": "893",
+        "commentCount": "75"
+    },
+    {
+        "videoId": "3YXxsEWMldo",
+        "title": "This C library powers Node.js",
+        "publishedAt": "2025-10-26T13:16:43Z",
+        "duration": "PT2H1M19S",
+        "viewCount": "73298",
+        "likeCount": "1979",
+        "commentCount": "150"
+    },
+    {
+        "videoId": "1epwf3iaQNU",
+        "title": "Rasterizing Splines in C (from fundamentals)",
+        "publishedAt": "2025-10-22T13:14:50Z",
+        "duration": "PT3H13M20S",
+        "viewCount": "31977",
+        "likeCount": "977",
+        "commentCount": "154"
+    },
+    {
+        "videoId": "0rUBhqR6ckw",
+        "title": "Tiny GLFW killer - Battle Test",
+        "publishedAt": "2025-10-17T16:04:29Z",
+        "duration": "PT3H46M8S",
+        "viewCount": "35077",
+        "likeCount": "821",
+        "commentCount": "96"
+    },
+    {
+        "videoId": "qEncl6tdnYo",
+        "title": "This C++ feature changes everything (again)",
+        "publishedAt": "2025-10-11T11:09:40Z",
+        "duration": "PT1H42M28S",
+        "viewCount": "61057",
+        "likeCount": "1412",
+        "commentCount": "255"
+    },
+    {
+        "videoId": "aBYqGD41E9g",
+        "title": "Asio C++ Library - First Impression",
+        "publishedAt": "2025-10-08T11:38:02Z",
+        "duration": "PT3H11M54S",
+        "viewCount": "65071",
+        "likeCount": "1585",
+        "commentCount": "171"
+    },
+    {
+        "videoId": "kwMkrehm-Jg",
+        "title": "Packing game assets into a binary file",
+        "publishedAt": "2025-10-05T10:57:34Z",
+        "duration": "PT2H27M41S",
+        "viewCount": "29307",
+        "likeCount": "714",
+        "commentCount": "68"
+    },
+    {
+        "videoId": "pz3UgkyhgXk",
+        "title": "Worst Way to Write a Parser",
+        "publishedAt": "2025-10-03T13:28:29Z",
+        "duration": "PT2H35M41S",
+        "viewCount": "50671",
+        "likeCount": "1206",
+        "commentCount": "168"
+    },
+    {
+        "videoId": "U60lzx_-WW8",
+        "title": "Diffuse Lighting on CPU",
+        "publishedAt": "2025-09-29T10:02:07Z",
+        "duration": "PT2H8M53S",
+        "viewCount": "23410",
+        "likeCount": "810",
+        "commentCount": "92"
+    },
+    {
+        "videoId": "4JpgbdESzIU",
+        "title": "Stealing ideas from Go",
+        "publishedAt": "2025-09-28T14:16:45Z",
+        "duration": "PT2H10M49S",
+        "viewCount": "41230",
+        "likeCount": "958",
+        "commentCount": "89"
+    },
+    {
+        "videoId": "dCzo86OgxEg",
+        "title": "No-GPU graphics - Back-face Culling",
+        "publishedAt": "2025-09-26T10:49:56Z",
+        "duration": "PT1H35M8S",
+        "viewCount": "27994",
+        "likeCount": "985",
+        "commentCount": "91"
+    },
+    {
+        "videoId": "EMT6NnOpfXs",
+        "title": "Code Review - GNU bc",
+        "publishedAt": "2025-09-24T10:54:38Z",
+        "duration": "PT2H39S",
+        "viewCount": "83222",
+        "likeCount": "2269",
+        "commentCount": "299"
+    },
+    {
+        "videoId": "K9V8UA-oJBE",
+        "title": "Fart Button in JavaScript (Full Course)",
+        "publishedAt": "2025-09-21T08:04:42Z",
+        "duration": "PT2H4M17S",
+        "viewCount": "36729",
+        "likeCount": "1482",
+        "commentCount": "154"
+    },
+    {
+        "videoId": "9apMF3Dpcuw",
+        "title": "What if JS was like C?",
+        "publishedAt": "2025-09-16T11:09:21Z",
+        "duration": "PT1H57M58S",
+        "viewCount": "25846",
+        "likeCount": "743",
+        "commentCount": "79"
+    },
+    {
+        "videoId": "7uVhfiwcWZ8",
+        "title": "I compiled JS into x86_64 Assembly",
+        "publishedAt": "2025-09-09T15:03:44Z",
+        "duration": "PT3H6M57S",
+        "viewCount": "27971",
+        "likeCount": "902",
+        "commentCount": "92"
+    },
+    {
+        "videoId": "HDGsRFgRG5o",
+        "title": "Don't show this to Rust devs",
+        "publishedAt": "2025-09-05T13:57:26Z",
+        "duration": "PT2H10M4S",
+        "viewCount": "32026",
+        "likeCount": "1033",
+        "commentCount": "111"
+    },
+    {
+        "videoId": "MMB6pfJsx64",
+        "title": "No-GPU graphics - Near Clipping Plane",
+        "publishedAt": "2025-09-01T14:05:52Z",
+        "duration": "PT2H19M46S",
+        "viewCount": "30382",
+        "likeCount": "1030",
+        "commentCount": "102"
+    },
+    {
+        "videoId": "maSIQg8IFRI",
+        "title": "3D Software Rendering in 2025",
+        "publishedAt": "2025-08-28T14:30:00Z",
+        "duration": "PT3H2M48S",
+        "viewCount": "176857",
+        "likeCount": "5674",
+        "commentCount": "817"
+    },
+    {
+        "videoId": "rcBVqcoQkuA",
+        "title": "Bash Pipes in C",
+        "publishedAt": "2025-08-25T15:01:11Z",
+        "duration": "PT1H32M4S",
+        "viewCount": "22120",
+        "likeCount": "817",
+        "commentCount": "78"
+    },
+    {
+        "videoId": "4kuxeEnFVYw",
+        "title": "Tiny JS that rivals Lua",
+        "publishedAt": "2025-08-23T14:00:02Z",
+        "duration": "PT2H14M41S",
+        "viewCount": "31516",
+        "likeCount": "1327",
+        "commentCount": "164"
+    },
+    {
+        "videoId": "UZt2KnuxRm8",
+        "title": "Advanced Linux Multi-Processing",
+        "publishedAt": "2025-08-20T16:14:17Z",
+        "duration": "PT2H48M20S",
+        "viewCount": "22179",
+        "likeCount": "824",
+        "commentCount": "60"
+    },
+    {
+        "videoId": "nRwGKqU5na0",
+        "title": "Truly Multi-Core Builds",
+        "publishedAt": "2025-08-16T14:56:55Z",
+        "duration": "PT3H4M25S",
+        "viewCount": "22482",
+        "likeCount": "937",
+        "commentCount": "97"
+    },
+    {
+        "videoId": "VdmeoMZjIgs",
+        "title": "Syntax You Never Heard About",
+        "publishedAt": "2025-08-14T15:11:48Z",
+        "duration": "PT1H48M51S",
+        "viewCount": "50685",
+        "likeCount": "1895",
+        "commentCount": "163"
+    },
+    {
+        "videoId": "c9az-fXoi3o",
+        "title": "I removed FFmpeg from my Rust project",
+        "publishedAt": "2025-08-10T18:50:06Z",
+        "duration": "PT8H11M8S",
+        "viewCount": "48603",
+        "likeCount": "1465",
+        "commentCount": "160"
+    },
+    {
+        "videoId": "sk0VFcOeTAw",
+        "title": "You can just render React with Raylib",
+        "publishedAt": "2025-08-02T15:12:00Z",
+        "duration": "PT4H6M53S",
+        "viewCount": "58172",
+        "likeCount": "1616",
+        "commentCount": "189"
+    },
+    {
+        "videoId": "0rpN6cZeGS4",
+        "title": "C++ Addons for Node.js",
+        "publishedAt": "2025-07-28T13:02:21Z",
+        "duration": "PT2H2M55S",
+        "viewCount": "44355",
+        "likeCount": "1385",
+        "commentCount": "157"
+    },
+    {
+        "videoId": "hnM6aSpWJ8c",
+        "title": "You Don't Need Rust for This",
+        "publishedAt": "2025-07-24T13:16:16Z",
+        "duration": "PT2H9M14S",
+        "viewCount": "41101",
+        "likeCount": "1023",
+        "commentCount": "95"
+    },
+    {
+        "videoId": "OpoxlJ9e3Qg",
+        "title": "Jai Meta-Programming is WILD",
+        "publishedAt": "2025-07-19T13:55:59Z",
+        "duration": "PT2H24M25S",
+        "viewCount": "63440",
+        "likeCount": "1455",
+        "commentCount": "211"
+    },
+    {
+        "videoId": "ilH6qb1AP6s",
+        "title": "Backend Programming in Erlang",
+        "publishedAt": "2025-07-16T14:25:33Z",
+        "duration": "PT3H57M16S",
+        "viewCount": "65471",
+        "likeCount": "1452",
+        "commentCount": "151"
+    },
+    {
+        "videoId": "01fo-fmJYKo",
+        "title": ".NET Assembly",
+        "publishedAt": "2025-07-11T13:20:55Z",
+        "duration": "PT2H34M57S",
+        "viewCount": "36465",
+        "likeCount": "839",
+        "commentCount": "129"
+    },
+    {
+        "videoId": "BhaBzbzEbKg",
+        "title": "Haskell is Back!",
+        "publishedAt": "2025-07-08T14:54:15Z",
+        "duration": "PT1H56M57S",
+        "viewCount": "104617",
+        "likeCount": "2744",
+        "commentCount": "364"
+    },
+    {
+        "videoId": "kbUvzR8s1Co",
+        "title": "Writing the Worst Code of My Life",
+        "publishedAt": "2025-07-05T14:27:41Z",
+        "duration": "PT1H54M59S",
+        "viewCount": "25972",
+        "likeCount": "584",
+        "commentCount": "64"
+    },
+    {
+        "videoId": "FBpgdSjJ6nQ",
+        "title": "Immediate JSON Parsing in C",
+        "publishedAt": "2025-06-28T14:08:36Z",
+        "duration": "PT2H25M54S",
+        "viewCount": "50167",
+        "likeCount": "1175",
+        "commentCount": "123"
+    },
+    {
+        "videoId": "-AFAY2IV4bk",
+        "title": "This Tiny UI Library in C is INSANE",
+        "publishedAt": "2025-06-25T14:13:11Z",
+        "duration": "PT1H55M14S",
+        "viewCount": "310043",
+        "likeCount": "6706",
+        "commentCount": "461"
+    },
+    {
+        "videoId": "Gk8gB5VACZw",
+        "title": "We Resurrected a Dead Language",
+        "publishedAt": "2025-06-23T14:53:39Z",
+        "duration": "PT1H45M53S",
+        "viewCount": "29687",
+        "likeCount": "871",
+        "commentCount": "88"
+    },
+    {
+        "videoId": "C869KWSf4aw",
+        "title": "Better Testing Tool in Rust",
+        "publishedAt": "2025-06-20T15:07:44Z",
+        "duration": "PT2H38M54S",
+        "viewCount": "27553",
+        "likeCount": "749",
+        "commentCount": "63"
+    },
+    {
+        "videoId": "L-IzN9-fqWg",
+        "title": "Let's Talk About Some Compiler Optimizations",
+        "publishedAt": "2025-06-15T16:32:40Z",
+        "duration": "PT4H38M35S",
+        "viewCount": "38224",
+        "likeCount": "999",
+        "commentCount": "94"
+    },
+    {
+        "videoId": "VtQeJQVO1mk",
+        "title": "Emulating 6502 CPU in Rust and C",
+        "publishedAt": "2025-06-11T15:28:16Z",
+        "duration": "PT2H20M1S",
+        "viewCount": "42000",
+        "likeCount": "1033",
+        "commentCount": "72"
+    },
+    {
+        "videoId": "SbUvlZeKSwk",
+        "title": "I tried a $100 IDE for BASIC in 2025",
+        "publishedAt": "2025-06-07T15:19:23Z",
+        "duration": "PT2H2M51S",
+        "viewCount": "69958",
+        "likeCount": "1415",
+        "commentCount": "127"
+    },
+    {
+        "videoId": "G9piTswOQZY",
+        "title": "Inline Assembly is Hard",
+        "publishedAt": "2025-06-04T16:26:10Z",
+        "duration": "PT42M29S",
+        "viewCount": "33309",
+        "likeCount": "811",
+        "commentCount": "74"
+    },
+    {
+        "videoId": "vSfHOmDrp6c",
+        "title": "Code Review",
+        "publishedAt": "2025-06-01T13:48:44Z",
+        "duration": "PT1H56M31S",
+        "viewCount": "48403",
+        "likeCount": "1056",
+        "commentCount": "74"
+    },
+    {
+        "videoId": "D1j7_0oplbk",
+        "title": "Reverse Engineering Windows EXE files on Linux",
+        "publishedAt": "2025-05-30T13:54:46Z",
+        "duration": "PT4H6M57S",
+        "viewCount": "86340",
+        "likeCount": "2307",
+        "commentCount": "194"
+    },
+    {
+        "videoId": "TH5118PhzYs",
+        "title": "I tried .NET on Linux and Died Inside",
+        "publishedAt": "2025-05-27T13:01:34Z",
+        "duration": "PT3H24M40S",
+        "viewCount": "153090",
+        "likeCount": "3747",
+        "commentCount": "880"
+    },
+    {
+        "videoId": "pXrFcLAMU4k",
+        "title": "Global Variables Are Not That Global",
+        "publishedAt": "2025-05-22T12:58:05Z",
+        "duration": "PT1H58M21S",
+        "viewCount": "31569",
+        "likeCount": "941",
+        "commentCount": "109"
+    },
+    {
+        "videoId": "f61yBk7VucM",
+        "title": "I made My Own Pointers",
+        "publishedAt": "2025-05-18T14:21:46Z",
+        "duration": "PT1H53M25S",
+        "viewCount": "54344",
+        "likeCount": "1359",
+        "commentCount": "71"
+    },
+    {
+        "videoId": "3ZWQZrB2ag8",
+        "title": "I ported My Language to ARM CPU",
+        "publishedAt": "2025-05-13T15:01:32Z",
+        "duration": "PT4H22M41S",
+        "viewCount": "43164",
+        "likeCount": "965",
+        "commentCount": "116"
+    },
+    {
+        "videoId": "Jht-_Lad1Vw",
+        "title": "Overcoming Brain Damage to Work on My Compiler",
+        "publishedAt": "2025-05-05T14:46:59Z",
+        "duration": "PT2H49M34S",
+        "viewCount": "46419",
+        "likeCount": "1066",
+        "commentCount": "133"
+    },
+    {
+        "videoId": "ZLq-QvLWuoc",
+        "title": "Intel is Over - Time to Learn ARM Assembly",
+        "publishedAt": "2025-05-02T15:16:24Z",
+        "duration": "PT2H7M32S",
+        "viewCount": "94518",
+        "likeCount": "2766",
+        "commentCount": "252"
+    },
+    {
+        "videoId": "zkV8GKHGrRQ",
+        "title": "C++ Library that Cracked Networking",
+        "publishedAt": "2025-04-28T14:18:13Z",
+        "duration": "PT2H6M59S",
+        "viewCount": "71391",
+        "likeCount": "1807",
+        "commentCount": "245"
+    },
+    {
+        "videoId": "hlKDqZJMl70",
+        "title": "Things Compilers Do For You",
+        "publishedAt": "2025-04-26T14:58:31Z",
+        "duration": "PT2H27M19S",
+        "viewCount": "35429",
+        "likeCount": "931",
+        "commentCount": "61"
+    },
+    {
+        "videoId": "hzVOMxcjOhI",
+        "title": "Creators of Unix Didn't See This Coming...",
+        "publishedAt": "2025-04-23T13:48:38Z",
+        "duration": "PT2H7M52S",
+        "viewCount": "46860",
+        "likeCount": "1135",
+        "commentCount": "103"
+    },
+    {
+        "videoId": "gS_jY8iPBv8",
+        "title": "What Language was before C",
+        "publishedAt": "2025-04-19T14:53:38Z",
+        "duration": "PT4H2M2S",
+        "viewCount": "75228",
+        "likeCount": "1685",
+        "commentCount": "197"
+    },
+    {
+        "videoId": "Jge1Qry2RRs",
+        "title": "Rust Guide for C devs",
+        "publishedAt": "2025-04-19T12:02:03Z",
+        "duration": "PT1M20S",
+        "viewCount": "159651",
+        "likeCount": "6058",
+        "commentCount": "205"
+    },
+    {
+        "videoId": "z3LupC7LCwo",
+        "title": "Rust Devs are Horny",
+        "publishedAt": "2025-04-15T17:01:23Z",
+        "duration": "PT31S",
+        "viewCount": "292330",
+        "likeCount": "5852",
+        "commentCount": "167"
+    },
+    {
+        "videoId": "5MIsMbFjvkw",
+        "title": "What if Rust was Worse than C",
+        "publishedAt": "2025-04-15T14:50:20Z",
+        "duration": "PT2H4M4S",
+        "viewCount": "94362",
+        "likeCount": "2136",
+        "commentCount": "316"
+    },
+    {
+        "videoId": "pkMAfYogCog",
+        "title": "Google is So Bad",
+        "publishedAt": "2025-04-15T10:53:09Z",
+        "duration": "PT30S",
+        "viewCount": "258335",
+        "likeCount": "6801",
+        "commentCount": "262"
+    },
+    {
+        "videoId": "pKAnDcqInb4",
+        "title": "Hardest Problem of Linux Programming",
+        "publishedAt": "2025-04-11T13:56:17Z",
+        "duration": "PT1H45M8S",
+        "viewCount": "78732",
+        "likeCount": "2049",
+        "commentCount": "303"
+    },
+    {
+        "videoId": "TRVSQIyc_lE",
+        "title": "Abusing YouTube Subtitles with C++ and Go",
+        "publishedAt": "2025-04-08T12:59:12Z",
+        "duration": "PT1H49M50S",
+        "viewCount": "71383",
+        "likeCount": "2087",
+        "commentCount": "151"
+    },
+    {
+        "videoId": "j425CIWRfZ8",
+        "title": "Unreasonable Power of CSS",
+        "publishedAt": "2025-04-05T13:24:24Z",
+        "duration": "PT37M25S",
+        "viewCount": "44938",
+        "likeCount": "1876",
+        "commentCount": "168"
+    },
+    {
+        "videoId": "VjDDF9qNbwM",
+        "title": "Data Migration in C",
+        "publishedAt": "2025-04-03T16:32:41Z",
+        "duration": "PT2H22M32S",
+        "viewCount": "42103",
+        "likeCount": "1134",
+        "commentCount": "103"
+    },
+    {
+        "videoId": "M2X-t7d8g9s",
+        "title": "I tried Svelte and Instantly Got $125,000 Job",
+        "publishedAt": "2025-04-01T12:42:03Z",
+        "duration": "PT1H46M43S",
+        "viewCount": "150586",
+        "likeCount": "4169",
+        "commentCount": "469"
+    },
+    {
+        "videoId": "KnKkCXRSQ_s",
+        "title": "Everybody Wants to Replace This Library",
+        "publishedAt": "2025-03-29T17:18:13Z",
+        "duration": "PT1H59M6S",
+        "viewCount": "70237",
+        "likeCount": "1481",
+        "commentCount": "108"
+    },
+    {
+        "videoId": "_kRsbu82zqs",
+        "title": "How Not to Market Your Language Features",
+        "publishedAt": "2025-03-27T13:00:26Z",
+        "duration": "PT2H17M30S",
+        "viewCount": "35216",
+        "likeCount": "974",
+        "commentCount": "197"
+    },
+    {
+        "videoId": "rqfy_VPuqps",
+        "title": "I trained my Model on Chat and it became Authoritarian",
+        "publishedAt": "2025-03-21T14:57:40Z",
+        "duration": "PT33M34S",
+        "viewCount": "38551",
+        "likeCount": "1583",
+        "commentCount": "79"
+    },
+    {
+        "videoId": "Gj5310KnUTQ",
+        "title": "Most underrated \"C/C++ Killer\"",
+        "publishedAt": "2025-03-18T15:18:40Z",
+        "duration": "PT2H27M31S",
+        "viewCount": "92251",
+        "likeCount": "2511",
+        "commentCount": "364"
+    },
+    {
+        "videoId": "mmL8G-hMTHc",
+        "title": "Faster Algorithm is All You Need",
+        "publishedAt": "2025-03-14T15:59:20Z",
+        "duration": "PT57M7S",
+        "viewCount": "46500",
+        "likeCount": "1529",
+        "commentCount": "78"
+    },
+    {
+        "videoId": "f-IlYeyTwzY",
+        "title": "Threads in C are Pain",
+        "publishedAt": "2025-03-12T15:32:13Z",
+        "duration": "PT2H19M28S",
+        "viewCount": "110396",
+        "likeCount": "2292",
+        "commentCount": "206"
+    },
+    {
+        "videoId": "6dCqR9p0yWY",
+        "title": "LLM Tokenizer in C",
+        "publishedAt": "2025-03-09T14:53:37Z",
+        "duration": "PT2H10M18S",
+        "viewCount": "72372",
+        "likeCount": "2119",
+        "commentCount": "91"
+    },
+    {
+        "videoId": "D1bsg8wkZzo",
+        "title": "I'm Building C with C without CMake",
+        "publishedAt": "2025-03-03T14:57:50Z",
+        "duration": "PT1H57M10S",
+        "viewCount": "47825",
+        "likeCount": "1351",
+        "commentCount": "128"
+    },
+    {
+        "videoId": "_fGPDbhUSIY",
+        "title": "Time to write UI in C++",
+        "publishedAt": "2025-02-28T16:50:28Z",
+        "duration": "PT1H57M9S",
+        "viewCount": "146977",
+        "likeCount": "3809",
+        "commentCount": "335"
+    },
+    {
+        "videoId": "UhJC0wsxc_I",
+        "title": "Coding in C as My Mouse Dies...",
+        "publishedAt": "2025-02-25T14:47:17Z",
+        "duration": "PT2H59M23S",
+        "viewCount": "38642",
+        "likeCount": "1091",
+        "commentCount": "81"
+    },
+    {
+        "videoId": "NjgXMc4fynk",
+        "title": "CMake is cooked...",
+        "publishedAt": "2025-02-20T14:11:58Z",
+        "duration": "PT1H39M28S",
+        "viewCount": "69000",
+        "likeCount": "1852",
+        "commentCount": "188"
+    },
+    {
+        "videoId": "sVG-Werqjlw",
+        "title": "Making UI in Jai",
+        "publishedAt": "2025-02-16T14:59:57Z",
+        "duration": "PT1H39M39S",
+        "viewCount": "44675",
+        "likeCount": "1107",
+        "commentCount": "99"
+    },
+    {
+        "videoId": "5YSj7mAAQQ0",
+        "title": "What if Web was Just Simplier",
+        "publishedAt": "2025-02-14T16:50:03Z",
+        "duration": "PT2H14M13S",
+        "viewCount": "57464",
+        "likeCount": "1397",
+        "commentCount": "115"
+    },
+    {
+        "videoId": "uFET2vifHh4",
+        "title": "C can do this too and it's faster than Python",
+        "publishedAt": "2025-02-10T13:53:15Z",
+        "duration": "PT2H9M48S",
+        "viewCount": "102082",
+        "likeCount": "2388",
+        "commentCount": "198"
+    },
+    {
+        "videoId": "g4U1ysSPkm4",
+        "title": "I enhanced WebSockets",
+        "publishedAt": "2025-02-06T16:13:05Z",
+        "duration": "PT1H29M15S",
+        "viewCount": "36452",
+        "likeCount": "1151",
+        "commentCount": "133"
+    },
+    {
+        "videoId": "3DEEqxtxXFk",
+        "title": "Leaking Memory is Safe",
+        "publishedAt": "2025-02-03T13:10:36Z",
+        "duration": "PT16M47S",
+        "viewCount": "41738",
+        "likeCount": "1884",
+        "commentCount": "161"
+    },
+    {
+        "videoId": "X-lsquJq5yU",
+        "title": "Making Memory Safer in my C",
+        "publishedAt": "2025-02-02T13:24:40Z",
+        "duration": "PT50M44S",
+        "viewCount": "53285",
+        "likeCount": "1778",
+        "commentCount": "125"
+    },
+    {
+        "videoId": "jwb7SmyGr3A",
+        "title": "My Journey is Finally Over - I know Network Programming",
+        "publishedAt": "2025-01-30T14:49:48Z",
+        "duration": "PT2H42M12S",
+        "viewCount": "86997",
+        "likeCount": "2165",
+        "commentCount": "116"
+    },
+    {
+        "videoId": "Z8znH5Grz7I",
+        "title": "I tried Ninja Build Tool and it changed me...",
+        "publishedAt": "2025-01-27T13:21:57Z",
+        "duration": "PT1H22M16S",
+        "viewCount": "70644",
+        "likeCount": "1882",
+        "commentCount": "172"
+    },
+    {
+        "videoId": "6WhEZ0ruzVU",
+        "title": "I switched from ASSEMBLY to C and it made my code better...",
+        "publishedAt": "2025-01-25T13:32:23Z",
+        "duration": "PT2H5M51S",
+        "viewCount": "45172",
+        "likeCount": "1148",
+        "commentCount": "76"
+    },
+    {
+        "videoId": "aKk_r9ZwXQw",
+        "title": "Compiling Should NOT be This Slow",
+        "publishedAt": "2025-01-22T16:42:11Z",
+        "duration": "PT2H18M25S",
+        "viewCount": "60515",
+        "likeCount": "1343",
+        "commentCount": "137"
+    },
+    {
+        "videoId": "jda3wgZxlgA",
+        "title": "The Jai situation is insane!",
+        "publishedAt": "2025-01-18T14:46:19Z",
+        "duration": "PT2H17M54S",
+        "viewCount": "104443",
+        "likeCount": "2186",
+        "commentCount": "268"
+    },
+    {
+        "videoId": "sYSP_elDdZw",
+        "title": "I made Coroutines from scratch",
+        "publishedAt": "2025-01-13T14:52:33Z",
+        "duration": "PT2H9M30S",
+        "viewCount": "72275",
+        "likeCount": "2255",
+        "commentCount": "144"
+    },
+    {
+        "videoId": "hzjBdIJ9Ycs",
+        "title": "Forget C - Assembly is All You Need",
+        "publishedAt": "2025-01-10T14:59:54Z",
+        "duration": "PT2H26M25S",
+        "viewCount": "133089",
+        "likeCount": "3596",
+        "commentCount": "277"
+    },
+    {
+        "videoId": "z1joHmzpoAc",
+        "title": "This Library Turns C into Go",
+        "publishedAt": "2025-01-06T14:23:51Z",
+        "duration": "PT1H39M43S",
+        "viewCount": "63230",
+        "likeCount": "1912",
+        "commentCount": "133"
+    },
+    {
+        "videoId": "eEHqCZpYtOE",
+        "title": "What do you need select/poll/epoll for",
+        "publishedAt": "2025-01-02T15:16:01Z",
+        "duration": "PT2H11M21S",
+        "viewCount": "41291",
+        "likeCount": "1235",
+        "commentCount": "105"
+    },
+    {
+        "videoId": "IGv5WYYmyfo",
+        "title": "Async vs Multithreading",
+        "publishedAt": "2024-12-29T15:19:50Z",
+        "duration": "PT2H23M41S",
+        "viewCount": "57470",
+        "likeCount": "1643",
+        "commentCount": "107"
+    },
+    {
+        "videoId": "7z7tdqxn3m4",
+        "title": "Creator of C3 improves the Lang Live as I use it",
+        "publishedAt": "2024-12-24T16:25:10Z",
+        "duration": "PT2H50M11S",
+        "viewCount": "58660",
+        "likeCount": "1438",
+        "commentCount": "117"
+    },
+    {
+        "videoId": "sNHzizPu7yQ",
+        "title": "I made Futures from scratch",
+        "publishedAt": "2024-12-21T15:27:27Z",
+        "duration": "PT1H56M9S",
+        "viewCount": "53654",
+        "likeCount": "1367",
+        "commentCount": "116"
+    },
+    {
+        "videoId": "WpepPeOl3DI",
+        "title": "Prequel to C3 nobody expected",
+        "publishedAt": "2024-12-19T13:27:07Z",
+        "duration": "PT2H6M46S",
+        "viewCount": "29458",
+        "likeCount": "800",
+        "commentCount": "108"
+    },
+    {
+        "videoId": "D7iQ7LvI4vg",
+        "title": "You Don't Need Text Editor - Just Use My ChatBot",
+        "publishedAt": "2024-12-16T14:02:42Z",
+        "duration": "PT1H48M19S",
+        "viewCount": "30631",
+        "likeCount": "898",
+        "commentCount": "67"
+    },
+    {
+        "videoId": "Gfx7e8WQKCk",
+        "title": "Is Jai Ready for Production?",
+        "publishedAt": "2024-12-10T14:48:52Z",
+        "duration": "PT3H28M12S",
+        "viewCount": "51067",
+        "likeCount": "970",
+        "commentCount": "141"
+    },
+    {
+        "videoId": "PuE98lipGU8",
+        "title": "Is SDL3 Ready For Production?",
+        "publishedAt": "2024-12-08T13:39:18Z",
+        "duration": "PT1H37M32S",
+        "viewCount": "73128",
+        "likeCount": "1832",
+        "commentCount": "145"
+    },
+    {
+        "videoId": "JRTLSxGf_6w",
+        "title": "You Don't Know Network Programming",
+        "publishedAt": "2024-12-03T14:38:07Z",
+        "duration": "PT2H20M44S",
+        "viewCount": "232911",
+        "likeCount": "6472",
+        "commentCount": "223"
+    },
+    {
+        "videoId": "iQRfzQQrHfo",
+        "title": "WebSocket Protocol is Bonkers!!",
+        "publishedAt": "2024-11-26T12:59:21Z",
+        "duration": "PT3H17M59S",
+        "viewCount": "35207",
+        "likeCount": "885",
+        "commentCount": "58"
+    },
+    {
+        "videoId": "7ZJ9pJJnxfI",
+        "title": "This Release is Crazy!!",
+        "publishedAt": "2024-11-20T12:58:23Z",
+        "duration": "PT1H44M28S",
+        "viewCount": "100971",
+        "likeCount": "2872",
+        "commentCount": "212"
+    },
+    {
+        "videoId": "pdsq1YeHLuQ",
+        "title": "This Library Make Parsing in C Easier",
+        "publishedAt": "2024-11-17T14:11:24Z",
+        "duration": "PT2H57M15S",
+        "viewCount": "31941",
+        "likeCount": "846",
+        "commentCount": "55"
+    },
+    {
+        "videoId": "JaG4kdyS_I8",
+        "title": "Generative Shaders",
+        "publishedAt": "2024-11-13T15:55:39Z",
+        "duration": "PT2H54M45S",
+        "viewCount": "34273",
+        "likeCount": "1034",
+        "commentCount": "69"
+    },
+    {
+        "videoId": "dkNv3KGOFT0",
+        "title": "Server-Side Rendering in C",
+        "publishedAt": "2024-11-09T15:37:20Z",
+        "duration": "PT2H6M31S",
+        "viewCount": "63823",
+        "likeCount": "1879",
+        "commentCount": "103"
+    },
+    {
+        "videoId": "3D_h2RE0o0E",
+        "title": "Implementing Scientific Paper in C",
+        "publishedAt": "2024-11-05T14:02:48Z",
+        "duration": "PT4H42M54S",
+        "viewCount": "57085",
+        "likeCount": "1663",
+        "commentCount": "92"
+    },
+    {
+        "videoId": "QdmwBFSlnOE",
+        "title": "Stress Testing WebSocket Implementation",
+        "publishedAt": "2024-11-01T13:56:27Z",
+        "duration": "PT2H36M44S",
+        "viewCount": "27726",
+        "likeCount": "693",
+        "commentCount": "99"
+    },
+    {
+        "videoId": "yrzv6o9Pnao",
+        "title": "WebSocket Server from Zero by Specs",
+        "publishedAt": "2024-10-29T14:32:24Z",
+        "duration": "PT3H56M10S",
+        "viewCount": "56555",
+        "likeCount": "1232",
+        "commentCount": "82"
+    },
+    {
+        "videoId": "p8fCq16XTH4",
+        "title": "They made Python in Python",
+        "publishedAt": "2024-10-25T12:48:56Z",
+        "duration": "PT1H36M25S",
+        "viewCount": "72224",
+        "likeCount": "1862",
+        "commentCount": "166"
+    },
+    {
+        "videoId": "-PfG87485Po",
+        "title": "I couldn't find a WebSockets Library so I made one",
+        "publishedAt": "2024-10-22T13:42:16Z",
+        "duration": "PT3H32M38S",
+        "viewCount": "66533",
+        "likeCount": "1477",
+        "commentCount": "81"
+    },
+    {
+        "videoId": "TQFkpuCCNos",
+        "title": "The Web Does No Innovation",
+        "publishedAt": "2024-10-12T17:53:07Z",
+        "duration": "PT3H44M57S",
+        "viewCount": "44752",
+        "likeCount": "1025",
+        "commentCount": "156"
+    },
+    {
+        "videoId": "01umadKzpvs",
+        "title": "I Hacked C3 Compiler for This",
+        "publishedAt": "2024-10-09T14:18:03Z",
+        "duration": "PT2H37M40S",
+        "viewCount": "27416",
+        "likeCount": "705",
+        "commentCount": "81"
+    },
+    {
+        "videoId": "h164R46NWBM",
+        "title": "Hacking GNU utilities - m4",
+        "publishedAt": "2024-10-06T13:56:17Z",
+        "duration": "PT2H7M20S",
+        "viewCount": "50460",
+        "likeCount": "1312",
+        "commentCount": "122"
+    },
+    {
+        "videoId": "nIaVx-4UGUU",
+        "title": "Back-face Culling in C on Linux",
+        "publishedAt": "2024-10-03T14:55:14Z",
+        "duration": "PT1H30M8S",
+        "viewCount": "28518",
+        "likeCount": "897",
+        "commentCount": "80"
+    },
+    {
+        "videoId": "81MdyDYqB-A",
+        "title": "Configuring Emacs on My New Laptop",
+        "publishedAt": "2024-09-30T13:31:16Z",
+        "duration": "PT2H9S",
+        "viewCount": "281590",
+        "likeCount": "6168",
+        "commentCount": "569"
+    },
+    {
+        "videoId": "SbpusG7sHF4",
+        "title": "This Library Turned my C into JavaScript wtf",
+        "publishedAt": "2024-09-26T14:33:44Z",
+        "duration": "PT2H6M38S",
+        "viewCount": "74949",
+        "likeCount": "2098",
+        "commentCount": "182"
+    },
+    {
+        "videoId": "V4Pd-aoaAOs",
+        "title": "Using Breadth-first Search to Analyse 3D Mesh Components",
+        "publishedAt": "2024-09-23T16:01:36Z",
+        "duration": "PT2H15M3S",
+        "viewCount": "27423",
+        "likeCount": "794",
+        "commentCount": "62"
+    },
+    {
+        "videoId": "IPEzHuSvPDA",
+        "title": "Parsing 3D File in C",
+        "publishedAt": "2024-09-20T15:12:47Z",
+        "duration": "PT1H24M1S",
+        "viewCount": "39213",
+        "likeCount": "1307",
+        "commentCount": "109"
+    },
+    {
+        "videoId": "7_EV22SpDY4",
+        "title": "BASIC still has Potential",
+        "publishedAt": "2024-09-16T16:09:34Z",
+        "duration": "PT2H9M1S",
+        "viewCount": "59596",
+        "likeCount": "1836",
+        "commentCount": "240"
+    },
+    {
+        "videoId": "H-GO_bVUzCQ",
+        "title": "I Don't Need No Silly Frameworks You Can't Live Without",
+        "publishedAt": "2024-09-12T16:16:53Z",
+        "duration": "PT2H37M59S",
+        "viewCount": "45718",
+        "likeCount": "1178",
+        "commentCount": "79"
+    },
+    {
+        "videoId": "LTP5c4NqA8k",
+        "title": "I tried Swift and came out a different person",
+        "publishedAt": "2024-09-09T12:42:53Z",
+        "duration": "PT1H56M59S",
+        "viewCount": "245298",
+        "likeCount": "5555",
+        "commentCount": "629"
+    },
+    {
+        "videoId": "sXeB46d_7_w",
+        "title": "WASM on Backend is the Future",
+        "publishedAt": "2024-09-07T15:09:28Z",
+        "duration": "PT3H31M13S",
+        "viewCount": "46494",
+        "likeCount": "1104",
+        "commentCount": "119"
+    },
+    {
+        "videoId": "sLWkUzbMhIU",
+        "title": "Everyone Should Use WebAssembly",
+        "publishedAt": "2024-08-31T14:41:19Z",
+        "duration": "PT3H34M9S",
+        "viewCount": "74390",
+        "likeCount": "1993",
+        "commentCount": "138"
+    },
+    {
+        "videoId": "_rrL20htMAM",
+        "title": "Breeding Words with C3 Language",
+        "publishedAt": "2024-08-27T12:51:06Z",
+        "duration": "PT1H44M32S",
+        "viewCount": "30782",
+        "likeCount": "885",
+        "commentCount": "148"
+    },
+    {
+        "videoId": "ecX4olnWCLM",
+        "title": "Should've NOT Added Bombs to This Game 💀",
+        "publishedAt": "2024-08-21T15:32:13Z",
+        "duration": "PT2H28M37S",
+        "viewCount": "21365",
+        "likeCount": "616",
+        "commentCount": "50"
+    },
+    {
+        "videoId": "6DEr82sj4zM",
+        "title": "I Wrote Superhuman Code By Hands",
+        "publishedAt": "2024-08-18T15:11:27Z",
+        "duration": "PT1H40M2S",
+        "viewCount": "60534",
+        "likeCount": "1208",
+        "commentCount": "133"
+    },
+    {
+        "videoId": "JjN0KL-rAdA",
+        "title": "No Lag, First Try, Over 100 Players in a Single Place",
+        "publishedAt": "2024-08-14T15:18:27Z",
+        "duration": "PT3H20M13S",
+        "viewCount": "44634",
+        "likeCount": "1302",
+        "commentCount": "87"
+    },
+    {
+        "videoId": "Bjcu3P74J2o",
+        "title": "How tf Doom Even Did That?!",
+        "publishedAt": "2024-08-13T15:00:30Z",
+        "duration": "PT1H39M26S",
+        "viewCount": "42178",
+        "likeCount": "1261",
+        "commentCount": "90"
+    },
+    {
+        "videoId": "rzXEsactdT4",
+        "title": "Programming w/o Language",
+        "publishedAt": "2024-08-07T14:31:09Z",
+        "duration": "PT1H47M",
+        "viewCount": "100549",
+        "likeCount": "2995",
+        "commentCount": "291"
+    },
+    {
+        "videoId": "MqThCOjL-IM",
+        "title": "I contributed to C3 Compiler and So Can You",
+        "publishedAt": "2024-08-03T14:49:45Z",
+        "duration": "PT4H15M2S",
+        "viewCount": "108970",
+        "likeCount": "2689",
+        "commentCount": "269"
+    },
+    {
+        "videoId": "zRUg7X-c4bk",
+        "title": "Programming in C3 to Annoy Zig fans",
+        "publishedAt": "2024-07-29T14:54:00Z",
+        "duration": "PT1H51M55S",
+        "viewCount": "90093",
+        "likeCount": "2294",
+        "commentCount": "269"
+    },
+    {
+        "videoId": "Qzw1m7PweXs",
+        "title": "They Made a Sequel to C",
+        "publishedAt": "2024-07-27T13:54:15Z",
+        "duration": "PT1H53M24S",
+        "viewCount": "194598",
+        "likeCount": "4272",
+        "commentCount": "483"
+    },
+    {
+        "videoId": "o6Capa_V5QE",
+        "title": "High Load without C/C++ (Only JavaScript)",
+        "publishedAt": "2024-07-24T14:56:23Z",
+        "duration": "PT1H37M10S",
+        "viewCount": "22017",
+        "likeCount": "691",
+        "commentCount": "62"
+    },
+    {
+        "videoId": "2l6Rl09NyTw",
+        "title": "C is Dead. JavaScript will replace it.",
+        "publishedAt": "2024-07-20T12:58:37Z",
+        "duration": "PT3H57M58S",
+        "viewCount": "57416",
+        "likeCount": "1573",
+        "commentCount": "251"
+    },
+    {
+        "videoId": "MeaTJSb6KWI",
+        "title": "Coding an Army of Bots",
+        "publishedAt": "2024-07-16T15:05:00Z",
+        "duration": "PT2H21M45S",
+        "viewCount": "23385",
+        "likeCount": "647",
+        "commentCount": "51"
+    },
+    {
+        "videoId": "Ih9OkNeg7v8",
+        "title": "How to Make Multiplayer Online Games",
+        "publishedAt": "2024-07-12T18:01:33Z",
+        "duration": "PT3H17M56S",
+        "viewCount": "37632",
+        "likeCount": "1195",
+        "commentCount": "101"
+    },
+    {
+        "videoId": "meiOJgnKgTs",
+        "title": "Squeezing Max Performance out of JavaScript",
+        "publishedAt": "2024-07-09T14:57:42Z",
+        "duration": "PT1H49M17S",
+        "viewCount": "29035",
+        "likeCount": "872",
+        "commentCount": "80"
+    },
+    {
+        "videoId": "BZeZeikPk5o",
+        "title": "My Retro 3D Engine is Ready",
+        "publishedAt": "2024-07-05T15:09:27Z",
+        "duration": "PT2H29M1S",
+        "viewCount": "25526",
+        "likeCount": "637",
+        "commentCount": "58"
+    },
+    {
+        "videoId": "96JvriLR4s8",
+        "title": "Screw Vite! I'm Rolling out My Own Hot-Reloading!",
+        "publishedAt": "2024-07-01T17:44:41Z",
+        "duration": "PT2H5M36S",
+        "viewCount": "30803",
+        "likeCount": "939",
+        "commentCount": "113"
+    },
+    {
+        "videoId": "cjgaNzywZtQ",
+        "title": "Secret to Fast JS Canvas",
+        "publishedAt": "2024-06-29T16:47:25Z",
+        "duration": "PT1H35M33S",
+        "viewCount": "26157",
+        "likeCount": "827",
+        "commentCount": "57"
+    },
+    {
+        "videoId": "MpfKdyMGPRA",
+        "title": "Almost Died from Heat Stroke but Figured out How Doom Renders Floors After 3 Days",
+        "publishedAt": "2024-06-28T17:22:42Z",
+        "duration": "PT5H38M19S",
+        "viewCount": "30382",
+        "likeCount": "842",
+        "commentCount": "55"
+    },
+    {
+        "videoId": "5al811UBRRc",
+        "title": "TypeScript is better than C for this",
+        "publishedAt": "2024-06-21T17:31:49Z",
+        "duration": "PT2H20M56S",
+        "viewCount": "33736",
+        "likeCount": "788",
+        "commentCount": "63"
+    },
+    {
+        "videoId": "K1xEkA46CuM",
+        "title": "3D in TypeScript using Ray Casting",
+        "publishedAt": "2024-06-19T18:32:33Z",
+        "duration": "PT3H14M3S",
+        "viewCount": "67188",
+        "likeCount": "1591",
+        "commentCount": "127"
+    },
+    {
+        "videoId": "plFwBqBYpcY",
+        "title": "Ok, but can you do this in C?",
+        "publishedAt": "2024-06-14T18:03:27Z",
+        "duration": "PT3H15M56S",
+        "viewCount": "71299",
+        "likeCount": "1811",
+        "commentCount": "118"
+    },
+    {
+        "videoId": "mAwX7FEOpPA",
+        "title": "Hacking Raylib",
+        "publishedAt": "2024-06-11T17:06:13Z",
+        "duration": "PT2H13M39S",
+        "viewCount": "27451",
+        "likeCount": "722",
+        "commentCount": "43"
+    },
+    {
+        "videoId": "8vRuUFMXUdY",
+        "title": "Cracking Secret Message with C and Computer Vision",
+        "publishedAt": "2024-06-06T13:31:32Z",
+        "duration": "PT2H36S",
+        "viewCount": "33166",
+        "likeCount": "1206",
+        "commentCount": "78"
+    },
+    {
+        "videoId": "32a52fOBDQY",
+        "title": "Test Anything with Python",
+        "publishedAt": "2024-06-01T16:08:25Z",
+        "duration": "PT1H46M6S",
+        "viewCount": "37447",
+        "likeCount": "889",
+        "commentCount": "86"
+    },
+    {
+        "videoId": "pnhJ5SDZpGU",
+        "title": "Can you actually see more than 30 FPS?",
+        "publishedAt": "2024-05-30T18:15:16Z",
+        "duration": "PT1H41M36S",
+        "viewCount": "24351",
+        "likeCount": "691",
+        "commentCount": "122"
+    },
+    {
+        "videoId": "fJbAiXIum0k",
+        "title": "Why do C Programmers Always Obfuscate Their Code?",
+        "publishedAt": "2024-05-26T16:45:59Z",
+        "duration": "PT2H1M57S",
+        "viewCount": "139675",
+        "likeCount": "3407",
+        "commentCount": "239"
+    },
+    {
+        "videoId": "1PMf3FrFGD4",
+        "title": "This is better than TempleOS",
+        "publishedAt": "2024-05-22T14:58:29Z",
+        "duration": "PT1H55M21S",
+        "viewCount": "139639",
+        "likeCount": "3478",
+        "commentCount": "373"
+    },
+    {
+        "videoId": "ba3dYob18_A",
+        "title": "Newton's Method in C",
+        "publishedAt": "2024-05-19T15:23:18Z",
+        "duration": "PT1H33M17S",
+        "viewCount": "27458",
+        "likeCount": "997",
+        "commentCount": "81"
+    },
+    {
+        "videoId": "T3YWbhO_a_E",
+        "title": "Can C actually do Perfect Bézier Curves?",
+        "publishedAt": "2024-05-17T15:54:21Z",
+        "duration": "PT2H17M22S",
+        "viewCount": "24586",
+        "likeCount": "671",
+        "commentCount": "79"
+    },
+    {
+        "videoId": "E_yI_AtAvB8",
+        "title": "Is C++ better than C?",
+        "publishedAt": "2024-05-14T15:04:44Z",
+        "duration": "PT1H46M10S",
+        "viewCount": "87554",
+        "likeCount": "1873",
+        "commentCount": "339"
+    },
+    {
+        "videoId": "6Riy9hVIFDE",
+        "title": "OOP in Pure C",
+        "publishedAt": "2024-05-12T17:16:48Z",
+        "duration": "PT2H13S",
+        "viewCount": "134845",
+        "likeCount": "3304",
+        "commentCount": "235"
+    },
+    {
+        "videoId": "Q65zhKkynDk",
+        "title": "Async Engine in C",
+        "publishedAt": "2024-05-11T15:30:30Z",
+        "duration": "PT3H12M16S",
+        "viewCount": "79245",
+        "likeCount": "2094",
+        "commentCount": "129"
+    },
+    {
+        "videoId": "p_5DQDeyujk",
+        "title": "Is John Carmack Right about UI?!",
+        "publishedAt": "2024-05-09T17:32:03Z",
+        "duration": "PT1H52M2S",
+        "viewCount": "53874",
+        "likeCount": "1227",
+        "commentCount": "304"
+    },
+    {
+        "videoId": "b7UR-31X6Jw",
+        "title": "Programming Audio is Dangerous for Your Hearing!",
+        "publishedAt": "2024-05-07T17:24:13Z",
+        "duration": "PT3H8M41S",
+        "viewCount": "19203",
+        "likeCount": "449",
+        "commentCount": "47"
+    },
+    {
+        "videoId": "nL1l_n7wfPo",
+        "title": "I hope FFmpeg's Twitter won't Cancel me for This...",
+        "publishedAt": "2024-05-04T17:55:24Z",
+        "duration": "PT2H27M17S",
+        "viewCount": "29764",
+        "likeCount": "758",
+        "commentCount": "65"
+    },
+    {
+        "videoId": "RVwuYgXNUCM",
+        "title": "My Own 3b1b Animation Engine but in C",
+        "publishedAt": "2024-05-02T18:08:30Z",
+        "duration": "PT2H6M44S",
+        "viewCount": "94554",
+        "likeCount": "2220",
+        "commentCount": "105"
+    },
+    {
+        "videoId": "3jxCDCiozAU",
+        "title": "Parsing Lisp with Rust (Tula Ep.03)",
+        "publishedAt": "2024-04-26T12:26:32Z",
+        "duration": "PT2H42M18S",
+        "viewCount": "18156",
+        "likeCount": "396",
+        "commentCount": "51"
+    },
+    {
+        "videoId": "YVzgxRZkbco",
+        "title": "Esoteric Language Development (Tula Ep.02)",
+        "publishedAt": "2024-04-20T13:15:54Z",
+        "duration": "PT2H27M29S",
+        "viewCount": "20405",
+        "likeCount": "468",
+        "commentCount": "74"
+    },
+    {
+        "videoId": "6Ptopme84Vw",
+        "title": "Schools Don't Test Intelligence",
+        "publishedAt": "2024-04-20T10:13:28Z",
+        "duration": "PT46S",
+        "viewCount": "208388",
+        "likeCount": "7836",
+        "commentCount": "361"
+    },
+    {
+        "videoId": "_n1JhruV3bY",
+        "title": "My Next Video Project (Tula Ep.01)",
+        "publishedAt": "2024-04-17T12:03:23Z",
+        "duration": "PT2H6M5S",
+        "viewCount": "39615",
+        "likeCount": "1077",
+        "commentCount": "98"
+    },
+    {
+        "videoId": "tH-1GiqdHx0",
+        "title": "I dramatically sped up my code",
+        "publishedAt": "2024-04-10T15:09:08Z",
+        "duration": "PT1H34M9S",
+        "viewCount": "28241",
+        "likeCount": "670",
+        "commentCount": "84"
+    },
+    {
+        "videoId": "zrduCu8LYUM",
+        "title": "Content Aware Scaling in C",
+        "publishedAt": "2024-04-07T15:14:44Z",
+        "duration": "PT2H36M4S",
+        "viewCount": "33336",
+        "likeCount": "1114",
+        "commentCount": "82"
+    },
+    {
+        "videoId": "f4EOMbmIqqw",
+        "title": "I made a Russian Programming Language",
+        "publishedAt": "2024-04-03T12:44:53Z",
+        "duration": "PT2H6M44S",
+        "viewCount": "189552",
+        "likeCount": "7624",
+        "commentCount": "1260"
+    },
+    {
+        "videoId": "4JEbetrkJUs",
+        "title": "Eepers Gameplay Trailer",
+        "publishedAt": "2024-03-28T16:35:37Z",
+        "duration": "PT1M36S",
+        "viewCount": "16343",
+        "likeCount": "1081",
+        "commentCount": "79"
+    },
+    {
+        "videoId": "rTb6NFKUmQU",
+        "title": "I spent 2 days implementing Game of Life in Uxn",
+        "publishedAt": "2024-03-12T14:48:06Z",
+        "duration": "PT4H25M23S",
+        "viewCount": "30574",
+        "likeCount": "721",
+        "commentCount": "79"
+    },
+    {
+        "videoId": "d41KIL4cjQM",
+        "title": "The Most Bizarre and Fascinating Project I've seen!",
+        "publishedAt": "2024-03-01T14:56:47Z",
+        "duration": "PT1H55M16S",
+        "viewCount": "60497",
+        "likeCount": "1417",
+        "commentCount": "115"
+    },
+    {
+        "videoId": "A_g6jfLx3ws",
+        "title": "Control Your Dependencies",
+        "publishedAt": "2024-02-28T18:00:47Z",
+        "duration": "PT1H45M7S",
+        "viewCount": "27456",
+        "likeCount": "712",
+        "commentCount": "42"
+    },
+    {
+        "videoId": "F4xc4jQO7ck",
+        "title": "Reviewing Your Pull Requests",
+        "publishedAt": "2024-02-26T15:15:25Z",
+        "duration": "PT1H39M37S",
+        "viewCount": "31525",
+        "likeCount": "773",
+        "commentCount": "87"
+    },
+    {
+        "videoId": "dZRPY0D9nbU",
+        "title": "Hiding Data Inside of Executable Files",
+        "publishedAt": "2024-02-23T14:57:49Z",
+        "duration": "PT1H55M14S",
+        "viewCount": "29255",
+        "likeCount": "907",
+        "commentCount": "77"
+    },
+    {
+        "videoId": "JTjNoejn4iA",
+        "title": "Is this the Future of Programming Languages?",
+        "publishedAt": "2024-02-19T15:25:08Z",
+        "duration": "PT2H53M18S",
+        "viewCount": "92636",
+        "likeCount": "1975",
+        "commentCount": "175"
+    },
+    {
+        "videoId": "2E3E_Rh3mvw",
+        "title": "Hare Programming Language",
+        "publishedAt": "2024-02-14T17:01:33Z",
+        "duration": "PT1H39M25S",
+        "viewCount": "82281",
+        "likeCount": "2164",
+        "commentCount": "224"
+    },
+    {
+        "videoId": "Bafo3hhheHU",
+        "title": "Unreasonable Effectiveness of Abstractions",
+        "publishedAt": "2024-02-11T18:17:40Z",
+        "duration": "PT2H42M24S",
+        "viewCount": "39614",
+        "likeCount": "882",
+        "commentCount": "58"
+    },
+    {
+        "videoId": "i4Tam03E-Oc",
+        "title": "Rewriting Raylib in JavaScript",
+        "publishedAt": "2024-02-07T16:59:31Z",
+        "duration": "PT2H12M47S",
+        "viewCount": "31971",
+        "likeCount": "965",
+        "commentCount": "76"
+    },
+    {
+        "videoId": "H_cnrhVYsK0",
+        "title": "Easy Web Games in C",
+        "publishedAt": "2024-02-04T19:06:41Z",
+        "duration": "PT2H54M16S",
+        "viewCount": "78140",
+        "likeCount": "2024",
+        "commentCount": "155"
+    },
+    {
+        "videoId": "GvWCpsZcaBE",
+        "title": "Easy Annoying Popups in C",
+        "publishedAt": "2024-01-31T18:52:42Z",
+        "duration": "PT1H37M31S",
+        "viewCount": "29769",
+        "likeCount": "885",
+        "commentCount": "60"
+    },
+    {
+        "videoId": "5CaoYmXYx6U",
+        "title": "I fixed Lua",
+        "publishedAt": "2024-01-29T18:55:18Z",
+        "duration": "PT2H16M48S",
+        "viewCount": "78248",
+        "likeCount": "2030",
+        "commentCount": "193"
+    },
+    {
+        "videoId": "p60L-TOecik",
+        "title": "GameDev in Assembly?!",
+        "publishedAt": "2024-01-24T15:00:14Z",
+        "duration": "PT4H3S",
+        "viewCount": "85648",
+        "likeCount": "2501",
+        "commentCount": "207"
+    },
+    {
+        "videoId": "mbFY3Rwv7XM",
+        "title": "I made JIT Compiler for Brainf*ck lol",
+        "publishedAt": "2024-01-18T17:58:33Z",
+        "duration": "PT3H7M56S",
+        "viewCount": "122856",
+        "likeCount": "2926",
+        "commentCount": "183"
+    },
+    {
+        "videoId": "yef1_cMFknM",
+        "title": "Just Buy More Cores (1min to 1sec no optimization)",
+        "publishedAt": "2024-01-14T14:55:08Z",
+        "duration": "PT1H39M27S",
+        "viewCount": "34620",
+        "likeCount": "988",
+        "commentCount": "70"
+    },
+    {
+        "videoId": "9n39SbRPXKQ",
+        "title": "Zip works Better than AI",
+        "publishedAt": "2024-01-12T15:09:13Z",
+        "duration": "PT2H9M6S",
+        "viewCount": "67950",
+        "likeCount": "1523",
+        "commentCount": "150"
+    },
+    {
+        "videoId": "ZN4Nk4zHksU",
+        "title": "You don't need DOM",
+        "publishedAt": "2024-01-07T14:51:53Z",
+        "duration": "PT1H46M17S",
+        "viewCount": "36457",
+        "likeCount": "944",
+        "commentCount": "116"
+    },
+    {
+        "videoId": "K7hWqxC_7Mw",
+        "title": "Ridiculously Easy 3D in C (Color Quantization)",
+        "publishedAt": "2024-01-04T15:55:00Z",
+        "duration": "PT2H22M47S",
+        "viewCount": "74668",
+        "likeCount": "1692",
+        "commentCount": "88"
+    },
+    {
+        "videoId": "kH-hqG34ylA",
+        "title": "Data Mining in C",
+        "publishedAt": "2024-01-01T17:19:11Z",
+        "duration": "PT1H59M50S",
+        "viewCount": "48977",
+        "likeCount": "1312",
+        "commentCount": "90"
+    },
+    {
+        "videoId": "iKbylgzysHw",
+        "title": "Virtual DOM for Your Terminal",
+        "publishedAt": "2023-12-26T17:05:48Z",
+        "duration": "PT1H44M3S",
+        "viewCount": "53160",
+        "likeCount": "1429",
+        "commentCount": "105"
+    },
+    {
+        "videoId": "mLUhSPD4F2k",
+        "title": "Better Way to Build C",
+        "publishedAt": "2023-12-25T15:00:17Z",
+        "duration": "PT1H43M46S",
+        "viewCount": "40892",
+        "likeCount": "1063",
+        "commentCount": "95"
+    },
+    {
+        "videoId": "CfeHFIP_xEI",
+        "title": "This Release is Insane!",
+        "publishedAt": "2023-12-21T17:38:43Z",
+        "duration": "PT1H25M56S",
+        "viewCount": "63093",
+        "likeCount": "1409",
+        "commentCount": "95"
+    },
+    {
+        "videoId": "6k_sR6yCvps",
+        "title": "I made a New Programming Language",
+        "publishedAt": "2023-12-19T14:59:44Z",
+        "duration": "PT3H12M50S",
+        "viewCount": "67067",
+        "likeCount": "1455",
+        "commentCount": "95"
+    },
+    {
+        "videoId": "F4NM1N2D5-Q",
+        "title": "This is Better than C for Binary Files",
+        "publishedAt": "2023-12-16T14:55:21Z",
+        "duration": "PT2H7M20S",
+        "viewCount": "45154",
+        "likeCount": "1165",
+        "commentCount": "82"
+    },
+    {
+        "videoId": "oyyV59dCyrA",
+        "title": "Web is in The Past - Native UI in C is Back",
+        "publishedAt": "2023-12-09T14:57:30Z",
+        "duration": "PT1H26M52S",
+        "viewCount": "56220",
+        "likeCount": "1327",
+        "commentCount": "114"
+    },
+    {
+        "videoId": "o94JcrQThaM",
+        "title": "You don't need Generics in C",
+        "publishedAt": "2023-12-01T14:49:39Z",
+        "duration": "PT1H37M38S",
+        "viewCount": "102499",
+        "likeCount": "2124",
+        "commentCount": "225"
+    },
+    {
+        "videoId": "LQ2rX5B0DUA",
+        "title": "Forbidden Rust",
+        "publishedAt": "2023-11-28T14:54:43Z",
+        "duration": "PT2H2M7S",
+        "viewCount": "57946",
+        "likeCount": "1496",
+        "commentCount": "153"
+    },
+    {
+        "videoId": "n-S9DBwPGTo",
+        "title": "Hash Table in C",
+        "publishedAt": "2023-11-26T14:54:11Z",
+        "duration": "PT2H11M31S",
+        "viewCount": "125600",
+        "likeCount": "3062",
+        "commentCount": "154"
+    },
+    {
+        "videoId": "vc5UPu76XOw",
+        "title": "Unreasonably Easy Console Apps in Rust",
+        "publishedAt": "2023-11-19T14:48:22Z",
+        "duration": "PT1H54M16S",
+        "viewCount": "159196",
+        "likeCount": "3246",
+        "commentCount": "213"
+    },
+    {
+        "videoId": "3-KqO8g7qmk",
+        "title": "All WebDev Sucks and you know it",
+        "publishedAt": "2023-11-18T14:53:35Z",
+        "duration": "PT1H39M26S",
+        "viewCount": "70136",
+        "likeCount": "1671",
+        "commentCount": "223"
+    },
+    {
+        "videoId": "XAGCULPO_DE",
+        "title": "I tried React and it Ruined My Life",
+        "publishedAt": "2023-11-14T14:59:59Z",
+        "duration": "PT1H19M10S",
+        "viewCount": "251681",
+        "likeCount": "7371",
+        "commentCount": "1392"
+    },
+    {
+        "videoId": "Sw12N7-zqkk",
+        "title": "My Viewers DDoSed my Rust App",
+        "publishedAt": "2023-11-09T17:15:03Z",
+        "duration": "PT1H51M8S",
+        "viewCount": "35808",
+        "likeCount": "785",
+        "commentCount": "53"
+    },
+    {
+        "videoId": "pmQMTfSABhw",
+        "title": "I regret doing this... (Tsoding Q&A Stream)",
+        "publishedAt": "2023-11-07T14:51:29Z",
+        "duration": "PT1H20M7S",
+        "viewCount": "165537",
+        "likeCount": "4627",
+        "commentCount": "293"
+    },
+    {
+        "videoId": "BbIEuNscn_E",
+        "title": "I rewrote My Go App in Rust",
+        "publishedAt": "2023-11-04T14:55:34Z",
+        "duration": "PT2H38M22S",
+        "viewCount": "126538",
+        "likeCount": "2166",
+        "commentCount": "253"
+    },
+    {
+        "videoId": "qmmQAAJzM54",
+        "title": "My Viewers DDoSed my Go App",
+        "publishedAt": "2023-10-30T15:37:48Z",
+        "duration": "PT2H36M31S",
+        "viewCount": "94002",
+        "likeCount": "2074",
+        "commentCount": "164"
+    },
+    {
+        "videoId": "SRgLA8X5N_4",
+        "title": "Doing UI in C to Piss Off the React devs",
+        "publishedAt": "2023-10-22T14:56:04Z",
+        "duration": "PT2H2M57S",
+        "viewCount": "822246",
+        "likeCount": "20679",
+        "commentCount": "963"
+    },
+    {
+        "videoId": "AUWxl0WdiNI",
+        "title": "Reverse Engineering Data Files",
+        "publishedAt": "2023-10-19T16:01:33Z",
+        "duration": "PT1H59M16S",
+        "viewCount": "48092",
+        "likeCount": "1553",
+        "commentCount": "106"
+    },
+    {
+        "videoId": "ey68sKSFJAU",
+        "title": "The Best Coding Interview Question Ever",
+        "publishedAt": "2023-10-11T14:55:58Z",
+        "duration": "PT1H21M27S",
+        "viewCount": "52534",
+        "likeCount": "1429",
+        "commentCount": "96"
+    },
+    {
+        "videoId": "9mk19dpK9lM",
+        "title": "Programming in Rust again",
+        "publishedAt": "2023-10-09T14:51:50Z",
+        "duration": "PT2H7M20S",
+        "viewCount": "38056",
+        "likeCount": "876",
+        "commentCount": "74"
+    },
+    {
+        "videoId": "qolDp7b4R2o",
+        "title": "This is not Coq",
+        "publishedAt": "2023-10-06T14:55:26Z",
+        "duration": "PT1H23M37S",
+        "viewCount": "19275",
+        "likeCount": "567",
+        "commentCount": "79"
+    },
+    {
+        "videoId": "RRDB6vPbJDo",
+        "title": "You don't need React if you have C - Native UI is the Future",
+        "publishedAt": "2023-10-03T15:00:25Z",
+        "duration": "PT1H8M56S",
+        "viewCount": "50817",
+        "likeCount": "1333",
+        "commentCount": "96"
+    },
+    {
+        "videoId": "ZLJzykUVN10",
+        "title": "Compiler is All You Need - Refactoring Without IDE",
+        "publishedAt": "2023-10-01T15:00:11Z",
+        "duration": "PT1H48M19S",
+        "viewCount": "40523",
+        "likeCount": "920",
+        "commentCount": "52"
+    },
+    {
+        "videoId": "WnBXLmKk_qw",
+        "title": "To-Do App in Assembly",
+        "publishedAt": "2023-09-27T15:02:13Z",
+        "duration": "PT1H5M27S",
+        "viewCount": "152782",
+        "likeCount": "3887",
+        "commentCount": "183"
+    },
+    {
+        "videoId": "b-q4QBy52AA",
+        "title": "Web in Native Assembly (Linux x86_64)",
+        "publishedAt": "2023-09-24T16:00:39Z",
+        "duration": "PT2H3M41S",
+        "viewCount": "76849",
+        "likeCount": "2558",
+        "commentCount": "213"
+    },
+    {
+        "videoId": "wH963jJ1lRM",
+        "title": "Building Raylib using Only C Compiler (No CMake or Zig) (Nob Ep.03)",
+        "publishedAt": "2023-09-17T15:35:41Z",
+        "duration": "PT1H45M14S",
+        "viewCount": "30626",
+        "likeCount": "812",
+        "commentCount": "66"
+    },
+    {
+        "videoId": "l9_TUMZSewo",
+        "title": "Military Grade Build Tool for C (Nob Ep.02)",
+        "publishedAt": "2023-09-15T15:51:33Z",
+        "duration": "PT2H6M50S",
+        "viewCount": "37563",
+        "likeCount": "947",
+        "commentCount": "115"
+    },
+    {
+        "videoId": "eRt7vhosgKE",
+        "title": "How I Stopped Caring and Just Improved My Project (Nob Ep.01)",
+        "publishedAt": "2023-09-12T16:55:56Z",
+        "duration": "PT1H48M36S",
+        "viewCount": "75893",
+        "likeCount": "1948",
+        "commentCount": "138"
+    },
+    {
+        "videoId": "CCvpVNVS-9M",
+        "title": "Capturing Sounds with C",
+        "publishedAt": "2023-09-06T14:54:29Z",
+        "duration": "PT1H51M9S",
+        "viewCount": "30836",
+        "likeCount": "916",
+        "commentCount": "113"
+    },
+    {
+        "videoId": "EB96Auoag6g",
+        "title": "Windows Development on Linux",
+        "publishedAt": "2023-09-02T14:59:00Z",
+        "duration": "PT2H15M17S",
+        "viewCount": "64145",
+        "likeCount": "1883",
+        "commentCount": "222"
+    },
+    {
+        "videoId": "0To1aYglVHE",
+        "title": "C + FFmpeg + Raylib = High Quality Videos (YES! It IS that simple!)",
+        "publishedAt": "2023-08-30T14:59:38Z",
+        "duration": "PT2H12M10S",
+        "viewCount": "64870",
+        "likeCount": "1792",
+        "commentCount": "96"
+    },
+    {
+        "videoId": "1pqIg-Ug7bU",
+        "title": "What if We combine Programming, Art, and Music?",
+        "publishedAt": "2023-08-26T17:06:38Z",
+        "duration": "PT1H59M55S",
+        "viewCount": "35931",
+        "likeCount": "1283",
+        "commentCount": "69"
+    },
+    {
+        "videoId": "-8p-Jd9n-_I",
+        "title": "Ok I tried Tree-sitter! Here is what I think about it...",
+        "publishedAt": "2023-08-23T15:00:23Z",
+        "duration": "PT1H56M47S",
+        "viewCount": "113308",
+        "likeCount": "1962",
+        "commentCount": "157"
+    },
+    {
+        "videoId": "hb9X7fo81Yc",
+        "title": "With This Tool I don't need IDE anymore!",
+        "publishedAt": "2023-08-20T14:57:19Z",
+        "duration": "PT22M56S",
+        "viewCount": "57844",
+        "likeCount": "1403",
+        "commentCount": "87"
+    },
+    {
+        "videoId": "wK1HjnwDQng",
+        "title": "Ok, I made Google for C",
+        "publishedAt": "2023-08-19T15:00:43Z",
+        "duration": "PT2H29M56S",
+        "viewCount": "40258",
+        "likeCount": "994",
+        "commentCount": "93"
+    },
+    {
+        "videoId": "_BrDLSLYGiQ",
+        "title": "Parsing C in 2023",
+        "publishedAt": "2023-08-17T15:02:37Z",
+        "duration": "PT2H26M49S",
+        "viewCount": "61062",
+        "likeCount": "1290",
+        "commentCount": "82"
+    },
+    {
+        "videoId": "B2VS_zeuTQ4",
+        "title": "New Library for Matching Patterns",
+        "publishedAt": "2023-08-13T16:48:54Z",
+        "duration": "PT2H6M18S",
+        "viewCount": "31437",
+        "likeCount": "815",
+        "commentCount": "71"
+    },
+    {
+        "videoId": "ux3s1IIvNdg",
+        "title": "Wait, but Who's Debugging the Debugger?!",
+        "publishedAt": "2023-08-08T14:56:42Z",
+        "duration": "PT59M53S",
+        "viewCount": "42503",
+        "likeCount": "1769",
+        "commentCount": "194"
+    },
+    {
+        "videoId": "ivLIov6ta-8",
+        "title": "My Program Sucks!",
+        "publishedAt": "2023-08-06T14:59:47Z",
+        "duration": "PT59M9S",
+        "viewCount": "27027",
+        "likeCount": "876",
+        "commentCount": "67"
+    },
+    {
+        "videoId": "AhPm8pv6dEs",
+        "title": "This Text Editor Will Replace VSCode",
+        "publishedAt": "2023-08-03T15:01:10Z",
+        "duration": "PT1H46M2S",
+        "viewCount": "218386",
+        "likeCount": "3278",
+        "commentCount": "299"
+    },
+    {
+        "videoId": "fy3tA7gKnK8",
+        "title": "Drag and Drop in C (Yes, it is possible! Let me show you how...)",
+        "publishedAt": "2023-07-30T14:57:20Z",
+        "duration": "PT1H18M2S",
+        "viewCount": "53470",
+        "likeCount": "1504",
+        "commentCount": "91"
+    },
+    {
+        "videoId": "wzU9VatPIUU",
+        "title": "C Logo is a Lie",
+        "publishedAt": "2023-07-30T04:06:58Z",
+        "duration": "PT11S",
+        "viewCount": "363318",
+        "likeCount": "15571",
+        "commentCount": "912"
+    },
+    {
+        "videoId": "PgDqBZFir1A",
+        "title": "Weird Parts of C you probably never heard of...",
+        "publishedAt": "2023-07-27T14:59:27Z",
+        "duration": "PT38M6S",
+        "viewCount": "111822",
+        "likeCount": "3282",
+        "commentCount": "171"
+    },
+    {
+        "videoId": "Y57ruDOwH1g",
+        "title": "Hot Code Reloading in C",
+        "publishedAt": "2023-07-25T15:45:10Z",
+        "duration": "PT2H16M18S",
+        "viewCount": "91528",
+        "likeCount": "2366",
+        "commentCount": "127"
+    },
+    {
+        "videoId": "Xdbk1Pr5WXU",
+        "title": "Music Visualizer (Fast Fourier Transform)",
+        "publishedAt": "2023-07-20T15:55:14Z",
+        "duration": "PT2H53M52S",
+        "viewCount": "96429",
+        "likeCount": "2112",
+        "commentCount": "147"
+    },
+    {
+        "videoId": "PvUQndB8R9s",
+        "title": "Learning Fortran in 2023",
+        "publishedAt": "2023-07-08T16:04:39Z",
+        "duration": "PT2H12M51S",
+        "viewCount": "87271",
+        "likeCount": "1924",
+        "commentCount": "229"
+    },
+    {
+        "videoId": "fST6s4aOxuE",
+        "title": "Neural Network in C that Recognizes Shapes",
+        "publishedAt": "2023-07-07T14:55:26Z",
+        "duration": "PT3H43M48S",
+        "viewCount": "45250",
+        "likeCount": "898",
+        "commentCount": "64"
+    },
+    {
+        "videoId": "UYLHA_Ey8Ys",
+        "title": "Do we even need Garbage Collector anymore?",
+        "publishedAt": "2023-06-27T17:41:39Z",
+        "duration": "PT1H57M57S",
+        "viewCount": "37916",
+        "likeCount": "888",
+        "commentCount": "89"
+    },
+    {
+        "videoId": "iPrltr1b6Q4",
+        "title": "I implemented Goto in OCaml",
+        "publishedAt": "2023-06-15T17:01:48Z",
+        "duration": "PT38M41S",
+        "viewCount": "55718",
+        "likeCount": "1817",
+        "commentCount": "152"
+    },
+    {
+        "videoId": "jmL_zRx59_Q",
+        "title": "What Separates Senior Devs from Juniors? The advice that actually helped me.",
+        "publishedAt": "2023-06-14T15:01:54Z",
+        "duration": "PT1H47M50S",
+        "viewCount": "56724",
+        "likeCount": "1403",
+        "commentCount": "76"
+    },
+    {
+        "videoId": "1bYqbu3L220",
+        "title": "C is the new CSS",
+        "publishedAt": "2023-06-12T15:00:03Z",
+        "duration": "PT1H55M42S",
+        "viewCount": "33325",
+        "likeCount": "816",
+        "commentCount": "66"
+    },
+    {
+        "videoId": "9s8vjf_vLaA",
+        "title": "My GPU Almost Died Doing This Life Simulation",
+        "publishedAt": "2023-06-08T18:07:13Z",
+        "duration": "PT2H24M1S",
+        "viewCount": "21089",
+        "likeCount": "712",
+        "commentCount": "47"
+    },
+    {
+        "videoId": "L68_BBiuHUw",
+        "title": "Simulating Life on my Computer like a Scientist",
+        "publishedAt": "2023-06-06T16:49:19Z",
+        "duration": "PT1H51M8S",
+        "viewCount": "38685",
+        "likeCount": "1312",
+        "commentCount": "77"
+    },
+    {
+        "videoId": "Vrps00O1LNw",
+        "title": "I was wrong about Machine Learning! Here is what I learnt...",
+        "publishedAt": "2023-06-05T15:57:17Z",
+        "duration": "PT1H14M49S",
+        "viewCount": "30275",
+        "likeCount": "786",
+        "commentCount": "61"
+    },
+    {
+        "videoId": "I_3d83cvByY",
+        "title": "ok my AI can Generate Videos now",
+        "publishedAt": "2023-06-02T17:43:27Z",
+        "duration": "PT2H32M7S",
+        "viewCount": "34953",
+        "likeCount": "845",
+        "commentCount": "70"
+    },
+    {
+        "videoId": "eqIMsdYPaNs",
+        "title": "Dramatically Speeding-Up My AI Learning! (I'm actually a bit scared...)",
+        "publishedAt": "2023-05-31T15:02:34Z",
+        "duration": "PT2H15M3S",
+        "viewCount": "26160",
+        "likeCount": "702",
+        "commentCount": "77"
+    },
+    {
+        "videoId": "ZjxPPvqNp3k",
+        "title": "Upscaling Images with Neural Network in C",
+        "publishedAt": "2023-05-30T16:01:11Z",
+        "duration": "PT2H10M4S",
+        "viewCount": "30753",
+        "likeCount": "889",
+        "commentCount": "46"
+    },
+    {
+        "videoId": "Sz-lXj0Ha6E",
+        "title": "I liked Raylib better than SDL (ML in C Ep.05)",
+        "publishedAt": "2023-05-25T17:07:42Z",
+        "duration": "PT3H31M58S",
+        "viewCount": "64879",
+        "likeCount": "1159",
+        "commentCount": "81"
+    },
+    {
+        "videoId": "-ii5SJCGjjU",
+        "title": "Visualizing Neural Networks in C (ML in C Ep.04)",
+        "publishedAt": "2023-05-23T14:57:51Z",
+        "duration": "PT1H52M52S",
+        "viewCount": "31721",
+        "likeCount": "773",
+        "commentCount": "31"
+    },
+    {
+        "videoId": "o7da9anmnMs",
+        "title": "The Most Important Machine Learning Algorithm (ML in C Ep.03)",
+        "publishedAt": "2023-05-18T14:58:42Z",
+        "duration": "PT4H5M47S",
+        "viewCount": "62609",
+        "likeCount": "1491",
+        "commentCount": "104"
+    },
+    {
+        "videoId": "L1TbWe8bVOc",
+        "title": "Making a New Deep Learning Framework (ML in C Ep.02)",
+        "publishedAt": "2023-05-16T15:43:56Z",
+        "duration": "PT3H7M1S",
+        "viewCount": "92952",
+        "likeCount": "1966",
+        "commentCount": "132"
+    },
+    {
+        "videoId": "PGSba51aRYU",
+        "title": "Machine Learning in C (Episode 1)",
+        "publishedAt": "2023-05-15T14:47:42Z",
+        "duration": "PT2H31M7S",
+        "viewCount": "337231",
+        "likeCount": "9910",
+        "commentCount": "394"
+    },
+    {
+        "videoId": "vHQJZyr9rXM",
+        "title": "Pure Canvas UI is the Future (Autocell Ep.05)",
+        "publishedAt": "2023-05-11T15:59:54Z",
+        "duration": "PT2H51M29S",
+        "viewCount": "16247",
+        "likeCount": "351",
+        "commentCount": "21"
+    },
+    {
+        "videoId": "PctTHER-fL4",
+        "title": "I don't think I like Web anymore... (Autocell Ep.04)",
+        "publishedAt": "2023-05-09T14:56:02Z",
+        "duration": "PT2H23M45S",
+        "viewCount": "18004",
+        "likeCount": "423",
+        "commentCount": "61"
+    },
+    {
+        "videoId": "IwZjJatbYoc",
+        "title": "Revolutionizing the Web (Autocell Ep.03)",
+        "publishedAt": "2023-05-04T16:00:42Z",
+        "duration": "PT2H19S",
+        "viewCount": "30619",
+        "likeCount": "805",
+        "commentCount": "74"
+    },
+    {
+        "videoId": "Hz_13P7lRoA",
+        "title": "Living Machines in TypeScript (Autocell Ep.02)",
+        "publishedAt": "2023-04-28T15:57:56Z",
+        "duration": "PT1H3M57S",
+        "viewCount": "16866",
+        "likeCount": "397",
+        "commentCount": "31"
+    },
+    {
+        "videoId": "ygdPRlSo3Qg",
+        "title": "Computer Science in TypeScript (NO DEGREE REQUIRED) (Autocell Ep.01)",
+        "publishedAt": "2023-04-27T16:35:37Z",
+        "duration": "PT2H6M54S",
+        "viewCount": "58373",
+        "likeCount": "1505",
+        "commentCount": "86"
+    },
+    {
+        "videoId": "CRswPcQNeWM",
+        "title": "I unironically liked PHP better than C (c.php Ep.02)",
+        "publishedAt": "2023-04-18T14:59:32Z",
+        "duration": "PT2H47M28S",
+        "viewCount": "33094",
+        "likeCount": "777",
+        "commentCount": "77"
+    },
+    {
+        "videoId": "YvNlVAkHVwk",
+        "title": "Amazingly Flexible C code without OOP or FP Ideological Bullsh*t",
+        "publishedAt": "2023-04-13T14:50:34Z",
+        "duration": "PT1H33M23S",
+        "viewCount": "34917",
+        "likeCount": "772",
+        "commentCount": "98"
+    },
+    {
+        "videoId": "vb7pX7pI7lI",
+        "title": "I compared Two PDF Libraries. C one was faster than Rust one.",
+        "publishedAt": "2023-04-07T14:59:19Z",
+        "duration": "PT1H22M23S",
+        "viewCount": "41457",
+        "likeCount": "851",
+        "commentCount": "118"
+    },
+    {
+        "videoId": "aqK_nRCpcX8",
+        "title": "The Most Powerful Idea in Computer Graphics",
+        "publishedAt": "2023-04-05T15:00:36Z",
+        "duration": "PT29M33S",
+        "viewCount": "16471",
+        "likeCount": "494",
+        "commentCount": "25"
+    },
+    {
+        "videoId": "Yi6NxMxCFY8",
+        "title": "Ok, I made C compiler in PHP (c.php Ep.01)",
+        "publishedAt": "2023-04-04T16:08:48Z",
+        "duration": "PT3H2M49S",
+        "viewCount": "147360",
+        "likeCount": "3348",
+        "commentCount": "260"
+    },
+    {
+        "videoId": "cdVCpS4qvRA",
+        "title": "Coding Math Despite being Traumatized by Education System",
+        "publishedAt": "2023-03-30T15:06:24Z",
+        "duration": "PT1H24M36S",
+        "viewCount": "20353",
+        "likeCount": "569",
+        "commentCount": "35"
+    },
+    {
+        "videoId": "WHwhBsI-i78",
+        "title": "Fixing Pixelated Images with C",
+        "publishedAt": "2023-03-28T14:59:22Z",
+        "duration": "PT2H14M16S",
+        "viewCount": "15373",
+        "likeCount": "482",
+        "commentCount": "35"
+    },
+    {
+        "videoId": "9JULWqjM0Wg",
+        "title": "Rust Multi-Threading",
+        "publishedAt": "2023-03-26T14:52:34Z",
+        "duration": "PT1H50M5S",
+        "viewCount": "39871",
+        "likeCount": "825",
+        "commentCount": "46"
+    },
+    {
+        "videoId": "TS0C_pt08Go",
+        "title": "Coding in Go while Google is Spying on Me",
+        "publishedAt": "2023-03-23T15:02:45Z",
+        "duration": "PT2H31M36S",
+        "viewCount": "58708",
+        "likeCount": "974",
+        "commentCount": "86"
+    },
+    {
+        "videoId": "M-sIyi9VMSU",
+        "title": "3D ASCII with Colors",
+        "publishedAt": "2023-03-21T15:12:54Z",
+        "duration": "PT2H40M13S",
+        "viewCount": "18956",
+        "likeCount": "567",
+        "commentCount": "41"
+    },
+    {
+        "videoId": "V-o1cKaWOQc",
+        "title": "My Text Editor is Getting Too Powerful",
+        "publishedAt": "2023-03-16T18:09:37Z",
+        "duration": "PT2H2M22S",
+        "viewCount": "47049",
+        "likeCount": "964",
+        "commentCount": "70"
+    },
+    {
+        "videoId": "37dKzbyb6i0",
+        "title": "On AI manipulating Humans",
+        "publishedAt": "2023-03-16T16:03:03Z",
+        "duration": "PT7M14S",
+        "viewCount": "9514",
+        "likeCount": "522",
+        "commentCount": "56"
+    },
+    {
+        "videoId": "ldefArsm3x0",
+        "title": "C is Just Better than Bash",
+        "publishedAt": "2023-03-15T16:10:42Z",
+        "duration": "PT1H7M17S",
+        "viewCount": "35140",
+        "likeCount": "968",
+        "commentCount": "67"
+    },
+    {
+        "videoId": "tm60fuF5v54",
+        "title": "File Diff in Python From Scratch",
+        "publishedAt": "2023-03-14T17:08:42Z",
+        "duration": "PT2H25M2S",
+        "viewCount": "24121",
+        "likeCount": "603",
+        "commentCount": "25"
+    },
+    {
+        "videoId": "IM8oA0yPq5k",
+        "title": "I just wanted a Simple 2D Library in C but made This Instead... Oops...",
+        "publishedAt": "2023-03-08T18:06:12Z",
+        "duration": "PT2H19M3S",
+        "viewCount": "14264",
+        "likeCount": "336",
+        "commentCount": "17"
+    },
+    {
+        "videoId": "tG4IeY01-xw",
+        "title": "String Diff in Python",
+        "publishedAt": "2023-03-07T17:48:26Z",
+        "duration": "PT1H55M40S",
+        "viewCount": "19299",
+        "likeCount": "582",
+        "commentCount": "46"
+    },
+    {
+        "videoId": "xdShzvCZPBk",
+        "title": "C pixel-by-pixel Software 3D Rendering",
+        "publishedAt": "2023-03-06T16:00:01Z",
+        "duration": "PT2H18M50S",
+        "viewCount": "14644",
+        "likeCount": "350",
+        "commentCount": "18"
+    },
+    {
+        "videoId": "zRZZ8i8YhGU",
+        "title": "NLP in Rust",
+        "publishedAt": "2023-03-04T18:02:26Z",
+        "duration": "PT1H49M27S",
+        "viewCount": "30194",
+        "likeCount": "799",
+        "commentCount": "66"
+    },
+    {
+        "videoId": "SaK00JxeIB4",
+        "title": "This Graphics Library Works Everywhere! (Web, Native, Terminal)",
+        "publishedAt": "2023-03-03T15:01:59Z",
+        "duration": "PT55M28S",
+        "viewCount": "20594",
+        "likeCount": "466",
+        "commentCount": "32"
+    },
+    {
+        "videoId": "T_sL5fSfrSg",
+        "title": "C/C++ Super Comments",
+        "publishedAt": "2023-03-02T15:36:05Z",
+        "duration": "PT2M14S",
+        "viewCount": "16133",
+        "likeCount": "1035",
+        "commentCount": "59"
+    },
+    {
+        "videoId": "b0KIDIOL_i4",
+        "title": "Speeding up Rust Code",
+        "publishedAt": "2023-02-25T16:00:26Z",
+        "duration": "PT1H29M8S",
+        "viewCount": "33609",
+        "likeCount": "1006",
+        "commentCount": "78"
+    },
+    {
+        "videoId": "SghsxbZh2P0",
+        "title": "Low-Level Graphics Coding in C on Linux",
+        "publishedAt": "2023-02-24T17:01:02Z",
+        "duration": "PT1H53M56S",
+        "viewCount": "38826",
+        "likeCount": "862",
+        "commentCount": "49"
+    },
+    {
+        "videoId": "3x02WZk9eec",
+        "title": "Clean Code and Successful Career in Software Development",
+        "publishedAt": "2023-02-24T15:00:32Z",
+        "duration": "PT4M45S",
+        "viewCount": "38937",
+        "likeCount": "1587",
+        "commentCount": "128"
+    },
+    {
+        "videoId": "OYAKjlYm_Ew",
+        "title": "Rust Web Development (Search Engine Ep.02)",
+        "publishedAt": "2023-02-23T17:00:12Z",
+        "duration": "PT2H15M47S",
+        "viewCount": "46935",
+        "likeCount": "1093",
+        "commentCount": "76"
+    },
+    {
+        "videoId": "hntJGPGdgLg",
+        "title": "I thought this was IMPOSSIBLE without OpenGL (Olive.c Ep.13 - Depth Buffer a.k.a. Z-buffer)",
+        "publishedAt": "2023-02-22T17:00:01Z",
+        "duration": "PT1H48M",
+        "viewCount": "14849",
+        "likeCount": "442",
+        "commentCount": "24"
+    },
+    {
+        "videoId": "GObdGWzbqao",
+        "title": "One Thing Every Programmer Must Have",
+        "publishedAt": "2023-02-22T14:02:14Z",
+        "duration": "PT37S",
+        "viewCount": "611913",
+        "likeCount": "22343",
+        "commentCount": "587"
+    },
+    {
+        "videoId": "hm5xOJiVEeg",
+        "title": "Search Engine in Rust (Ep.01)",
+        "publishedAt": "2023-02-21T15:01:02Z",
+        "duration": "PT2H3M11S",
+        "viewCount": "163332",
+        "likeCount": "3767",
+        "commentCount": "200"
+    },
+    {
+        "videoId": "J39D-OTiyeY",
+        "title": "LaTeX is The Best Thing to Explain Computer Graphics (Olive.c Ep.12 - Math Behind 3D Projection)",
+        "publishedAt": "2023-02-16T15:00:12Z",
+        "duration": "PT1H50M54S",
+        "viewCount": "42781",
+        "likeCount": "1206",
+        "commentCount": "51"
+    },
+    {
+        "videoId": "_t3mtjoHuoQ",
+        "title": "Legendary Font Rendering",
+        "publishedAt": "2023-02-15T15:00:25Z",
+        "duration": "PT1H8M46S",
+        "viewCount": "31729",
+        "likeCount": "762",
+        "commentCount": "63"
+    },
+    {
+        "videoId": "Z6U3dM2P8qw",
+        "title": "No OpenGL Rainbow Triangle (Olive.c Ep.11 - Barycentric Coordinates and Triangular Interpolation)",
+        "publishedAt": "2023-02-14T15:04:11Z",
+        "duration": "PT1H54M33S",
+        "viewCount": "13042",
+        "likeCount": "357",
+        "commentCount": "36"
+    },
+    {
+        "videoId": "3xNM4jDOx3c",
+        "title": "I can code My Text Editor in Itself Now",
+        "publishedAt": "2023-02-13T14:58:22Z",
+        "duration": "PT1H16M10S",
+        "viewCount": "33092",
+        "likeCount": "721",
+        "commentCount": "52"
+    },
+    {
+        "videoId": "Ui5dEtaem0Y",
+        "title": "I'm basically reinventing OpenGL at this point... (Olive.c. Ep.10 - Resizing Rectangular Sprites)",
+        "publishedAt": "2023-02-12T14:07:34Z",
+        "duration": "PT1H47M36S",
+        "viewCount": "15861",
+        "likeCount": "460",
+        "commentCount": "24"
+    },
+    {
+        "videoId": "1E74_0MSKNU",
+        "title": "JavaScript vs C",
+        "publishedAt": "2023-02-12T11:22:47Z",
+        "duration": "PT1M",
+        "viewCount": "341421",
+        "likeCount": "10157",
+        "commentCount": "447"
+    },
+    {
+        "videoId": "AqyZztKlSGQ",
+        "title": "Military Grade C/C++ Lexer from Scratch",
+        "publishedAt": "2023-02-08T14:53:37Z",
+        "duration": "PT2H27M18S",
+        "viewCount": "75345",
+        "likeCount": "1772",
+        "commentCount": "57"
+    },
+    {
+        "videoId": "BI3K-ME3L74",
+        "title": "What is a Lexer (No BS explanation)",
+        "publishedAt": "2023-02-07T15:00:07Z",
+        "duration": "PT3M12S",
+        "viewCount": "50856",
+        "likeCount": "2256",
+        "commentCount": "85"
+    },
+    {
+        "videoId": "_hm4RbRZRrk",
+        "title": "I ported all my Graphics to Terminal (Olive.c Ep.09)",
+        "publishedAt": "2023-02-06T15:00:33Z",
+        "duration": "PT1H7M35S",
+        "viewCount": "14206",
+        "likeCount": "454",
+        "commentCount": "17"
+    },
+    {
+        "videoId": "OFHVhoHchNc",
+        "title": "I invented Revolutionary Syntax Highlighting",
+        "publishedAt": "2023-02-05T15:00:23Z",
+        "duration": "PT1H36M7S",
+        "viewCount": "24207",
+        "likeCount": "624",
+        "commentCount": "56"
+    },
+    {
+        "videoId": "IkqhcQLWmRA",
+        "title": "Adding \"Minecraft\" Text to My C Graphics Library (Olive.c Ep.08)",
+        "publishedAt": "2023-02-03T23:29:45Z",
+        "duration": "PT1H7M34S",
+        "viewCount": "11782",
+        "likeCount": "343",
+        "commentCount": "28"
+    },
+    {
+        "videoId": "CqEoH1rM3Ew",
+        "title": "Adding Selection to My Text Editor",
+        "publishedAt": "2023-01-30T14:48:30Z",
+        "duration": "PT1H33M37S",
+        "viewCount": "13829",
+        "likeCount": "357",
+        "commentCount": "35"
+    },
+    {
+        "videoId": "V2MPHp0OQn8",
+        "title": "I failed Math but Coded 3D From Scratch Anyway (Olive.c Ep.07)",
+        "publishedAt": "2023-01-29T15:57:07Z",
+        "duration": "PT58M25S",
+        "viewCount": "18847",
+        "likeCount": "615",
+        "commentCount": "50"
+    },
+    {
+        "videoId": "x3EctpmNFYM",
+        "title": "Adding File Manager to My Text Editor",
+        "publishedAt": "2023-01-28T15:41:09Z",
+        "duration": "PT1H47M13S",
+        "viewCount": "20542",
+        "likeCount": "516",
+        "commentCount": "26"
+    },
+    {
+        "videoId": "SoaXLQh3UQo",
+        "title": "How to Draw Smooth Circles (Olive.c Ep.06)",
+        "publishedAt": "2023-01-27T15:48:13Z",
+        "duration": "PT1H15M2S",
+        "viewCount": "14072",
+        "likeCount": "424",
+        "commentCount": "24"
+    },
+    {
+        "videoId": "d-udAjI_7Ss",
+        "title": "Infinitely Nested Loops",
+        "publishedAt": "2023-01-26T23:00:21Z",
+        "duration": "PT1M51S",
+        "viewCount": "13116",
+        "likeCount": "505",
+        "commentCount": "33"
+    },
+    {
+        "videoId": "srV_l795O_s",
+        "title": "Rendering Text Editor on GPU",
+        "publishedAt": "2023-01-23T15:14:40Z",
+        "duration": "PT1H52M32S",
+        "viewCount": "16608",
+        "likeCount": "390",
+        "commentCount": "28"
+    },
+    {
+        "videoId": "bjHAFj6_xHE",
+        "title": "Useless Key Occupying Useful Space",
+        "publishedAt": "2023-01-22T14:05:28Z",
+        "duration": "PT2M17S",
+        "viewCount": "14768",
+        "likeCount": "596",
+        "commentCount": "62"
+    },
+    {
+        "videoId": "Dznpy9swEWA",
+        "title": "Easy trick I use to slice up images in memory (Olive.c Ep.05)",
+        "publishedAt": "2023-01-21T15:02:04Z",
+        "duration": "PT12M59S",
+        "viewCount": "11189",
+        "likeCount": "362",
+        "commentCount": "20"
+    },
+    {
+        "videoId": "ZPbe3m_-Res",
+        "title": "If you cringe at your old code, you're improving! (Ded S02E02)",
+        "publishedAt": "2023-01-20T15:05:32Z",
+        "duration": "PT2H1M55S",
+        "viewCount": "17441",
+        "likeCount": "436",
+        "commentCount": "48"
+    },
+    {
+        "videoId": "aKnl8-qifvE",
+        "title": "Adding Transparency to My Graphics Library in C (Olive.c Ep.04)",
+        "publishedAt": "2023-01-19T14:22:00Z",
+        "duration": "PT1H13M33S",
+        "viewCount": "15400",
+        "likeCount": "445",
+        "commentCount": "22"
+    },
+    {
+        "videoId": "w_yXlnjeAy4",
+        "title": "Coding My Own Text Editor Again (Ded S02E01)",
+        "publishedAt": "2022-12-29T13:09:33Z",
+        "duration": "PT1H49M37S",
+        "viewCount": "106694",
+        "likeCount": "2395",
+        "commentCount": "133"
+    },
+    {
+        "videoId": "LKuuzY2ux78",
+        "title": "Porting my C Graphics Library to Web (Olive.c Ep.03)",
+        "publishedAt": "2022-12-19T15:55:40Z",
+        "duration": "PT33M38S",
+        "viewCount": "20887",
+        "likeCount": "671",
+        "commentCount": "42"
+    },
+    {
+        "videoId": "-eS5-kaTSD0",
+        "title": "My Thoughts on AI and the Future of Software Industry",
+        "publishedAt": "2022-12-18T16:39:20Z",
+        "duration": "PT7M23S",
+        "viewCount": "40724",
+        "likeCount": "1906",
+        "commentCount": "101"
+    },
+    {
+        "videoId": "RVCwQmN9dzw",
+        "title": "Adding Triangles to my Graphics Library in C (Olive.c Ep.02)",
+        "publishedAt": "2022-12-16T14:51:59Z",
+        "duration": "PT1H27M10S",
+        "viewCount": "30058",
+        "likeCount": "668",
+        "commentCount": "36"
+    },
+    {
+        "videoId": "lM2Gf-WhwXI",
+        "title": "What Keyboard do I use as a Professional Software Developer",
+        "publishedAt": "2022-12-15T16:44:07Z",
+        "duration": "PT40S",
+        "viewCount": "41909",
+        "likeCount": "878",
+        "commentCount": "102"
+    },
+    {
+        "videoId": "cvx55uRMcLs",
+        "title": "This language is created for GameDev and it shows (Rope in Jai - Ep.02)",
+        "publishedAt": "2022-12-14T15:17:37Z",
+        "duration": "PT1H41M14S",
+        "viewCount": "17738",
+        "likeCount": "390",
+        "commentCount": "14"
+    },
+    {
+        "videoId": "K319-Msy7uI",
+        "title": "Coding a rope in a secret language you have no access to (Rope in Jai - Ep.01)",
+        "publishedAt": "2022-12-10T15:05:03Z",
+        "duration": "PT2H3M53S",
+        "viewCount": "39767",
+        "likeCount": "807",
+        "commentCount": "66"
+    },
+    {
+        "videoId": "LmQKZmQh1ZQ",
+        "title": "New Graphics Library in C (Olive.c Ep.01)",
+        "publishedAt": "2022-11-29T12:39:14Z",
+        "duration": "PT1H58M46S",
+        "viewCount": "173416",
+        "likeCount": "3448",
+        "commentCount": "192"
+    },
+    {
+        "videoId": "qIOAz7M1syw",
+        "title": "Programming in OpenGL be Like (Voronoi Ep.02)",
+        "publishedAt": "2022-11-24T16:38:08Z",
+        "duration": "PT1H45M58S",
+        "viewCount": "23159",
+        "likeCount": "523",
+        "commentCount": "39"
+    },
+    {
+        "videoId": "kT-Mz87-HcQ",
+        "title": "Procedural Graphics in C (Voronoi Ep.01)",
+        "publishedAt": "2022-11-22T14:40:20Z",
+        "duration": "PT1H31M43S",
+        "viewCount": "54201",
+        "likeCount": "1040",
+        "commentCount": "58"
+    },
+    {
+        "videoId": "anOidUQcv1w",
+        "title": "I made JVM in Python just to run \"Hello, World\" (JelloVM Ep.02)",
+        "publishedAt": "2022-10-19T14:56:35Z",
+        "duration": "PT1H49M9S",
+        "viewCount": "43267",
+        "likeCount": "1100",
+        "commentCount": "85"
+    },
+    {
+        "videoId": "67FmRyv8jTM",
+        "title": "Parsing Java Bytecode with Python (JelloVM Ep.01)",
+        "publishedAt": "2022-10-18T15:50:27Z",
+        "duration": "PT2H25M53S",
+        "viewCount": "75628",
+        "likeCount": "1966",
+        "commentCount": "147"
+    },
+    {
+        "videoId": "kjF_YuLsPqo",
+        "title": "No Engine GameDev. How I Design Tutorials.",
+        "publishedAt": "2022-09-19T16:00:18Z",
+        "duration": "PT1H40M39S",
+        "viewCount": "15039",
+        "likeCount": "319",
+        "commentCount": "39"
+    },
+    {
+        "videoId": "YFtT48e9mA0",
+        "title": "Coding Better Animation To Sell My Game",
+        "publishedAt": "2022-09-17T13:48:41Z",
+        "duration": "PT44M46S",
+        "viewCount": "14853",
+        "likeCount": "352",
+        "commentCount": "15"
+    },
+    {
+        "videoId": "6_C9h1dPp54",
+        "title": "JavaScript is the new C",
+        "publishedAt": "2022-09-05T15:15:11Z",
+        "duration": "PT7M14S",
+        "viewCount": "100389",
+        "likeCount": "2654",
+        "commentCount": "213"
+    },
+    {
+        "videoId": "v7GN6sj--no",
+        "title": "Why Do I Have Weird Line Numbers in My Editor?",
+        "publishedAt": "2022-09-04T14:57:12Z",
+        "duration": "PT1M29S",
+        "viewCount": "44490",
+        "likeCount": "1648",
+        "commentCount": "90"
+    },
+    {
+        "videoId": "yBIgzthMEWI",
+        "title": "Read Code Instead of Documentation",
+        "publishedAt": "2022-08-28T12:11:16Z",
+        "duration": "PT1M16S",
+        "viewCount": "38642",
+        "likeCount": "1623",
+        "commentCount": "86"
+    },
+    {
+        "videoId": "8_5L8yVHcII",
+        "title": "DVD Logo Screensaver in Jai (compiled to wasm)",
+        "publishedAt": "2022-08-25T14:32:59Z",
+        "duration": "PT2H7M4S",
+        "viewCount": "11292",
+        "likeCount": "304",
+        "commentCount": "12"
+    },
+    {
+        "videoId": "tfME9wwdgGw",
+        "title": "Patching WebAssembly Binary with C++",
+        "publishedAt": "2022-08-23T13:37:43Z",
+        "duration": "PT3H16M27S",
+        "viewCount": "37967",
+        "likeCount": "609",
+        "commentCount": "39"
+    },
+    {
+        "videoId": "_HGkhvpCbsk",
+        "title": "What is Relative Pointers?",
+        "publishedAt": "2022-08-12T16:15:30Z",
+        "duration": "PT1H51M27S",
+        "viewCount": "38177",
+        "likeCount": "1122",
+        "commentCount": "92"
+    },
+    {
+        "videoId": "8UJNQt8DAWE",
+        "title": "Coding in Pascal in The Modern Age",
+        "publishedAt": "2022-07-27T13:54:57Z",
+        "duration": "PT2H5M4S",
+        "viewCount": "82438",
+        "likeCount": "1845",
+        "commentCount": "178"
+    },
+    {
+        "videoId": "LTDM14349ws",
+        "title": "I compiled my Game to WebAssembly",
+        "publishedAt": "2022-07-06T15:03:07Z",
+        "duration": "PT2H7M49S",
+        "viewCount": "28401",
+        "likeCount": "708",
+        "commentCount": "57"
+    },
+    {
+        "videoId": "sx1cjdJIU70",
+        "title": "This Language does NOT support WebAssembly, but that didn't stop me...",
+        "publishedAt": "2022-07-03T14:12:18Z",
+        "duration": "PT2H15M51S",
+        "viewCount": "18866",
+        "likeCount": "466",
+        "commentCount": "38"
+    },
+    {
+        "videoId": "Y5liBU9f_jM",
+        "title": "Particle Effect without Any Game Engine",
+        "publishedAt": "2022-07-01T14:25:14Z",
+        "duration": "PT2H20M14S",
+        "viewCount": "20553",
+        "likeCount": "467",
+        "commentCount": "32"
+    },
+    {
+        "videoId": "tPUXbxH2AFA",
+        "title": "Custom Hot Reloading in Jai",
+        "publishedAt": "2022-06-27T13:58:58Z",
+        "duration": "PT2H5M35S",
+        "viewCount": "13944",
+        "likeCount": "336",
+        "commentCount": "29"
+    },
+    {
+        "videoId": "SPwnfSmyAGI",
+        "title": "Why I Don't Code in Haskell Anymore?",
+        "publishedAt": "2022-06-25T13:41:05Z",
+        "duration": "PT1M56S",
+        "viewCount": "162765",
+        "likeCount": "4025",
+        "commentCount": "376"
+    },
+    {
+        "videoId": "BKvQXmEmDjU",
+        "title": "Can Your C++ Do That?",
+        "publishedAt": "2022-06-24T14:46:53Z",
+        "duration": "PT1H58M3S",
+        "viewCount": "36495",
+        "likeCount": "685",
+        "commentCount": "58"
+    },
+    {
+        "videoId": "CDCU6b-WzAw",
+        "title": "Migrating from Zig to Jai",
+        "publishedAt": "2022-06-22T16:53:12Z",
+        "duration": "PT1H59M26S",
+        "viewCount": "62606",
+        "likeCount": "923",
+        "commentCount": "108"
+    },
+    {
+        "videoId": "AwbLjR46HkY",
+        "title": "Trying Jai Language for the First Time",
+        "publishedAt": "2022-06-21T14:14:17Z",
+        "duration": "PT2H9M22S",
+        "viewCount": "136033",
+        "likeCount": "2319",
+        "commentCount": "126"
+    },
+    {
+        "videoId": "juWM6saNCZk",
+        "title": "Why is C Compiler So Smart?",
+        "publishedAt": "2022-06-20T13:46:52Z",
+        "duration": "PT4M49S",
+        "viewCount": "172520",
+        "likeCount": "6653",
+        "commentCount": "189"
+    },
+    {
+        "videoId": "yKI-VOBBFu8",
+        "title": "Hacking C compiler",
+        "publishedAt": "2022-06-19T13:52:12Z",
+        "duration": "PT2H24S",
+        "viewCount": "46406",
+        "likeCount": "1406",
+        "commentCount": "95"
+    },
+    {
+        "videoId": "WvwU0wdkB8U",
+        "title": "This is Better Than Brainf*ck (Deque Programming Language)",
+        "publishedAt": "2022-06-18T14:34:28Z",
+        "duration": "PT1H56M29S",
+        "viewCount": "39872",
+        "likeCount": "912",
+        "commentCount": "57"
+    },
+    {
+        "videoId": "qKA2NZ1-kx0",
+        "title": "Cool Shell in Rust (Noq Ep.06)",
+        "publishedAt": "2022-06-17T16:54:45Z",
+        "duration": "PT2H33M39S",
+        "viewCount": "16556",
+        "likeCount": "416",
+        "commentCount": "38"
+    },
+    {
+        "videoId": "Y7vyw_FFj8I",
+        "title": "Improving Syntax of My Language (Noq Ep.05)",
+        "publishedAt": "2022-06-16T14:58:35Z",
+        "duration": "PT2H31M5S",
+        "viewCount": "12378",
+        "likeCount": "308",
+        "commentCount": "32"
+    },
+    {
+        "videoId": "Ma4hPxc107s",
+        "title": "Proving Basic Math (Noq Ep.04)",
+        "publishedAt": "2022-05-25T14:42:47Z",
+        "duration": "PT1H41M25S",
+        "viewCount": "17821",
+        "likeCount": "510",
+        "commentCount": "114"
+    },
+    {
+        "videoId": "LjI8-JyR864",
+        "title": "I guess I'm making Another Language (Noq Ep.03)",
+        "publishedAt": "2022-05-24T15:37:52Z",
+        "duration": "PT2H2M36S",
+        "viewCount": "23249",
+        "likeCount": "701",
+        "commentCount": "73"
+    },
+    {
+        "videoId": "eIX9zER9vjY",
+        "title": "Paid Zig Stream",
+        "publishedAt": "2022-05-20T18:01:16Z",
+        "duration": "PT3H20M37S",
+        "viewCount": "152064",
+        "likeCount": "2821",
+        "commentCount": "195"
+    },
+    {
+        "videoId": "LYIn_Ewpq-E",
+        "title": "Rust Macros (Noq Ep.02)",
+        "publishedAt": "2022-05-13T13:25:58Z",
+        "duration": "PT1H57M2S",
+        "viewCount": "37446",
+        "likeCount": "915",
+        "commentCount": "55"
+    },
+    {
+        "videoId": "Ra_Fk7JFMoo",
+        "title": "New Math Language in Rust (Noq Ep.01)",
+        "publishedAt": "2022-05-11T15:42:41Z",
+        "duration": "PT1H48M44S",
+        "viewCount": "57408",
+        "likeCount": "1444",
+        "commentCount": "83"
+    },
+    {
+        "videoId": "WEk_grxrCcg",
+        "title": "First Ancient Neural Network in C",
+        "publishedAt": "2022-05-07T15:34:32Z",
+        "duration": "PT2H48S",
+        "viewCount": "68250",
+        "likeCount": "2565",
+        "commentCount": "156"
+    },
+    {
+        "videoId": "p1h36tD9yvY",
+        "title": "Porth - Structures",
+        "publishedAt": "2022-03-01T18:29:34Z",
+        "duration": "PT2H25M9S",
+        "viewCount": "20365",
+        "likeCount": "455",
+        "commentCount": "77"
+    },
+    {
+        "videoId": "CKvJhS3sUFM",
+        "title": "Porth - Variables",
+        "publishedAt": "2022-03-01T18:29:22Z",
+        "duration": "PT1H18M8S",
+        "viewCount": "7911",
+        "likeCount": "221",
+        "commentCount": "8"
+    },
+    {
+        "videoId": "66HzJEjZi5U",
+        "title": "Porth - Typed Pointers",
+        "publishedAt": "2022-03-01T18:29:07Z",
+        "duration": "PT1H36M47S",
+        "viewCount": "7176",
+        "likeCount": "219",
+        "commentCount": "23"
+    },
+    {
+        "videoId": "b0bGV7r3nPM",
+        "title": "Simple Feature That Improves Error Handling",
+        "publishedAt": "2022-02-23T12:26:56Z",
+        "duration": "PT26M49S",
+        "viewCount": "16445",
+        "likeCount": "514",
+        "commentCount": "80"
+    },
+    {
+        "videoId": "FgnxnTTnsUI",
+        "title": "I turned My Language Into Brainf*ck Compiler",
+        "publishedAt": "2022-02-20T13:12:11Z",
+        "duration": "PT1H25M6S",
+        "viewCount": "21068",
+        "likeCount": "583",
+        "commentCount": "67"
+    },
+    {
+        "videoId": "CYp99h-faa0",
+        "title": "How Git Inspired Data Structure for My Compiler",
+        "publishedAt": "2022-02-14T14:58:40Z",
+        "duration": "PT2H2M23S",
+        "viewCount": "19566",
+        "likeCount": "546",
+        "commentCount": "54"
+    },
+    {
+        "videoId": "GmrDwSd-kW4",
+        "title": "You Should NOT Program on Linux Like This",
+        "publishedAt": "2022-02-12T13:50:16Z",
+        "duration": "PT2H14M57S",
+        "viewCount": "39947",
+        "likeCount": "965",
+        "commentCount": "68"
+    },
+    {
+        "videoId": "9eOivtfswcE",
+        "title": "Automatically Removing Unused Code",
+        "publishedAt": "2022-02-11T14:35:04Z",
+        "duration": "PT2H5S",
+        "viewCount": "16966",
+        "likeCount": "499",
+        "commentCount": "98"
+    },
+    {
+        "videoId": "7EWcabXLXHo",
+        "title": "I programmed in TypeScript",
+        "publishedAt": "2022-02-09T13:56:29Z",
+        "duration": "PT1H31M50S",
+        "viewCount": "33299",
+        "likeCount": "673",
+        "commentCount": "56"
+    },
+    {
+        "videoId": "5rJ_pLvSGxU",
+        "title": "Stealing Ideas from Python on How to Handle File Paths",
+        "publishedAt": "2022-02-08T12:37:32Z",
+        "duration": "PT1H4M41S",
+        "viewCount": "13825",
+        "likeCount": "427",
+        "commentCount": "50"
+    },
+    {
+        "videoId": "d4hmnE42La8",
+        "title": "The Unreasonable Effectiveness of Buffered IO",
+        "publishedAt": "2022-02-05T13:43:20Z",
+        "duration": "PT1H14M16S",
+        "viewCount": "25479",
+        "likeCount": "620",
+        "commentCount": "45"
+    },
+    {
+        "videoId": "vmzxpUsN0uA",
+        "title": "I've been programming without Negative Numbers the whole time",
+        "publishedAt": "2022-02-04T11:20:24Z",
+        "duration": "PT1H5M31S",
+        "viewCount": "38653",
+        "likeCount": "767",
+        "commentCount": "53"
+    },
+    {
+        "videoId": "CbinTY7GEm0",
+        "title": "Coding Water Ripple Effect with OpenGL and C",
+        "publishedAt": "2022-01-31T13:05:45Z",
+        "duration": "PT1H59M54S",
+        "viewCount": "17346",
+        "likeCount": "477",
+        "commentCount": "21"
+    },
+    {
+        "videoId": "oE6_Ue0ZTHg",
+        "title": "So I made a Web Server using My Programming Language",
+        "publishedAt": "2022-01-29T15:07:35Z",
+        "duration": "PT1H49M5S",
+        "viewCount": "65707",
+        "likeCount": "1640",
+        "commentCount": "103"
+    },
+    {
+        "videoId": "6ZEtmwwbe9w",
+        "title": "This is how I add new features to my language",
+        "publishedAt": "2022-01-26T12:46:31Z",
+        "duration": "PT45M18S",
+        "viewCount": "12421",
+        "likeCount": "376",
+        "commentCount": "45"
+    },
+    {
+        "videoId": "LGvfGuE8maY",
+        "title": "Why Include Files Only Once?",
+        "publishedAt": "2022-01-25T12:27:42Z",
+        "duration": "PT1H49M53S",
+        "viewCount": "15526",
+        "likeCount": "393",
+        "commentCount": "33"
+    },
+    {
+        "videoId": "ihZZB1ngJxE",
+        "title": "Making Snake Game for Linux using My Own Language",
+        "publishedAt": "2022-01-23T13:02:26Z",
+        "duration": "PT2H49M13S",
+        "viewCount": "34657",
+        "likeCount": "842",
+        "commentCount": "57"
+    },
+    {
+        "videoId": "NWmJdtT6Fww",
+        "title": "Better Stack Operations Have Been Discovered",
+        "publishedAt": "2022-01-22T12:14:41Z",
+        "duration": "PT42M28S",
+        "viewCount": "24141",
+        "likeCount": "725",
+        "commentCount": "72"
+    },
+    {
+        "videoId": "r_LmnmLJ5X0",
+        "title": "Making Cursed Textures with OpenGL and C",
+        "publishedAt": "2022-01-17T12:38:47Z",
+        "duration": "PT1H7M39S",
+        "viewCount": "18615",
+        "likeCount": "491",
+        "commentCount": "37"
+    },
+    {
+        "videoId": "9yj-UqzarJY",
+        "title": "This language feature literally implements itself",
+        "publishedAt": "2022-01-15T13:00:03Z",
+        "duration": "PT21M29S",
+        "viewCount": "75704",
+        "likeCount": "1901",
+        "commentCount": "89"
+    },
+    {
+        "videoId": "evpwRlNhfDU",
+        "title": "Getting back to OpenGL after a long time...",
+        "publishedAt": "2022-01-14T12:50:03Z",
+        "duration": "PT1H41M40S",
+        "viewCount": "28133",
+        "likeCount": "609",
+        "commentCount": "51"
+    },
+    {
+        "videoId": "Ord0-ZhMguk",
+        "title": "How Function Pointers Can Be Used?",
+        "publishedAt": "2022-01-13T13:00:10Z",
+        "duration": "PT2H13M55S",
+        "viewCount": "27245",
+        "likeCount": "702",
+        "commentCount": "56"
+    },
+    {
+        "videoId": "xXutZ1oGrag",
+        "title": "Verifying main() function",
+        "publishedAt": "2022-01-10T12:44:49Z",
+        "duration": "PT17M25S",
+        "viewCount": "13726",
+        "likeCount": "463",
+        "commentCount": "28"
+    },
+    {
+        "videoId": "wqyYU4aQGQ8",
+        "title": "I don't use Python anymore...",
+        "publishedAt": "2022-01-08T13:46:37Z",
+        "duration": "PT1H14M20S",
+        "viewCount": "72904",
+        "likeCount": "1186",
+        "commentCount": "91"
+    },
+    {
+        "videoId": "zwOzh6Wh5Os",
+        "title": "Generating Dirty Code in Python",
+        "publishedAt": "2022-01-06T13:56:28Z",
+        "duration": "PT28M4S",
+        "viewCount": "29258",
+        "likeCount": "944",
+        "commentCount": "58"
+    },
+    {
+        "videoId": "M9ZwuIv3xz8",
+        "title": "Hiding Information Inside of PNG",
+        "publishedAt": "2022-01-03T16:13:37Z",
+        "duration": "PT1H53M49S",
+        "viewCount": "52725",
+        "likeCount": "1443",
+        "commentCount": "97"
+    },
+    {
+        "videoId": "AsvCgUxSA1Y",
+        "title": "Fixing Juicy Assembly Bug",
+        "publishedAt": "2022-01-02T15:36:45Z",
+        "duration": "PT12M50S",
+        "viewCount": "9854",
+        "likeCount": "333",
+        "commentCount": "8"
+    },
+    {
+        "videoId": "MQCZieHhgMc",
+        "title": "The Importance of Handling Child Process Exit Status",
+        "publishedAt": "2021-12-30T15:08:31Z",
+        "duration": "PT47M34S",
+        "viewCount": "8928",
+        "likeCount": "276",
+        "commentCount": "12"
+    },
+    {
+        "videoId": "-gIWxGQkIJo",
+        "title": "When optimization breaks your code",
+        "publishedAt": "2021-12-27T14:06:24Z",
+        "duration": "PT1H4M21S",
+        "viewCount": "15755",
+        "likeCount": "422",
+        "commentCount": "44"
+    },
+    {
+        "videoId": "4WliHftiJxQ",
+        "title": "The Power of Inline Functions",
+        "publishedAt": "2021-12-25T14:07:04Z",
+        "duration": "PT1H31M10S",
+        "viewCount": "32233",
+        "likeCount": "765",
+        "commentCount": "36"
+    },
+    {
+        "videoId": "vOEbLg51Veg",
+        "title": "We need Faster Assembler",
+        "publishedAt": "2021-12-18T13:16:38Z",
+        "duration": "PT1H21M53S",
+        "viewCount": "51358",
+        "likeCount": "1289",
+        "commentCount": "90"
+    },
+    {
+        "videoId": "CUUrggXNgu0",
+        "title": "AoC in HolyC Day 17",
+        "publishedAt": "2021-12-17T15:28:41Z",
+        "duration": "PT53M32S",
+        "viewCount": "6649",
+        "likeCount": "114",
+        "commentCount": "11"
+    },
+    {
+        "videoId": "owsNeFJSTSg",
+        "title": "AoC in HolyC Day 16",
+        "publishedAt": "2021-12-17T14:46:16Z",
+        "duration": "PT1H46M53S",
+        "viewCount": "3988",
+        "likeCount": "85",
+        "commentCount": "10"
+    },
+    {
+        "videoId": "ACLtrR9oboc",
+        "title": "I got Jebaited (AoC in HolyC Day 15)",
+        "publishedAt": "2021-12-17T12:45:42Z",
+        "duration": "PT1H30M23S",
+        "viewCount": "5046",
+        "likeCount": "123",
+        "commentCount": "9"
+    },
+    {
+        "videoId": "kRoxFt2kz9o",
+        "title": "AoC in HolyC Day 14",
+        "publishedAt": "2021-12-16T15:33:01Z",
+        "duration": "PT43M59S",
+        "viewCount": "4587",
+        "likeCount": "128",
+        "commentCount": "11"
+    },
+    {
+        "videoId": "h-Kzhk3AJS4",
+        "title": "I failed Day 13 (AoC in HolyC)",
+        "publishedAt": "2021-12-16T14:26:39Z",
+        "duration": "PT51M26S",
+        "viewCount": "6662",
+        "likeCount": "165",
+        "commentCount": "10"
+    },
+    {
+        "videoId": "QVTcXGC2NMk",
+        "title": "Searching All Paths in a Graph (AoC in HolyC Day 12)",
+        "publishedAt": "2021-12-15T13:15:57Z",
+        "duration": "PT1H41M8S",
+        "viewCount": "10651",
+        "likeCount": "242",
+        "commentCount": "15"
+    },
+    {
+        "videoId": "d3eFHyryopQ",
+        "title": "Coding Graphics in TempleOS is Too Easy",
+        "publishedAt": "2021-12-14T13:17:23Z",
+        "duration": "PT34M47S",
+        "viewCount": "230556",
+        "likeCount": "5664",
+        "commentCount": "293"
+    },
+    {
+        "videoId": "AO3UcSqC62Y",
+        "title": "Simulating Emergent Synchronization (AoC in HolyC Day 11)",
+        "publishedAt": "2021-12-13T11:53:47Z",
+        "duration": "PT44M28S",
+        "viewCount": "6326",
+        "likeCount": "186",
+        "commentCount": "13"
+    },
+    {
+        "videoId": "ffcvLZDBBRE",
+        "title": "Fixing Unmatched Brackets Automatically (AoC in HolyC Day 10)",
+        "publishedAt": "2021-12-12T13:00:14Z",
+        "duration": "PT1H42S",
+        "viewCount": "8746",
+        "likeCount": "234",
+        "commentCount": "17"
+    },
+    {
+        "videoId": "da8Egg4QU6Y",
+        "title": "Literally Simulating Lava at this point (AoC in HolyC Day 9)",
+        "publishedAt": "2021-12-11T13:21:42Z",
+        "duration": "PT57M22S",
+        "viewCount": "10207",
+        "likeCount": "245",
+        "commentCount": "18"
+    },
+    {
+        "videoId": "uYG-UZPnJiY",
+        "title": "AoC in HolyC Day 8",
+        "publishedAt": "2021-12-10T12:52:41Z",
+        "duration": "PT2H4M43S",
+        "viewCount": "8553",
+        "likeCount": "202",
+        "commentCount": "21"
+    },
+    {
+        "videoId": "HIFj2LjFSYY",
+        "title": "Fixing Palette Using Only C",
+        "publishedAt": "2021-12-09T12:27:22Z",
+        "duration": "PT1H3M51S",
+        "viewCount": "12892",
+        "likeCount": "343",
+        "commentCount": "43"
+    },
+    {
+        "videoId": "V_lnh-PQRTs",
+        "title": "I riced my TempleOS (AoC in HolyC Day 7)",
+        "publishedAt": "2021-12-08T12:29:45Z",
+        "duration": "PT1H4M32S",
+        "viewCount": "49929",
+        "likeCount": "1065",
+        "commentCount": "85"
+    },
+    {
+        "videoId": "ijWjQd4HwQA",
+        "title": "day 6 was ez (AoC in HolyC)",
+        "publishedAt": "2021-12-07T12:39:27Z",
+        "duration": "PT35M55S",
+        "viewCount": "10159",
+        "likeCount": "235",
+        "commentCount": "20"
+    },
+    {
+        "videoId": "o2gsM3LGFL0",
+        "title": "AoC 2021 in TempleOS — Day 05",
+        "publishedAt": "2021-12-06T13:00:32Z",
+        "duration": "PT54M49S",
+        "viewCount": "6523",
+        "likeCount": "166",
+        "commentCount": "12"
+    },
+    {
+        "videoId": "qj4GIPE374A",
+        "title": "AoC 2021 in TempleOS — Day 04",
+        "publishedAt": "2021-12-05T13:00:31Z",
+        "duration": "PT1H18M15S",
+        "viewCount": "8503",
+        "likeCount": "215",
+        "commentCount": "17"
+    },
+    {
+        "videoId": "B90ilKY-QNg",
+        "title": "Porting My C Library to HolyC for Advent of Code",
+        "publishedAt": "2021-12-05T09:34:13Z",
+        "duration": "PT53M10S",
+        "viewCount": "19541",
+        "likeCount": "440",
+        "commentCount": "45"
+    },
+    {
+        "videoId": "DqOVI7LYV3o",
+        "title": "AoC 2021 in TempleOS — Day 03",
+        "publishedAt": "2021-12-04T12:31:15Z",
+        "duration": "PT1H53M19S",
+        "viewCount": "16762",
+        "likeCount": "396",
+        "commentCount": "37"
+    },
+    {
+        "videoId": "qcZVBI6Ea1A",
+        "title": "AoC 2021 in TempleOS — Day 02",
+        "publishedAt": "2021-12-03T12:48:24Z",
+        "duration": "PT52M41S",
+        "viewCount": "27242",
+        "likeCount": "656",
+        "commentCount": "55"
+    },
+    {
+        "videoId": "nvldfkikveI",
+        "title": "AoC 2021 in TempleOS — Day 01",
+        "publishedAt": "2021-12-02T12:05:42Z",
+        "duration": "PT1H45M57S",
+        "viewCount": "81112",
+        "likeCount": "2031",
+        "commentCount": "137"
+    },
+    {
+        "videoId": "MMqd-6wNJQ4",
+        "title": "My Plans on Advent of Code 2021",
+        "publishedAt": "2021-11-30T13:31:37Z",
+        "duration": "PT3M24S",
+        "viewCount": "32374",
+        "likeCount": "782",
+        "commentCount": "42"
+    },
+    {
+        "videoId": "-e_yyggsh_o",
+        "title": "Making Reactive GUI From Scratch with Just Rectangles",
+        "publishedAt": "2021-11-28T14:15:13Z",
+        "duration": "PT1H59M10S",
+        "viewCount": "22645",
+        "likeCount": "570",
+        "commentCount": "32"
+    },
+    {
+        "videoId": "4J7NtXBnd14",
+        "title": "Why Dynamic Arrays Are Moving in Memory?",
+        "publishedAt": "2021-11-27T13:14:36Z",
+        "duration": "PT3M34S",
+        "viewCount": "18748",
+        "likeCount": "733",
+        "commentCount": "64"
+    },
+    {
+        "videoId": "oyoTEzgFqq8",
+        "title": "Stealing ideas from other Open Source projects",
+        "publishedAt": "2021-11-24T12:53:04Z",
+        "duration": "PT55M52S",
+        "viewCount": "28680",
+        "likeCount": "754",
+        "commentCount": "32"
+    },
+    {
+        "videoId": "sAz_E4TZ-eQ",
+        "title": "Memory Management Experiments in Rust (Porth Ep.31)",
+        "publishedAt": "2021-11-22T12:52:35Z",
+        "duration": "PT2H37M43S",
+        "viewCount": "22879",
+        "likeCount": "532",
+        "commentCount": "54"
+    },
+    {
+        "videoId": "assDDVG0PEo",
+        "title": "Using C instead of Bash",
+        "publishedAt": "2021-11-20T12:42:18Z",
+        "duration": "PT1H14M6S",
+        "viewCount": "44412",
+        "likeCount": "1041",
+        "commentCount": "57"
+    },
+    {
+        "videoId": "2fosrL7I7oc",
+        "title": "This Data Structure could be used for Autocomplete",
+        "publishedAt": "2021-11-19T12:53:41Z",
+        "duration": "PT1H54M31S",
+        "viewCount": "49444",
+        "likeCount": "1449",
+        "commentCount": "89"
+    },
+    {
+        "videoId": "6tl7YmTnFQ4",
+        "title": "Native Simulation Mode for My Language (Porth Ep.30)",
+        "publishedAt": "2021-11-16T14:24:38Z",
+        "duration": "PT2H14M55S",
+        "viewCount": "10907",
+        "likeCount": "326",
+        "commentCount": "43"
+    },
+    {
+        "videoId": "0K05OdikAgY",
+        "title": "I made a whole Language just to Generate This Thumbnail",
+        "publishedAt": "2021-11-15T13:00:01Z",
+        "duration": "PT49M23S",
+        "viewCount": "15726",
+        "likeCount": "520",
+        "commentCount": "48"
+    },
+    {
+        "videoId": "z3S60XTXdlw",
+        "title": "White Noise Generator in C",
+        "publishedAt": "2021-11-14T13:45:21Z",
+        "duration": "PT2H1M30S",
+        "viewCount": "22394",
+        "likeCount": "656",
+        "commentCount": "37"
+    },
+    {
+        "videoId": "zA3O7cNx8dw",
+        "title": "It Compiles Itself (Porth Ep.29)",
+        "publishedAt": "2021-11-10T13:00:28Z",
+        "duration": "PT11M8S",
+        "viewCount": "18160",
+        "likeCount": "862",
+        "commentCount": "59"
+    },
+    {
+        "videoId": "zQUcqAkg3CM",
+        "title": "Uh-oh! My Language is Slower Than Python! (Porth Ep.28)",
+        "publishedAt": "2021-11-09T13:54:07Z",
+        "duration": "PT3H15M24S",
+        "viewCount": "20718",
+        "likeCount": "536",
+        "commentCount": "63"
+    },
+    {
+        "videoId": "nY3FsgdSpW4",
+        "title": "Compile Time Checks (Porth Ep.27)",
+        "publishedAt": "2021-11-08T13:00:32Z",
+        "duration": "PT1H34M35S",
+        "viewCount": "10509",
+        "likeCount": "327",
+        "commentCount": "22"
+    },
+    {
+        "videoId": "SQxDKnaCSC4",
+        "title": "Local Memory (Porth Ep.26)",
+        "publishedAt": "2021-11-05T14:27:50Z",
+        "duration": "PT1H15M12S",
+        "viewCount": "10502",
+        "likeCount": "307",
+        "commentCount": "23"
+    },
+    {
+        "videoId": "oeRIKEex0Gc",
+        "title": "Deprecating Macros (Porth Ep.25)",
+        "publishedAt": "2021-11-02T16:34:46Z",
+        "duration": "PT1H8M9S",
+        "viewCount": "14109",
+        "likeCount": "399",
+        "commentCount": "48"
+    },
+    {
+        "videoId": "9nik-50ET3Q",
+        "title": "Let's Talk About Functional Programming",
+        "publishedAt": "2021-10-31T14:26:16Z",
+        "duration": "PT1H47M7S",
+        "viewCount": "102328",
+        "likeCount": "2179",
+        "commentCount": "137"
+    },
+    {
+        "videoId": "wEv5R2aKOtk",
+        "title": "Uh-Oh! My Language Causes Bloat! (Porth Ep.24)",
+        "publishedAt": "2021-10-28T15:09:28Z",
+        "duration": "PT2H17M50S",
+        "viewCount": "17205",
+        "likeCount": "487",
+        "commentCount": "35"
+    },
+    {
+        "videoId": "TMlVSGGLIZo",
+        "title": "Memory Allocation (Porth Ep.23)",
+        "publishedAt": "2021-10-25T15:13:10Z",
+        "duration": "PT2H3M43S",
+        "viewCount": "17269",
+        "likeCount": "461",
+        "commentCount": "34"
+    },
+    {
+        "videoId": "33P7g_ymK1A",
+        "title": "Comparing Strings is Hard (Porth Ep.22)",
+        "publishedAt": "2021-10-23T12:50:07Z",
+        "duration": "PT1H36M5S",
+        "viewCount": "17065",
+        "likeCount": "436",
+        "commentCount": "30"
+    },
+    {
+        "videoId": "1eVCz4-_S6Y",
+        "title": "I moved to GitLab (Porth Ep.21)",
+        "publishedAt": "2021-10-18T13:12:02Z",
+        "duration": "PT1H26M11S",
+        "viewCount": "44903",
+        "likeCount": "849",
+        "commentCount": "110"
+    },
+    {
+        "videoId": "QsKnBPsrDVY",
+        "title": "This is Readable (Porth Ep.20)",
+        "publishedAt": "2021-10-17T15:04:43Z",
+        "duration": "PT1H10M23S",
+        "viewCount": "24147",
+        "likeCount": "425",
+        "commentCount": "40"
+    },
+    {
+        "videoId": "IQW8Jr849jM",
+        "title": "Answering Questions about My Language (Porth Ep.19)",
+        "publishedAt": "2021-10-15T13:00:07Z",
+        "duration": "PT14M3S",
+        "viewCount": "11843",
+        "likeCount": "363",
+        "commentCount": "31"
+    },
+    {
+        "videoId": "85kMAOtZsTE",
+        "title": "Making Debugging Tool For My Compiler (Porth Ep.18)",
+        "publishedAt": "2021-10-14T13:00:05Z",
+        "duration": "PT1H6M56S",
+        "viewCount": "13562",
+        "likeCount": "430",
+        "commentCount": "14"
+    },
+    {
+        "videoId": "nsjXy-rv3vM",
+        "title": "Rewriting My Language in itself (Porth Ep.17)",
+        "publishedAt": "2021-10-10T13:00:17Z",
+        "duration": "PT2H1M17S",
+        "viewCount": "50632",
+        "likeCount": "1165",
+        "commentCount": "108"
+    },
+    {
+        "videoId": "QkuNmL7tz08",
+        "title": "Inverting Binary Tree Without Recursion in Rust",
+        "publishedAt": "2021-10-07T13:04:12Z",
+        "duration": "PT2H3M30S",
+        "viewCount": "22120",
+        "likeCount": "547",
+        "commentCount": "48"
+    },
+    {
+        "videoId": "4WGCI_O8NAQ",
+        "title": "Advanced Type Checking (Porth Ep.16)",
+        "publishedAt": "2021-10-06T12:51:28Z",
+        "duration": "PT2H2M38S",
+        "viewCount": "13940",
+        "likeCount": "382",
+        "commentCount": "41"
+    },
+    {
+        "videoId": "MiR26zWzPQ0",
+        "title": "Static Type Checking (Porth Ep.15)",
+        "publishedAt": "2021-10-05T13:00:18Z",
+        "duration": "PT55M9S",
+        "viewCount": "15894",
+        "likeCount": "445",
+        "commentCount": "44"
+    },
+    {
+        "videoId": "iUQXfePclQY",
+        "title": "Basically Emulating Linux with Python at this point... (Porth Ep.14)",
+        "publishedAt": "2021-10-04T12:58:21Z",
+        "duration": "PT1H13M27S",
+        "viewCount": "35222",
+        "likeCount": "683",
+        "commentCount": "34"
+    },
+    {
+        "videoId": "41q9yUobk5k",
+        "title": "How Do I Unit Test?",
+        "publishedAt": "2021-10-02T13:00:02Z",
+        "duration": "PT4M46S",
+        "viewCount": "28893",
+        "likeCount": "600",
+        "commentCount": "32"
+    },
+    {
+        "videoId": "VERtSng5F9s",
+        "title": "Turning Bug into a Feature (Porth Ep.13)",
+        "publishedAt": "2021-09-29T13:00:28Z",
+        "duration": "PT53M46S",
+        "viewCount": "14961",
+        "likeCount": "541",
+        "commentCount": "31"
+    },
+    {
+        "videoId": "9xP30akTNyA",
+        "title": "Safety For Macros (Porth Ep.12)",
+        "publishedAt": "2021-09-28T13:00:11Z",
+        "duration": "PT1H3M36S",
+        "viewCount": "13101",
+        "likeCount": "424",
+        "commentCount": "41"
+    },
+    {
+        "videoId": "Dc_dVBrOshE",
+        "title": "Python is Too Slow",
+        "publishedAt": "2021-09-27T13:00:06Z",
+        "duration": "PT42M55S",
+        "viewCount": "57947",
+        "likeCount": "1634",
+        "commentCount": "182"
+    },
+    {
+        "videoId": "GV1yjYnr8_o",
+        "title": "I made a whole Language just to solve Coding Problems (Porth Ep.10)",
+        "publishedAt": "2021-09-26T13:00:13Z",
+        "duration": "PT2H4M30S",
+        "viewCount": "40315",
+        "likeCount": "930",
+        "commentCount": "46"
+    },
+    {
+        "videoId": "_7jnWBK0woA",
+        "title": "Static Types in Python? (Porth Ep.09)",
+        "publishedAt": "2021-09-23T13:00:13Z",
+        "duration": "PT1H3M37S",
+        "viewCount": "21221",
+        "likeCount": "617",
+        "commentCount": "68"
+    },
+    {
+        "videoId": "4-eFQ7jurm0",
+        "title": "Macros | Compiler Development | Porth Ep.08",
+        "publishedAt": "2021-09-21T12:53:36Z",
+        "duration": "PT2H24M45S",
+        "viewCount": "18813",
+        "likeCount": "488",
+        "commentCount": "42"
+    },
+    {
+        "videoId": "bN_8ZK7WoxI",
+        "title": "Compiler Development | String Literals | Porth Ep.07",
+        "publishedAt": "2021-09-19T13:00:30Z",
+        "duration": "PT1H37M13S",
+        "viewCount": "19313",
+        "likeCount": "545",
+        "commentCount": "24"
+    },
+    {
+        "videoId": "vFB0Ot-ZdIM",
+        "title": "Why is C Faster Than My Language?",
+        "publishedAt": "2021-09-17T13:00:35Z",
+        "duration": "PT15M16S",
+        "viewCount": "200178",
+        "likeCount": "5196",
+        "commentCount": "231"
+    },
+    {
+        "videoId": "Cm76TYPC-ow",
+        "title": "Making Compiler without LLVM in 2021 KEKW — Porth Ep.05",
+        "publishedAt": "2021-09-16T13:32:35Z",
+        "duration": "PT2H7M29S",
+        "viewCount": "38897",
+        "likeCount": "897",
+        "commentCount": "34"
+    },
+    {
+        "videoId": "z75oTuB2cU8",
+        "title": "writing simple programming language — Porth Ep.04",
+        "publishedAt": "2021-09-13T13:00:27Z",
+        "duration": "PT1H55M14S",
+        "viewCount": "23407",
+        "likeCount": "545",
+        "commentCount": "25"
+    },
+    {
+        "videoId": "QlKSCn-Al6Q",
+        "title": "Generating Assembly with Python — Conditions and Loops — Porth Ep.03",
+        "publishedAt": "2021-09-12T13:00:10Z",
+        "duration": "PT2H20M6S",
+        "viewCount": "47942",
+        "likeCount": "995",
+        "commentCount": "49"
+    },
+    {
+        "videoId": "Gla_7umYcPQ",
+        "title": "Python List Comprehension for Better Error Reporting in My Language — Porth Ep.02",
+        "publishedAt": "2021-09-11T13:00:07Z",
+        "duration": "PT41M53S",
+        "viewCount": "32552",
+        "likeCount": "864",
+        "commentCount": "36"
+    },
+    {
+        "videoId": "8QP2fDBIxjM",
+        "title": "Making Programming Language in Python -- Porth Ep.01",
+        "publishedAt": "2021-09-08T13:09:17Z",
+        "duration": "PT1H52M31S",
+        "viewCount": "173098",
+        "likeCount": "3187",
+        "commentCount": "159"
+    },
+    {
+        "videoId": "hmMtQe_mYr0",
+        "title": "My First Hello, World in C. Very proud!",
+        "publishedAt": "2021-09-06T12:54:44Z",
+        "duration": "PT33M59S",
+        "viewCount": "80804",
+        "likeCount": "1954",
+        "commentCount": "128"
+    },
+    {
+        "videoId": "osnd75j7Wco",
+        "title": "Playing with X11 Double Buffering Extension",
+        "publishedAt": "2021-08-29T15:00:18Z",
+        "duration": "PT2H35M27S",
+        "viewCount": "7215",
+        "likeCount": "184",
+        "commentCount": "20"
+    },
+    {
+        "videoId": "bpCJf67e1lI",
+        "title": "Searching Duplicate Files with C",
+        "publishedAt": "2021-08-26T15:00:14Z",
+        "duration": "PT2H39M23S",
+        "viewCount": "40239",
+        "likeCount": "1076",
+        "commentCount": "50"
+    },
+    {
+        "videoId": "zhErv2CPqiY",
+        "title": "Multi-Threading in C — Barriers",
+        "publishedAt": "2021-08-24T16:10:04Z",
+        "duration": "PT1H43M9S",
+        "viewCount": "16218",
+        "likeCount": "351",
+        "commentCount": "13"
+    },
+    {
+        "videoId": "cU5WcrU_YI4",
+        "title": "How to Draw Lines with Shaders?",
+        "publishedAt": "2021-08-23T15:01:03Z",
+        "duration": "PT57M17S",
+        "viewCount": "46958",
+        "likeCount": "1186",
+        "commentCount": "39"
+    },
+    {
+        "videoId": "pfAhIpbnZfM",
+        "title": "2mpeg4yuv — part 6",
+        "publishedAt": "2021-08-23T13:06:16Z",
+        "duration": "PT2H57M54S",
+        "viewCount": "1286",
+        "likeCount": "49",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "vzrrKH67j-w",
+        "title": "2mpeg4yuv — part 5",
+        "publishedAt": "2021-08-22T15:35:31Z",
+        "duration": "PT2H56M11S",
+        "viewCount": "1183",
+        "likeCount": "47",
+        "commentCount": "0"
+    },
+    {
+        "videoId": "11_eu-D6FMo",
+        "title": "2mpeg4yuv — Part 4",
+        "publishedAt": "2021-08-21T16:24:51Z",
+        "duration": "PT1H41M10S",
+        "viewCount": "1401",
+        "likeCount": "53",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "mzJdGLfLRf8",
+        "title": "2mpeg4yuv — Part 3",
+        "publishedAt": "2021-08-20T15:17:05Z",
+        "duration": "PT2H35M58S",
+        "viewCount": "2170",
+        "likeCount": "75",
+        "commentCount": "0"
+    },
+    {
+        "videoId": "Zn3yHU09YwE",
+        "title": "2mpeg4yuv — Part 2",
+        "publishedAt": "2021-08-19T16:12:38Z",
+        "duration": "PT3H19M5S",
+        "viewCount": "3584",
+        "likeCount": "105",
+        "commentCount": "4"
+    },
+    {
+        "videoId": "U4EP2CoRmc4",
+        "title": "2mpeg4yuv — Part 1",
+        "publishedAt": "2021-08-18T15:00:10Z",
+        "duration": "PT2H18M53S",
+        "viewCount": "7391",
+        "likeCount": "197",
+        "commentCount": "17"
+    },
+    {
+        "videoId": "PUu5kjoWw0k",
+        "title": "Rendering This in Real-Time on CPU",
+        "publishedAt": "2021-08-14T15:00:09Z",
+        "duration": "PT2H28S",
+        "viewCount": "10074",
+        "likeCount": "289",
+        "commentCount": "12"
+    },
+    {
+        "videoId": "8QmPpf4k34E",
+        "title": "Anti-Aliasing in Rust",
+        "publishedAt": "2021-08-13T15:00:10Z",
+        "duration": "PT44M51S",
+        "viewCount": "9684",
+        "likeCount": "300",
+        "commentCount": "7"
+    },
+    {
+        "videoId": "5r-8JCOsJwA",
+        "title": "Shadertoy Math — Circle-Rect Intersection",
+        "publishedAt": "2021-08-11T15:00:01Z",
+        "duration": "PT36M7S",
+        "viewCount": "4052",
+        "likeCount": "199",
+        "commentCount": "10"
+    },
+    {
+        "videoId": "kLj-H1K317U",
+        "title": "Coding a Bouncing Ball in Terminal",
+        "publishedAt": "2021-08-09T15:00:19Z",
+        "duration": "PT1H26M29S",
+        "viewCount": "88401",
+        "likeCount": "2534",
+        "commentCount": "93"
+    },
+    {
+        "videoId": "sJuA5OPvABM",
+        "title": "Inline Functions in C",
+        "publishedAt": "2021-08-08T15:00:32Z",
+        "duration": "PT49M57S",
+        "viewCount": "13338",
+        "likeCount": "479",
+        "commentCount": "11"
+    },
+    {
+        "videoId": "AJIyRE2vZ_0",
+        "title": "Programming in Rust",
+        "publishedAt": "2021-08-07T15:00:11Z",
+        "duration": "PT2H28M16S",
+        "viewCount": "47512",
+        "likeCount": "929",
+        "commentCount": "48"
+    },
+    {
+        "videoId": "G6xxFGxIKAA",
+        "title": "Powerful Meta-Programming in C",
+        "publishedAt": "2021-08-06T15:00:08Z",
+        "duration": "PT2H38M40S",
+        "viewCount": "32367",
+        "likeCount": "668",
+        "commentCount": "38"
+    },
+    {
+        "videoId": "ekMDBusBFx0",
+        "title": "Generating C Libraries",
+        "publishedAt": "2021-08-05T15:00:16Z",
+        "duration": "PT1H53M44S",
+        "viewCount": "13438",
+        "likeCount": "362",
+        "commentCount": "10"
+    },
+    {
+        "videoId": "sSP42LcI15Y",
+        "title": "Literate Haskell but in C",
+        "publishedAt": "2021-08-03T15:00:34Z",
+        "duration": "PT2H25M24S",
+        "viewCount": "22838",
+        "likeCount": "464",
+        "commentCount": "19"
+    },
+    {
+        "videoId": "mpqaQIrVgew",
+        "title": "Rewriting Go's flag module in C",
+        "publishedAt": "2021-08-02T15:00:32Z",
+        "duration": "PT2H39M50S",
+        "viewCount": "17523",
+        "likeCount": "408",
+        "commentCount": "17"
+    },
+    {
+        "videoId": "YMdTxSM00do",
+        "title": "No Garbage Collector",
+        "publishedAt": "2021-08-01T15:00:11Z",
+        "duration": "PT2H25M2S",
+        "viewCount": "5293",
+        "likeCount": "137",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "764fnfEb1_c",
+        "title": "X11 App in C with Xlib",
+        "publishedAt": "2021-07-30T15:00:08Z",
+        "duration": "PT2H17M23S",
+        "viewCount": "42482",
+        "likeCount": "924",
+        "commentCount": "53"
+    },
+    {
+        "videoId": "kx5_8kbSJtY",
+        "title": "Writing Profiler for Multi-Threaded Renderer",
+        "publishedAt": "2021-07-29T15:00:32Z",
+        "duration": "PT1H56M35S",
+        "viewCount": "2407",
+        "likeCount": "61",
+        "commentCount": "8"
+    },
+    {
+        "videoId": "7fylNa2wZaU",
+        "title": "Can't solve this in Haskell and even Clojure",
+        "publishedAt": "2021-07-28T16:00:04Z",
+        "duration": "PT1H24M23S",
+        "viewCount": "67177",
+        "likeCount": "1344",
+        "commentCount": "122"
+    },
+    {
+        "videoId": "UiaVvVpWY4E",
+        "title": "Multi-Threaded Tile Renderer in C",
+        "publishedAt": "2021-07-27T15:14:55Z",
+        "duration": "PT3H27M51S",
+        "viewCount": "4336",
+        "likeCount": "100",
+        "commentCount": "8"
+    },
+    {
+        "videoId": "_SufQh6OIzs",
+        "title": "Rewriting My Old Pascal Code in C",
+        "publishedAt": "2021-07-26T15:00:29Z",
+        "duration": "PT2H14M10S",
+        "viewCount": "11567",
+        "likeCount": "240",
+        "commentCount": "24"
+    },
+    {
+        "videoId": "IGTuv_KKLFs",
+        "title": "Programming in Nim (Wang Tiles 01)",
+        "publishedAt": "2021-07-24T15:00:15Z",
+        "duration": "PT2H59M38S",
+        "viewCount": "28343",
+        "likeCount": "528",
+        "commentCount": "52"
+    },
+    {
+        "videoId": "Ud6lzJ_IWIU",
+        "title": "LRU Cache in C Tutorial",
+        "publishedAt": "2021-07-23T15:00:13Z",
+        "duration": "PT3H31M5S",
+        "viewCount": "13069",
+        "likeCount": "303",
+        "commentCount": "11"
+    },
+    {
+        "videoId": "rlZ21yofaYk",
+        "title": "Writing Text Editor with OpenGL — Zoom",
+        "publishedAt": "2021-07-20T10:31:55Z",
+        "duration": "PT3H21M38S",
+        "viewCount": "6757",
+        "likeCount": "138",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "vt3kAuu1iOU",
+        "title": "Mini Excel in C — Part 4 (Finale) — Arithmetic Operations",
+        "publishedAt": "2021-07-18T17:38:39Z",
+        "duration": "PT2H8M",
+        "viewCount": "7393",
+        "likeCount": "132",
+        "commentCount": "5"
+    },
+    {
+        "videoId": "-bmQfLgiEYA",
+        "title": "Mini Excel in C — Part 3 — Error Reporting",
+        "publishedAt": "2021-07-17T17:41:39Z",
+        "duration": "PT2H32M41S",
+        "viewCount": "5991",
+        "likeCount": "113",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "HWgB-YOlxko",
+        "title": "Mini Excel in C — Part 2 — Memory Management and Cell Cloning",
+        "publishedAt": "2021-07-16T15:00:16Z",
+        "duration": "PT3H12M59S",
+        "viewCount": "17082",
+        "likeCount": "257",
+        "commentCount": "8"
+    },
+    {
+        "videoId": "HCAgvKQDJng",
+        "title": "Mini Excel in C — Part 1",
+        "publishedAt": "2021-07-15T18:10:23Z",
+        "duration": "PT3H11M9S",
+        "viewCount": "72958",
+        "likeCount": "1456",
+        "commentCount": "55"
+    },
+    {
+        "videoId": "GrG5_U0NHKk",
+        "title": "Program That Rebuilds Itself",
+        "publishedAt": "2021-07-13T15:00:05Z",
+        "duration": "PT2H39M4S",
+        "viewCount": "10263",
+        "likeCount": "245",
+        "commentCount": "6"
+    },
+    {
+        "videoId": "exoC28LWG5E",
+        "title": "Cursor",
+        "publishedAt": "2021-07-12T15:00:16Z",
+        "duration": "PT1H44M39S",
+        "viewCount": "7267",
+        "likeCount": "162",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "4DRpgPgzLzY",
+        "title": "this editor is kinda gei ngl",
+        "publishedAt": "2021-07-11T15:00:06Z",
+        "duration": "PT3H54M33S",
+        "viewCount": "10521",
+        "likeCount": "219",
+        "commentCount": "5"
+    },
+    {
+        "videoId": "9hFIfGq8hI8",
+        "title": "Adding Function Arguments to My Language",
+        "publishedAt": "2021-07-08T19:19:05Z",
+        "duration": "PT2H58M31S",
+        "viewCount": "2151",
+        "likeCount": "44",
+        "commentCount": "5"
+    },
+    {
+        "videoId": "1vRUzw5YmVY",
+        "title": "Text Editor with Shaders",
+        "publishedAt": "2021-07-07T17:13:09Z",
+        "duration": "PT2H32M20S",
+        "viewCount": "8577",
+        "likeCount": "191",
+        "commentCount": "9"
+    },
+    {
+        "videoId": "SmGTKcTzP_w",
+        "title": "Rewriting Text Editor Renderer in OpenGL",
+        "publishedAt": "2021-07-05T15:09:20Z",
+        "duration": "PT2H45M17S",
+        "viewCount": "16344",
+        "likeCount": "312",
+        "commentCount": "7"
+    },
+    {
+        "videoId": "DpJx9tRqS7U",
+        "title": "Making My Text Editor Dramatic",
+        "publishedAt": "2021-07-04T16:08:58Z",
+        "duration": "PT2H2M13S",
+        "viewCount": "13049",
+        "likeCount": "269",
+        "commentCount": "14"
+    },
+    {
+        "videoId": "LJRafwq6Fdg",
+        "title": "What should we name our Text Editor?",
+        "publishedAt": "2021-07-03T15:00:15Z",
+        "duration": "PT3H1M2S",
+        "viewCount": "17422",
+        "likeCount": "312",
+        "commentCount": "11"
+    },
+    {
+        "videoId": "2UY_Am-Q-oI",
+        "title": "Writing Text Editor",
+        "publishedAt": "2021-07-02T15:00:01Z",
+        "duration": "PT2H15M32S",
+        "viewCount": "97236",
+        "likeCount": "1503",
+        "commentCount": "51"
+    },
+    {
+        "videoId": "4vSyqK3SK-0",
+        "title": "Including C File Over HTTPS",
+        "publishedAt": "2021-07-01T14:20:29Z",
+        "duration": "PT2H32M40S",
+        "viewCount": "55974",
+        "likeCount": "1426",
+        "commentCount": "50"
+    },
+    {
+        "videoId": "Uj0CrPM65Rc",
+        "title": "My Rust Skill Are Growing Stronger",
+        "publishedAt": "2021-06-29T15:50:18Z",
+        "duration": "PT2H26M31S",
+        "viewCount": "2925",
+        "likeCount": "68",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "p1A5HdRW5R0",
+        "title": "Coding Terminal for My Game",
+        "publishedAt": "2021-06-28T16:19:34Z",
+        "duration": "PT2H1M11S",
+        "viewCount": "3001",
+        "likeCount": "65",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "5Z1VwVAlJwQ",
+        "title": "Tooltip",
+        "publishedAt": "2021-06-27T15:00:12Z",
+        "duration": "PT30M30S",
+        "viewCount": "1056",
+        "likeCount": "34",
+        "commentCount": "0"
+    },
+    {
+        "videoId": "K5KKf3JopSM",
+        "title": "Adding Local Variables to My Language",
+        "publishedAt": "2021-06-26T15:00:12Z",
+        "duration": "PT1H45M48S",
+        "viewCount": "1378",
+        "likeCount": "47",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "RTFIasLSBoU",
+        "title": "Writing New Programming Language — The Stack",
+        "publishedAt": "2021-06-25T14:44:18Z",
+        "duration": "PT3H6M32S",
+        "viewCount": "4201",
+        "likeCount": "101",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "Iveh2W3roJk",
+        "title": "Two Panel Interface in Rust",
+        "publishedAt": "2021-06-24T15:00:05Z",
+        "duration": "PT1H58M40S",
+        "viewCount": "8153",
+        "likeCount": "179",
+        "commentCount": "14"
+    },
+    {
+        "videoId": "tR6p7ZC7RaU",
+        "title": "Terminal To-Do App in Rust",
+        "publishedAt": "2021-06-22T15:00:25Z",
+        "duration": "PT2H55M5S",
+        "viewCount": "61259",
+        "likeCount": "1238",
+        "commentCount": "52"
+    },
+    {
+        "videoId": "-FYKw5rH2aU",
+        "title": "Improving Immediate UI for My Game",
+        "publishedAt": "2021-06-20T15:30:12Z",
+        "duration": "PT2H47M19S",
+        "viewCount": "1654",
+        "likeCount": "49",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "8e56I1z9cn4",
+        "title": "Immediate UI for My Game in C++",
+        "publishedAt": "2021-06-19T15:00:12Z",
+        "duration": "PT1H24M30S",
+        "viewCount": "32571",
+        "likeCount": "596",
+        "commentCount": "15"
+    },
+    {
+        "videoId": "jIxsH3E-Hjg",
+        "title": "How to Handle Operator Precedence",
+        "publishedAt": "2021-06-17T15:15:09Z",
+        "duration": "PT27M46S",
+        "viewCount": "10153",
+        "likeCount": "268",
+        "commentCount": "13"
+    },
+    {
+        "videoId": "MQB4zabVHZY",
+        "title": "Switching to TypeScript",
+        "publishedAt": "2021-06-16T15:36:22Z",
+        "duration": "PT2H32M6S",
+        "viewCount": "24282",
+        "likeCount": "449",
+        "commentCount": "16"
+    },
+    {
+        "videoId": "2JgEKEd3tw8",
+        "title": "Writing Garbage Collector in C",
+        "publishedAt": "2021-06-13T15:30:13Z",
+        "duration": "PT1H43M38S",
+        "viewCount": "96409",
+        "likeCount": "2482",
+        "commentCount": "93"
+    },
+    {
+        "videoId": "sZ8GJ1TiMdk",
+        "title": "Writing My Own Malloc in C",
+        "publishedAt": "2021-06-11T16:00:12Z",
+        "duration": "PT2H7M13S",
+        "viewCount": "280963",
+        "likeCount": "6198",
+        "commentCount": "179"
+    },
+    {
+        "videoId": "HqfvWjoyDXs",
+        "title": "Proof That My Language is Turing Complete",
+        "publishedAt": "2021-06-10T15:00:13Z",
+        "duration": "PT2H8M50S",
+        "viewCount": "8075",
+        "likeCount": "188",
+        "commentCount": "10"
+    },
+    {
+        "videoId": "d6eUoBQ5sq4",
+        "title": "Adding Raw Pointers to My Language",
+        "publishedAt": "2021-06-08T15:30:12Z",
+        "duration": "PT2H29M42S",
+        "viewCount": "4520",
+        "likeCount": "98",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "Yjgh7bfh2FU",
+        "title": "Reimplementing JavaScript in JavaScript for Safer Eval",
+        "publishedAt": "2021-06-07T15:00:12Z",
+        "duration": "PT2H15M52S",
+        "viewCount": "11136",
+        "likeCount": "285",
+        "commentCount": "19"
+    },
+    {
+        "videoId": "MH56D5M9xSQ",
+        "title": "Regex Library in Rust from Scratch (Finite-State Machines)",
+        "publishedAt": "2021-06-05T15:00:13Z",
+        "duration": "PT2H14M17S",
+        "viewCount": "58186",
+        "likeCount": "1400",
+        "commentCount": "37"
+    },
+    {
+        "videoId": "kslvmVyf8f8",
+        "title": "what Functions ACTUALLY compile to",
+        "publishedAt": "2021-06-03T15:30:10Z",
+        "duration": "PT2H2M47S",
+        "viewCount": "2504",
+        "likeCount": "71",
+        "commentCount": "5"
+    },
+    {
+        "videoId": "K3Gnr2cEX9w",
+        "title": "what Loops actually compile to",
+        "publishedAt": "2021-06-02T15:00:14Z",
+        "duration": "PT2H17M4S",
+        "viewCount": "3274",
+        "likeCount": "95",
+        "commentCount": "10"
+    },
+    {
+        "videoId": "sFIh1U1y1xY",
+        "title": "Why do I need Global Variables in My Language?",
+        "publishedAt": "2021-06-01T16:00:20Z",
+        "duration": "PT2H31M58S",
+        "viewCount": "2727",
+        "likeCount": "80",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "mvpbWZLMDM0",
+        "title": "\"you can't just make websites without React\"",
+        "publishedAt": "2021-05-31T16:00:19Z",
+        "duration": "PT2H9M47S",
+        "viewCount": "6935",
+        "likeCount": "168",
+        "commentCount": "10"
+    },
+    {
+        "videoId": "Qn3g5KCkVCg",
+        "title": "Pizza Cursor",
+        "publishedAt": "2021-05-30T15:30:11Z",
+        "duration": "PT2H12M55S",
+        "viewCount": "1500",
+        "likeCount": "51",
+        "commentCount": "4"
+    },
+    {
+        "videoId": "zsIb2HPvtC4",
+        "title": "why do I have this counter on my screen?",
+        "publishedAt": "2021-05-30T14:43:55Z",
+        "duration": "PT10M1S",
+        "viewCount": "9365",
+        "likeCount": "299",
+        "commentCount": "5"
+    },
+    {
+        "videoId": "GhYjEgRZjR8",
+        "title": "program that prints itself",
+        "publishedAt": "2021-05-28T15:00:18Z",
+        "duration": "PT52M30S",
+        "viewCount": "8655",
+        "likeCount": "260",
+        "commentCount": "16"
+    },
+    {
+        "videoId": "yzVGwZIfKBM",
+        "title": "what If-Else actually compiles to",
+        "publishedAt": "2021-05-27T15:00:13Z",
+        "duration": "PT1H53M33S",
+        "viewCount": "6531",
+        "likeCount": "182",
+        "commentCount": "8"
+    },
+    {
+        "videoId": "L6hqn8ElThI",
+        "title": "How Programming Language is Parsed",
+        "publishedAt": "2021-05-26T15:00:12Z",
+        "duration": "PT1H53M46S",
+        "viewCount": "9550",
+        "likeCount": "231",
+        "commentCount": "15"
+    },
+    {
+        "videoId": "kuvHRziY-O4",
+        "title": "We Need Better Compiler Errors!",
+        "publishedAt": "2021-05-25T16:00:18Z",
+        "duration": "PT1H59M26S",
+        "viewCount": "6084",
+        "likeCount": "139",
+        "commentCount": "6"
+    },
+    {
+        "videoId": "tbF3a19mAls",
+        "title": "JavaScript is sus",
+        "publishedAt": "2021-05-25T13:00:15Z",
+        "duration": "PT1H59M48S",
+        "viewCount": "4371",
+        "likeCount": "96",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "9Ca_eWzTDAs",
+        "title": "Regex Madness in Go — Offline Stream #14",
+        "publishedAt": "2021-05-24T15:00:13Z",
+        "duration": "PT56M39S",
+        "viewCount": "6167",
+        "likeCount": "148",
+        "commentCount": "8"
+    },
+    {
+        "videoId": "yUGvLUPtgXY",
+        "title": "When UI Library is Bad — Offline Stream #13",
+        "publishedAt": "2021-05-23T22:00:17Z",
+        "duration": "PT2H12M50S",
+        "viewCount": "1926",
+        "likeCount": "41",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "0iXExZb_pU4",
+        "title": "2D Game Engine in C++ — Text Rendering — Offline Stream #12",
+        "publishedAt": "2021-05-22T15:00:16Z",
+        "duration": "PT1H51M17S",
+        "viewCount": "3698",
+        "likeCount": "67",
+        "commentCount": "4"
+    },
+    {
+        "videoId": "2qV-1JhxWeE",
+        "title": "Let's Talk About WebAssembly and WASI",
+        "publishedAt": "2021-05-21T15:01:26Z",
+        "duration": "PT2H9M33S",
+        "viewCount": "39923",
+        "likeCount": "1185",
+        "commentCount": "52"
+    },
+    {
+        "videoId": "2DRZCy0-1Zk",
+        "title": "My Own HTTP Client Library — Chunked Encoding — Offline Stream #10",
+        "publishedAt": "2021-05-20T23:00:16Z",
+        "duration": "PT2H20M36S",
+        "viewCount": "3811",
+        "likeCount": "89",
+        "commentCount": "5"
+    },
+    {
+        "videoId": "wWnjffo6gHc",
+        "title": "We Need to Bring GUI Libraries Back! — Offline Stream #09",
+        "publishedAt": "2021-05-19T22:00:18Z",
+        "duration": "PT1H52M26S",
+        "viewCount": "6359",
+        "likeCount": "135",
+        "commentCount": "8"
+    },
+    {
+        "videoId": "7a_YKCeMCMA",
+        "title": "My Own Programming Language in 2 Hours — Offline Stream #08",
+        "publishedAt": "2021-05-18T15:00:11Z",
+        "duration": "PT2H9M32S",
+        "viewCount": "35677",
+        "likeCount": "554",
+        "commentCount": "19"
+    },
+    {
+        "videoId": "56YQI_Kwv64",
+        "title": "How to Work with OpenGL Textures — Offline Stream #07",
+        "publishedAt": "2021-05-17T15:00:16Z",
+        "duration": "PT1H45M5S",
+        "viewCount": "1284",
+        "likeCount": "23",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "bAn5YmPmtXI",
+        "title": "My Own JavaScript Framework (grecha.js) — Offline Stream #06",
+        "publishedAt": "2021-05-16T15:00:16Z",
+        "duration": "PT1H53M38S",
+        "viewCount": "21546",
+        "likeCount": "457",
+        "commentCount": "24"
+    },
+    {
+        "videoId": "rb98WpStYS8",
+        "title": "Making a Platformer Game — Offline Stream #05",
+        "publishedAt": "2021-05-15T13:15:19Z",
+        "duration": "PT2H1M12S",
+        "viewCount": "1596",
+        "likeCount": "24",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "t-e8PBRPL6w",
+        "title": "Particle Simulation With OpenGL — Offline Stream #04",
+        "publishedAt": "2021-05-14T17:31:01Z",
+        "duration": "PT4H14M32S",
+        "viewCount": "12938",
+        "likeCount": "306",
+        "commentCount": "4"
+    },
+    {
+        "videoId": "kMwFyVpLNZw",
+        "title": "My Own HTTP Client Library in Pure C ­— Offline Stream #03",
+        "publishedAt": "2021-05-13T14:00:13Z",
+        "duration": "PT2H49M18S",
+        "viewCount": "50747",
+        "likeCount": "1100",
+        "commentCount": "27"
+    },
+    {
+        "videoId": "mq3UXqPmBE8",
+        "title": "OpenGL Text Rendering for My Immediate UI Library — Offline Stream #02",
+        "publishedAt": "2021-05-12T20:27:59Z",
+        "duration": "PT2H41S",
+        "viewCount": "7379",
+        "likeCount": "139",
+        "commentCount": "12"
+    },
+    {
+        "videoId": "9yt7oWciNfM",
+        "title": "Offline Stream #01 — Programming Language And Virtual Machine",
+        "publishedAt": "2021-05-12T12:49:37Z",
+        "duration": "PT1H53M8S",
+        "viewCount": "4707",
+        "likeCount": "88",
+        "commentCount": "11"
+    },
+    {
+        "videoId": "JtKZGltvUBc",
+        "title": "Doubly-Linked List in Rust",
+        "publishedAt": "2021-05-05T16:26:06Z",
+        "duration": "PT2H24M20S",
+        "viewCount": "9864",
+        "likeCount": "195",
+        "commentCount": "20"
+    },
+    {
+        "videoId": "YBzNFt4wapA",
+        "title": "Hash Table in Rust",
+        "publishedAt": "2021-05-03T20:18:54Z",
+        "duration": "PT2H54M25S",
+        "viewCount": "17718",
+        "likeCount": "398",
+        "commentCount": "19"
+    },
+    {
+        "videoId": "8iEN64bj3X4",
+        "title": "Learning Vulkan with Rust",
+        "publishedAt": "2021-04-23T17:46:14Z",
+        "duration": "PT4H35M37S",
+        "viewCount": "52056",
+        "likeCount": "900",
+        "commentCount": "58"
+    },
+    {
+        "videoId": "weRRlkbw0FE",
+        "title": "Inverting File Tree in C++",
+        "publishedAt": "2021-04-21T19:23:16Z",
+        "duration": "PT2H2M9S",
+        "viewCount": "2270",
+        "likeCount": "39",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "JyDGRI9KjD0",
+        "title": "Rewriting My Game in Rust",
+        "publishedAt": "2021-04-02T15:35:12Z",
+        "duration": "PT3H11M21S",
+        "viewCount": "10316",
+        "likeCount": "192",
+        "commentCount": "10"
+    },
+    {
+        "videoId": "rFp6ORPIEMY",
+        "title": "Assembly in C — Day 20",
+        "publishedAt": "2021-03-22T18:14:51Z",
+        "duration": "PT3H54M36S",
+        "viewCount": "5221",
+        "likeCount": "56",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "W0vh5VXqN3A",
+        "title": "Wrapping C libraries in Rust",
+        "publishedAt": "2021-03-20T15:21:52Z",
+        "duration": "PT3H26M37S",
+        "viewCount": "4979",
+        "likeCount": "119",
+        "commentCount": "7"
+    },
+    {
+        "videoId": "ZzAYx9h3Qj0",
+        "title": "3D lighting with OpenGL on Linux",
+        "publishedAt": "2021-03-13T18:20:49Z",
+        "duration": "PT4H26M5S",
+        "viewCount": "1965",
+        "likeCount": "33",
+        "commentCount": "0"
+    },
+    {
+        "videoId": "WpxTWP3v-fQ",
+        "title": "OpenGL Hot-Reloading",
+        "publishedAt": "2021-03-12T21:06:15Z",
+        "duration": "PT4H12M45S",
+        "viewCount": "1436",
+        "likeCount": "19",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "dPvA3PuK2Y4",
+        "title": "OpenGL Perspective Projection",
+        "publishedAt": "2021-03-10T19:54:11Z",
+        "duration": "PT3H25M40S",
+        "viewCount": "1492",
+        "likeCount": "17",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "eqy3uEX1T3E",
+        "title": "OpenGL 3D Texturing",
+        "publishedAt": "2021-03-09T20:30:15Z",
+        "duration": "PT3H37M31S",
+        "viewCount": "2283",
+        "likeCount": "31",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "Om-LVyWEm1k",
+        "title": "3D in OpenGL",
+        "publishedAt": "2021-03-08T20:08:19Z",
+        "duration": "PT4H56M1S",
+        "viewCount": "9635",
+        "likeCount": "156",
+        "commentCount": "10"
+    },
+    {
+        "videoId": "L3iHLDfuGZs",
+        "title": "Assembly in C — Day 19",
+        "publishedAt": "2021-03-02T20:46:15Z",
+        "duration": "PT5H15M30S",
+        "viewCount": "3152",
+        "likeCount": "49",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "8iHEamIoFeA",
+        "title": "Virtual Machine in C — Day 18",
+        "publishedAt": "2021-02-28T20:17:56Z",
+        "duration": "PT5H44M21S",
+        "viewCount": "3003",
+        "likeCount": "32",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "rbSw10OPEGw",
+        "title": "Small Demo Game in C++",
+        "publishedAt": "2021-02-27T20:28:31Z",
+        "duration": "PT3H51M21S",
+        "viewCount": "3790",
+        "likeCount": "42",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "zQvZuHZExEY",
+        "title": "Virtual Machine in C — Day 17",
+        "publishedAt": "2021-02-26T20:34:48Z",
+        "duration": "PT4H33M18S",
+        "viewCount": "1387",
+        "likeCount": "20",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "TFBEtx6a_xI",
+        "title": "Virtual Machine in C — Compile-Time Expressions — Day 16",
+        "publishedAt": "2021-02-25T20:35:15Z",
+        "duration": "PT3H57M49S",
+        "viewCount": "1338",
+        "likeCount": "18",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "_Kt3RHo5XvI",
+        "title": "Virtual Machine in C — Day 15",
+        "publishedAt": "2021-02-24T20:51:54Z",
+        "duration": "PT3H44M12S",
+        "viewCount": "1045",
+        "likeCount": "18",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "iXTtIIwbcPI",
+        "title": "Virtual Machine in C — Day 14",
+        "publishedAt": "2021-02-21T20:54:21Z",
+        "duration": "PT4H25M31S",
+        "viewCount": "1123",
+        "likeCount": "21",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "L0j--ehMfqE",
+        "title": "Learning WebGL",
+        "publishedAt": "2021-02-20T15:04:21Z",
+        "duration": "PT4H4M26S",
+        "viewCount": "5384",
+        "likeCount": "109",
+        "commentCount": "5"
+    },
+    {
+        "videoId": "hVQqePQSBRI",
+        "title": "Simulating Computer — Cellular Automata — Day 4",
+        "publishedAt": "2021-02-19T21:28:00Z",
+        "duration": "PT4H7M26S",
+        "viewCount": "1904",
+        "likeCount": "31",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "fRqMsVeW72k",
+        "title": "Recovered After I Crashed My System — Cellular Automata — Day 3 — Part 2",
+        "publishedAt": "2021-02-18T20:31:05Z",
+        "duration": "PT4H3M19S",
+        "viewCount": "959",
+        "likeCount": "22",
+        "commentCount": "0"
+    },
+    {
+        "videoId": "Ry7LxQ0s3m4",
+        "title": "This Code Crashed My System — Cellular Automata — Day 3 — Part 1",
+        "publishedAt": "2021-02-17T21:39:49Z",
+        "duration": "PT57M5S",
+        "viewCount": "894",
+        "likeCount": "21",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "5Ks-HRrHBbw",
+        "title": "Cellular Automata — Part 2",
+        "publishedAt": "2021-02-15T19:56:42Z",
+        "duration": "PT3H34M3S",
+        "viewCount": "1503",
+        "likeCount": "20",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "z9y1SDjl0YQ",
+        "title": "Cellular Automata — Part 1",
+        "publishedAt": "2021-02-14T21:02:58Z",
+        "duration": "PT4H24M31S",
+        "viewCount": "6468",
+        "likeCount": "108",
+        "commentCount": "6"
+    },
+    {
+        "videoId": "NtEZ9MkxYlk",
+        "title": "Build System in C — Part 4 — Pipes",
+        "publishedAt": "2021-02-10T20:04:50Z",
+        "duration": "PT4H2M55S",
+        "viewCount": "1715",
+        "likeCount": "29",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "DaNn7yKogIY",
+        "title": "Build System in C — Part 3",
+        "publishedAt": "2021-02-09T21:20:35Z",
+        "duration": "PT4H18M53S",
+        "viewCount": "1368",
+        "likeCount": "22",
+        "commentCount": "6"
+    },
+    {
+        "videoId": "J5-VvGo4QqY",
+        "title": "Learning JavaScript — Part 2",
+        "publishedAt": "2021-02-07T20:17:01Z",
+        "duration": "PT5H36M48S",
+        "viewCount": "7411",
+        "likeCount": "139",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "o3apbMOfdTI",
+        "title": "Learning JavaScript — Part 1",
+        "publishedAt": "2021-02-06T19:38:17Z",
+        "duration": "PT5H6M24S",
+        "viewCount": "58260",
+        "likeCount": "1064",
+        "commentCount": "74"
+    },
+    {
+        "videoId": "s_YZsDikLfE",
+        "title": "AoC 2019 in Haskell — Days 11 and 12.5",
+        "publishedAt": "2021-02-04T20:36:06Z",
+        "duration": "PT3H27M29S",
+        "viewCount": "1291",
+        "likeCount": "20",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "Op7hStXud4s",
+        "title": "New Build System in C — Part 2",
+        "publishedAt": "2021-02-03T05:42:58Z",
+        "duration": "PT3H48M32S",
+        "viewCount": "2990",
+        "likeCount": "59",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "n47AFxc1ksE",
+        "title": "New Build System in C — Part 1",
+        "publishedAt": "2021-02-02T19:34:26Z",
+        "duration": "PT4H1M26S",
+        "viewCount": "20016",
+        "likeCount": "347",
+        "commentCount": "13"
+    },
+    {
+        "videoId": "4ZuavBGRwtc",
+        "title": "Virtual Machine and Assembly in C — Day 13",
+        "publishedAt": "2021-01-28T16:24:11Z",
+        "duration": "PT4H24M5S",
+        "viewCount": "1374",
+        "likeCount": "28",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "sjZI_lzFZac",
+        "title": "[24-01-2021] Game Development in C++",
+        "publishedAt": "2021-01-26T17:21:32Z",
+        "duration": "PT1H43S",
+        "viewCount": "1272",
+        "likeCount": "12",
+        "commentCount": "0"
+    },
+    {
+        "videoId": "kdD9sE_1YrE",
+        "title": "[23-01-2021] Game Development in C/C++",
+        "publishedAt": "2021-01-26T17:21:05Z",
+        "duration": "PT3H57M13S",
+        "viewCount": "1185",
+        "likeCount": "14",
+        "commentCount": "4"
+    },
+    {
+        "videoId": "qJAuyoDt03A",
+        "title": "Game of Life in Ada",
+        "publishedAt": "2021-01-25T16:39:16Z",
+        "duration": "PT1H33M31S",
+        "viewCount": "14309",
+        "likeCount": "325",
+        "commentCount": "12"
+    },
+    {
+        "videoId": "K242-Hh_I8w",
+        "title": "AoC 2019 in Haskell — Day 10 — Post-Mortem",
+        "publishedAt": "2021-01-24T17:09:02Z",
+        "duration": "PT1H8M12S",
+        "viewCount": "884",
+        "likeCount": "20",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "QqravLVpoI8",
+        "title": "Checking out Raylib — Part 2 — 3D Game Development",
+        "publishedAt": "2021-01-23T18:58:43Z",
+        "duration": "PT3H30M48S",
+        "viewCount": "13582",
+        "likeCount": "225",
+        "commentCount": "12"
+    },
+    {
+        "videoId": "ja1NyFxaz2w",
+        "title": "Virtual Machine in C — Day 12",
+        "publishedAt": "2021-01-22T20:22:52Z",
+        "duration": "PT3H56M38S",
+        "viewCount": "1129",
+        "likeCount": "26",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "-4l9XAgSm24",
+        "title": "Virtual Machine in C — Day 11",
+        "publishedAt": "2021-01-22T20:22:46Z",
+        "duration": "PT4H1M54S",
+        "viewCount": "2814",
+        "likeCount": "36",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "sbRLzFIHDsM",
+        "title": "Virtual Machine in C — Day 10",
+        "publishedAt": "2021-01-22T20:22:41Z",
+        "duration": "PT5H32M24S",
+        "viewCount": "1439",
+        "likeCount": "34",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "fHojJ9Nxb0E",
+        "title": "Checking out raylib",
+        "publishedAt": "2021-01-18T18:07:51Z",
+        "duration": "PT4H59M55S",
+        "viewCount": "22090",
+        "likeCount": "365",
+        "commentCount": "19"
+    },
+    {
+        "videoId": "gtk2gBOXsNs",
+        "title": "Game Programming in C/C++",
+        "publishedAt": "2021-01-17T17:44:42Z",
+        "duration": "PT3H59M50S",
+        "viewCount": "6964",
+        "likeCount": "119",
+        "commentCount": "5"
+    },
+    {
+        "videoId": "nicCW5lFxDU",
+        "title": "Crystal Programming Language",
+        "publishedAt": "2021-01-17T09:44:07Z",
+        "duration": "PT4H2M2S",
+        "viewCount": "12026",
+        "likeCount": "243",
+        "commentCount": "20"
+    },
+    {
+        "videoId": "AxxugfftIeY",
+        "title": "Advent of Code 2019 in Haskell — Days 7, 8, 9 — Source Code: https://github.com/tsoding/aoc-2019",
+        "publishedAt": "2021-01-16T16:32:42Z",
+        "duration": "PT5H26M41S",
+        "viewCount": "1446",
+        "likeCount": "24",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "LOkQz_V2WN0",
+        "title": "Programming in Assembly — Virtual Machine in C — Day 9",
+        "publishedAt": "2021-01-14T15:55:28Z",
+        "duration": "PT5H20M37S",
+        "viewCount": "2226",
+        "likeCount": "42",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "3rfxiuhPtPE",
+        "title": "Generating x86_64 Assembly — Virtual Machine in C — Day 8",
+        "publishedAt": "2021-01-14T08:50:54Z",
+        "duration": "PT4H57M31S",
+        "viewCount": "2784",
+        "likeCount": "63",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "D2eeqV6VlPQ",
+        "title": "Virtual Machine in C — Day 7",
+        "publishedAt": "2021-01-14T05:51:52Z",
+        "duration": "PT4H54M59S",
+        "viewCount": "1976",
+        "likeCount": "42",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "-wbMVnkCgOk",
+        "title": "Programming in Ada — Part 2",
+        "publishedAt": "2021-01-12T17:15:08Z",
+        "duration": "PT4H30M42S",
+        "viewCount": "3149",
+        "likeCount": "49",
+        "commentCount": "15"
+    },
+    {
+        "videoId": "ljeYMzDThMY",
+        "title": "Programming in Ada — Part 1",
+        "publishedAt": "2021-01-11T07:25:37Z",
+        "duration": "PT5H9M53S",
+        "viewCount": "12122",
+        "likeCount": "193",
+        "commentCount": "25"
+    },
+    {
+        "videoId": "Gynv6lAT8Qo",
+        "title": "Advent of Code 2019 in Haskell (First Try Edition) — Day 4, 5, 6",
+        "publishedAt": "2021-01-09T17:20:15Z",
+        "duration": "PT4H48M52S",
+        "viewCount": "1904",
+        "likeCount": "33",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "cBZgWLJ9EhA",
+        "title": "Writing Virtual Machine in C — Day 6",
+        "publishedAt": "2021-01-08T04:58:56Z",
+        "duration": "PT4H11M27S",
+        "viewCount": "3871",
+        "likeCount": "70",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "k6qk6lT4S3U",
+        "title": "Writing Virtual Machine in C — Day 5",
+        "publishedAt": "2021-01-06T20:02:51Z",
+        "duration": "PT4H33M31S",
+        "viewCount": "4089",
+        "likeCount": "70",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "X7bSMKUgKVc",
+        "title": "Writing Virtual Machine in C — Day 4",
+        "publishedAt": "2021-01-05T20:02:50Z",
+        "duration": "PT4H13M",
+        "viewCount": "6163",
+        "likeCount": "108",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "BeHO-I0j4lg",
+        "title": "This is Just C++ GameDev",
+        "publishedAt": "2021-01-04T17:46:48Z",
+        "duration": "PT3H39M4S",
+        "viewCount": "1752",
+        "likeCount": "26",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "m4gVWZ_OkG4",
+        "title": "Bézier Curves using OpenGL Fragment Shader — Day 2",
+        "publishedAt": "2021-01-03T16:48:18Z",
+        "duration": "PT4H21M23S",
+        "viewCount": "6897",
+        "likeCount": "95",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "2oKzBq43ShE",
+        "title": "Coding Bézier Curves — Day 1",
+        "publishedAt": "2021-01-02T15:39:39Z",
+        "duration": "PT3H27M54S",
+        "viewCount": "9013",
+        "likeCount": "173",
+        "commentCount": "5"
+    },
+    {
+        "videoId": "TvggHBRaGqs",
+        "title": "Advent of Code 2019 in Haskell — Day 1, 2, 3",
+        "publishedAt": "2021-01-01T17:57:26Z",
+        "duration": "PT4H52M36S",
+        "viewCount": "7916",
+        "likeCount": "121",
+        "commentCount": "8"
+    },
+    {
+        "videoId": "LN9vrbBNG64",
+        "title": "Writing VM for my Lisp in C — Day 3",
+        "publishedAt": "2020-12-31T19:47:57Z",
+        "duration": "PT5H2M35S",
+        "viewCount": "8836",
+        "likeCount": "148",
+        "commentCount": "9"
+    },
+    {
+        "videoId": "9td67NTtNCg",
+        "title": "Writing VM for my Lisp in C — Day 2",
+        "publishedAt": "2020-12-30T18:02:05Z",
+        "duration": "PT5H28M7S",
+        "viewCount": "16932",
+        "likeCount": "258",
+        "commentCount": "6"
+    },
+    {
+        "videoId": "0irYsCYuZws",
+        "title": "Writing VM for my Lisp in C — Day 1",
+        "publishedAt": "2020-12-29T20:02:17Z",
+        "duration": "PT4H27M26S",
+        "viewCount": "83314",
+        "likeCount": "1343",
+        "commentCount": "51"
+    },
+    {
+        "videoId": "oUhmRDaUE78",
+        "title": "GameDev in C++ with SDL2 on Linux",
+        "publishedAt": "2020-12-28T18:36:12Z",
+        "duration": "PT3H54M8S",
+        "viewCount": "4432",
+        "likeCount": "69",
+        "commentCount": "9"
+    },
+    {
+        "videoId": "6m7PSAkbelE",
+        "title": "Advent of Code 2020 — Day 25 in Assembly (The Final Boss)",
+        "publishedAt": "2020-12-27T17:04:43Z",
+        "duration": "PT4H56M7S",
+        "viewCount": "5476",
+        "likeCount": "114",
+        "commentCount": "5"
+    },
+    {
+        "videoId": "5ChNYG81tS0",
+        "title": "Advent of Code — Day 24 in Ada",
+        "publishedAt": "2020-12-26T17:23:15Z",
+        "duration": "PT5H2M20S",
+        "viewCount": "3121",
+        "likeCount": "68",
+        "commentCount": "4"
+    },
+    {
+        "videoId": "p_wl80ugHSc",
+        "title": "Advent of Code — Day 23 in Dart",
+        "publishedAt": "2020-12-25T17:12:57Z",
+        "duration": "PT3H45M28S",
+        "viewCount": "4493",
+        "likeCount": "86",
+        "commentCount": "4"
+    },
+    {
+        "videoId": "mq3ZIGRgZOA",
+        "title": "Advent of Code — Day 22 in Groovy",
+        "publishedAt": "2020-12-24T16:22:21Z",
+        "duration": "PT3H21M32S",
+        "viewCount": "1871",
+        "likeCount": "36",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "tP98VjF9Ljo",
+        "title": "Advent of Code — Day 21 in Racket",
+        "publishedAt": "2020-12-23T16:40:38Z",
+        "duration": "PT4H41M31S",
+        "viewCount": "3602",
+        "likeCount": "70",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "vvvO8QQtW7Q",
+        "title": "Advent of Code 2020 — Day 20 in Julia",
+        "publishedAt": "2020-12-22T20:15:03Z",
+        "duration": "PT5H9M7S",
+        "viewCount": "5613",
+        "likeCount": "96",
+        "commentCount": "6"
+    },
+    {
+        "videoId": "6lFNgR5DkFg",
+        "title": "Advent of Code 2020 — Day 19 in Lua",
+        "publishedAt": "2020-12-21T16:28:43Z",
+        "duration": "PT4H7M37S",
+        "viewCount": "4630",
+        "likeCount": "81",
+        "commentCount": "4"
+    },
+    {
+        "videoId": "gGDuoey_TnE",
+        "title": "Advent of Code 2020 — Day 18 in Kotlin",
+        "publishedAt": "2020-12-20T14:35:54Z",
+        "duration": "PT3H4M50S",
+        "viewCount": "2784",
+        "likeCount": "48",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "rKPG4bGQLGk",
+        "title": "Advent of Code 2020 — Day 17 in Scala — Spam Filter in Haskell Later",
+        "publishedAt": "2020-12-19T13:55:53Z",
+        "duration": "PT3H55M51S",
+        "viewCount": "6364",
+        "likeCount": "102",
+        "commentCount": "5"
+    },
+    {
+        "videoId": "xb-yZhokKSw",
+        "title": "Advent of Code 2020 — Day 16 in Ruby",
+        "publishedAt": "2020-12-18T16:51:26Z",
+        "duration": "PT2H34M11S",
+        "viewCount": "3787",
+        "likeCount": "70",
+        "commentCount": "8"
+    },
+    {
+        "videoId": "ech9Re2bi_E",
+        "title": "Advent of Code 2020 — Day 15 in Pascal — C++ Programming Later",
+        "publishedAt": "2020-12-17T19:43:39Z",
+        "duration": "PT3H59M33S",
+        "viewCount": "2135",
+        "likeCount": "30",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "95ooXiwVeMM",
+        "title": "Advent of Code 2020 — Day 14 in PHP",
+        "publishedAt": "2020-12-16T18:17:08Z",
+        "duration": "PT3H48M17S",
+        "viewCount": "4730",
+        "likeCount": "62",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "i2bya8kNXjw",
+        "title": "C# on Linux — Advent of Code 2020 Day 13",
+        "publishedAt": "2020-12-15T16:34:29Z",
+        "duration": "PT4H39M2S",
+        "viewCount": "13345",
+        "likeCount": "202",
+        "commentCount": "20"
+    },
+    {
+        "videoId": "R00JE6QRbno",
+        "title": "Advent of Code 2020 — Day 12 in Perl — GameDev in C++ Later",
+        "publishedAt": "2020-12-14T18:57:31Z",
+        "duration": "PT4H20M44S",
+        "viewCount": "4044",
+        "likeCount": "68",
+        "commentCount": "5"
+    },
+    {
+        "videoId": "lHzbWWjdloM",
+        "title": "Advent of Code 2020 — Day 10 and 11 in C and Nim",
+        "publishedAt": "2020-12-13T15:52:30Z",
+        "duration": "PT2H31M22S",
+        "viewCount": "3435",
+        "likeCount": "64",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "s74qbeeBb9U",
+        "title": "Spam Filter in Haskell",
+        "publishedAt": "2020-12-12T14:25:35Z",
+        "duration": "PT3H34M38S",
+        "viewCount": "13136",
+        "likeCount": "260",
+        "commentCount": "6"
+    },
+    {
+        "videoId": "a8vogmPtlXE",
+        "title": "Advent of Code 2020 — Day 9 in OCaml",
+        "publishedAt": "2020-12-12T04:02:56Z",
+        "duration": "PT1H21M41S",
+        "viewCount": "5128",
+        "likeCount": "92",
+        "commentCount": "6"
+    },
+    {
+        "videoId": "8aYjw62hxTY",
+        "title": "Advent of Code 2020 Day 8 in JavaScript — TUI framework in Rust later",
+        "publishedAt": "2020-12-10T14:14:20Z",
+        "duration": "PT3H32M4S",
+        "viewCount": "7595",
+        "likeCount": "91",
+        "commentCount": "8"
+    },
+    {
+        "videoId": "FXPmwFubyDE",
+        "title": "Advent of Code 2020 Day 7 in Go — TUI framework in Rust Later",
+        "publishedAt": "2020-12-09T18:44:31Z",
+        "duration": "PT3H16M51S",
+        "viewCount": "6106",
+        "likeCount": "62",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "vVjNyY2jkqg",
+        "title": "Advent of Code 2020 Days 5 and 6 in C++ and Python — Lisp Interpreter in C Later",
+        "publishedAt": "2020-12-08T14:15:03Z",
+        "duration": "PT3H53M11S",
+        "viewCount": "14137",
+        "likeCount": "169",
+        "commentCount": "7"
+    },
+    {
+        "videoId": "cvvNfuS4BwI",
+        "title": "Advent of Code 2020 in D",
+        "publishedAt": "2020-12-07T14:45:39Z",
+        "duration": "PT3H30M47S",
+        "viewCount": "4505",
+        "likeCount": "61",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "mlth0Bn18Vs",
+        "title": "Advent of Code 2020 in Java — Game Development in C++ Later",
+        "publishedAt": "2020-12-06T14:57:10Z",
+        "duration": "PT2H38M44S",
+        "viewCount": "5711",
+        "likeCount": "114",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "DDnylUPL_pc",
+        "title": "KeyLogger for Linux (educational)",
+        "publishedAt": "2020-12-05T14:12:48Z",
+        "duration": "PT2H41M46S",
+        "viewCount": "3025",
+        "likeCount": "59",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "C_P_KVsXeVk",
+        "title": "Advent of Code 2020 in Haskell + Code Review",
+        "publishedAt": "2020-12-04T13:10:11Z",
+        "duration": "PT2H5M40S",
+        "viewCount": "7610",
+        "likeCount": "98",
+        "commentCount": "4"
+    },
+    {
+        "videoId": "uodcgWA8trs",
+        "title": "Advent of Code 2020 in Rust",
+        "publishedAt": "2020-12-03T14:52:43Z",
+        "duration": "PT2H51M45S",
+        "viewCount": "12870",
+        "likeCount": "126",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "PQFJZZKAj1s",
+        "title": "TUI framework in Rust",
+        "publishedAt": "2020-12-02T12:52:21Z",
+        "duration": "PT3H40M37S",
+        "viewCount": "2395",
+        "likeCount": "25",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "VqZzuUpFiUI",
+        "title": "GameDev in C++ — Stomping Attack",
+        "publishedAt": "2020-12-01T13:58:00Z",
+        "duration": "PT3H54M40S",
+        "viewCount": "1087",
+        "likeCount": "11",
+        "commentCount": "0"
+    },
+    {
+        "videoId": "MSB7p-Ed_oM",
+        "title": "Birthday Stream — Finally a 30yo C++ Cooder",
+        "publishedAt": "2020-11-30T14:13:29Z",
+        "duration": "PT2H55M50S",
+        "viewCount": "1963",
+        "likeCount": "26",
+        "commentCount": "6"
+    },
+    {
+        "videoId": "wbjF5AlfNM0",
+        "title": "Time Displacement in Rust",
+        "publishedAt": "2020-11-29T16:34:53Z",
+        "duration": "PT4H33M37S",
+        "viewCount": "989",
+        "likeCount": "25",
+        "commentCount": "4"
+    },
+    {
+        "videoId": "Q4VWCOgk6wc",
+        "title": "Trying Kotlin for the First Time",
+        "publishedAt": "2020-11-28T14:44:23Z",
+        "duration": "PT3H16M4S",
+        "viewCount": "21536",
+        "likeCount": "343",
+        "commentCount": "28"
+    },
+    {
+        "videoId": "e9aJ9en31oI",
+        "title": "Hash Table in C++",
+        "publishedAt": "2020-11-26T14:04:30Z",
+        "duration": "PT2H30M11S",
+        "viewCount": "7808",
+        "likeCount": "149",
+        "commentCount": "7"
+    },
+    {
+        "videoId": "XBK1ob6kgo0",
+        "title": "TUI Rust Framework",
+        "publishedAt": "2020-11-25T14:35:29Z",
+        "duration": "PT4H6M3S",
+        "viewCount": "8619",
+        "likeCount": "105",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "ziXgdkTfmPU",
+        "title": "IRC client in OCaml",
+        "publishedAt": "2020-11-24T17:33:29Z",
+        "duration": "PT4H30M32S",
+        "viewCount": "7643",
+        "likeCount": "113",
+        "commentCount": "6"
+    },
+    {
+        "videoId": "IIq_YvauxRo",
+        "title": "Game Development from Scratch in C++ and SDL Ep.N+6",
+        "publishedAt": "2020-11-23T17:22:43Z",
+        "duration": "PT3H8M19S",
+        "viewCount": "1544",
+        "likeCount": "18",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "3iDCA1_k1q8",
+        "title": "Game Development from Scratch in C++ and SDL Ep.N+5",
+        "publishedAt": "2020-11-22T13:37:05Z",
+        "duration": "PT3H49M22S",
+        "viewCount": "1247",
+        "likeCount": "11",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "Y5IIXUBXvLs",
+        "title": "Fast Parser Combinator Library from Scratch in OCaml (no dependencies)",
+        "publishedAt": "2020-11-21T14:03:00Z",
+        "duration": "PT3H42M52S",
+        "viewCount": "18719",
+        "likeCount": "317",
+        "commentCount": "9"
+    },
+    {
+        "videoId": "TXbRQU8fgOc",
+        "title": "Visual Chat Generator Programming",
+        "publishedAt": "2020-11-20T06:00:43Z",
+        "duration": "PT3H39M2S",
+        "viewCount": "862",
+        "likeCount": "9",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "AiElX4Y8M-8",
+        "title": "GUI framework in Rust — Part 3",
+        "publishedAt": "2020-11-18T16:21:29Z",
+        "duration": "PT4H17M27S",
+        "viewCount": "2906",
+        "likeCount": "28",
+        "commentCount": "0"
+    },
+    {
+        "videoId": "BE9-brTTSOs",
+        "title": "Code Review",
+        "publishedAt": "2020-11-17T16:57:26Z",
+        "duration": "PT3H16M20S",
+        "viewCount": "1140",
+        "likeCount": "16",
+        "commentCount": "0"
+    },
+    {
+        "videoId": "HzDQYr-jHoI",
+        "title": "Game Development in C++ from Scratch Ep.N+4",
+        "publishedAt": "2020-11-16T16:51:38Z",
+        "duration": "PT4H17M",
+        "viewCount": "858",
+        "likeCount": "13",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "bfrk1sPDn0g",
+        "title": "Game Development in C++ from Scratch Ep.N+3",
+        "publishedAt": "2020-11-15T14:39:31Z",
+        "duration": "PT3H20M44S",
+        "viewCount": "2215",
+        "likeCount": "27",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "7ypy9Q0Jmag",
+        "title": "Genetic Programming in C — Part 4",
+        "publishedAt": "2020-11-14T15:48:49Z",
+        "duration": "PT3H59M",
+        "viewCount": "2489",
+        "likeCount": "33",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "ODFB68nYIn0",
+        "title": "Tsoding | Text to Video Renderer in C++ Ep.N+2",
+        "publishedAt": "2020-11-12T09:32:08Z",
+        "duration": "PT3H10M57S",
+        "viewCount": "1001",
+        "likeCount": "19",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "4l2HpNf6YZg",
+        "title": "Tsoding | Custom TUI Framework in Rust Ep.02",
+        "publishedAt": "2020-11-11T09:24:41Z",
+        "duration": "PT3H30M32S",
+        "viewCount": "1572",
+        "likeCount": "19",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "glGbw50Vn_g",
+        "title": "Genetic Programming in C — Part 3",
+        "publishedAt": "2020-11-10T07:52:08Z",
+        "duration": "PT4H10M59S",
+        "viewCount": "3265",
+        "likeCount": "42",
+        "commentCount": "1"
+    },
+    {
+        "videoId": "YL-UeqCT83Y",
+        "title": "Tsoding on Twitch | GameDev in C++ from Scratch Ep.N+2",
+        "publishedAt": "2020-11-09T08:59:30Z",
+        "duration": "PT4H13M30S",
+        "viewCount": "10903",
+        "likeCount": "50",
+        "commentCount": "6"
+    },
+    {
+        "videoId": "2YSztlmgpks",
+        "title": "Genetic Programming in C — Part 2",
+        "publishedAt": "2020-11-08T14:57:13Z",
+        "duration": "PT3H51M21S",
+        "viewCount": "3180",
+        "likeCount": "51",
+        "commentCount": "3"
+    },
+    {
+        "videoId": "iL--xqGgd0g",
+        "title": "Genetic Programming in C — Part 1",
+        "publishedAt": "2020-11-07T05:49:57Z",
+        "duration": "PT3H53M57S",
+        "viewCount": "16233",
+        "likeCount": "269",
+        "commentCount": "13"
+    },
+    {
+        "videoId": "d9gDx35TdNI",
+        "title": "Tsoding on Twitch | Checking out HarfBuzz | Text to Video Renderer in C++ Ep.N+1",
+        "publishedAt": "2020-11-05T04:34:43Z",
+        "duration": "PT2H57M9S",
+        "viewCount": "5057",
+        "likeCount": "62",
+        "commentCount": "5"
+    },
+    {
+        "videoId": "oWB666_8lKo",
+        "title": "Tsoding on Twitch | Custom TUI Framework in Rust | cm development Ep. N+1",
+        "publishedAt": "2020-11-03T18:08:20Z",
+        "duration": "PT3H54M33S",
+        "viewCount": "10188",
+        "likeCount": "128",
+        "commentCount": "4"
+    },
+    {
+        "videoId": "aKiuNhNjrgA",
+        "title": "Tsoding on Twitch | Programming Turing Machine in D | Friday One-Off Stream",
+        "publishedAt": "2020-11-02T16:14:15Z",
+        "duration": "PT3H9M50S",
+        "viewCount": "6039",
+        "likeCount": "85",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "y5Fs9nOmFqE",
+        "title": "Tsoding on Twitch | Code Review and Haskell Later | Monday Stream",
+        "publishedAt": "2020-11-02T14:21:15Z",
+        "duration": "PT2H42S",
+        "viewCount": "4194",
+        "likeCount": "63",
+        "commentCount": "2"
+    },
+    {
+        "videoId": "LyJkcv_rL9Y",
+        "title": "Tsoding on Twitch | GameDev in C++ from Scratch Ep.N+1",
+        "publishedAt": "2020-11-02T05:56:25Z",
+        "duration": "PT2H54M33S",
+        "viewCount": "35173",
+        "likeCount": "417",
+        "commentCount": "40"
+    }
+]
